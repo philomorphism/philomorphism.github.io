@@ -1,0 +1,2 @@
+#people 
+src: [icts](https://www.icts.res.in/people/suvrat-raju), [site](https://www.suvratraju.net/biocv), [wikipedia](https://en.wikipedia.org/wiki/Suvrat_Raju), [arxiv](https://arxiv.org/a/raju_s_1.html), [scholar](https://scholar.google.com/citations?user=9hhneOQAAAAJ&hl=en), [inspire](https://inspirehep.net/authors/1053745), 

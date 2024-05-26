@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "44a915d236715c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3efa367ddbfed8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f86337a1c41bb419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consciousness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7966be6e9db52995",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07c1013a2ba1e5d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "902914097d9175e6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Xinyaanzyoy",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a6913204d6cb1ddd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dd10639b7200609b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "8cefa514b255df72",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2dc589d6efb00dae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd93b5dfe53b3bc7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Consciousness.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7c3329b077df377",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Consciousness.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "52fbd4a01f024502",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Consciousness.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "f86337a1c41bb419",
+  "lastOpenFiles": [
+    "deep learning.md",
+    "machine learning.md",
+    "categorical probability theory.md",
+    "TED books.md",
+    "Categorical Cybernetics.md",
+    "Introduction to real analysis by bartle and sherbert.md",
+    "policy making.md",
+    "AI Safety.md",
+    "wiki-files/David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf",
+    "public_journal/2023-07-20.md",
+    "language.md",
+    "Bengali.md",
+    "Berkeley Physics Course Series.md",
+    "Aerospace Engineering.md",
+    "Gray's Anatomy.md",
+    "Medicine.md",
+    "propulsion.md",
+    "wiki-files/economou2016.pdf",
+    "Encyclopedia of Aerospace Engineering.md",
+    "Breakthrough Propulsion Physics Program.md",
+    "wiki-files/(Graduate Texts in Mathematics 11) John B. Conway (auth.) - Functions of One Complex Variable-Springer US (1973).pdf",
+    "Complex Analysis by John Conway.md",
+    "Complex Analysis by Lars Ahlfors.md",
+    "wiki-files/Complex Analysis (Third Editio - Unknown_25.pdf",
+    "public_journal/2023-07-02.md",
+    "Paninian grammar as a Topos.md",
+    "public_journal/2023-06-27.md",
+    "reading.md",
+    "spatial cognition.md",
+    "tools for thought.md",
+    "wiki-files/IFE-Basic-Research-Needs-Final-Report.pdf",
+    "wiki-files/Quantum_darwinism.pdf",
+    "Pasted image 20240420225701.png",
+    "wiki-files/burge2010.pdf",
+    "wiki-files/Metric Spaces (Mícheál Ó Searc - Unknown_80.pdf",
+    "wiki-files/(Undergraduate Texts in Mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (2024).pdf",
+    "wiki-files/Algebra by Michael Artin 2e (z - Unknown_3.pdf"
+  ]
+}
