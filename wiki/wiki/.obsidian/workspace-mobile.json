@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "44a915d236715c24",
+    "id": "6e94e7d58b013cb9",
     "type": "split",
     "children": [
       {
-        "id": "6f2e4e7004bd4d39",
+        "id": "0956e5276bad324e",
         "type": "tabs",
         "children": [
           {
-            "id": "901bfb15238d2f29",
+            "id": "3eff676bbd36372d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "cse_syllabus.pdf"
+              }
             }
           }
         ]
@@ -21,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7966be6e9db52995",
+    "id": "b4c99a2fa8dc60ba",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "07c1013a2ba1e5d0",
+        "id": "64803f67e55d1dcc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +37,7 @@
         }
       },
       {
-        "id": "902914097d9175e6",
+        "id": "5b6cabfbcf073cf3",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +52,7 @@
         }
       },
       {
-        "id": "a6913204d6cb1ddd",
+        "id": "1dd63a8a03065264",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,19 +63,7 @@
         }
       },
       {
-        "id": "dd10639b7200609b",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          }
-        }
-      },
-      {
-        "id": "8cefa514b255df72",
+        "id": "991f2f4e2d5c2f63",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -84,16 +74,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2dc589d6efb00dae",
+    "id": "46b6fea84802af73",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bd93b5dfe53b3bc7",
+        "id": "571b5c6146da1ed7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": true,
+            "file": "cse_syllabus.pdf",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -104,26 +95,29 @@
         }
       },
       {
-        "id": "d7c3329b077df377",
+        "id": "6e11b35e48c3cd79",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "cse_syllabus.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "52fbd4a01f024502",
+        "id": "ba4865cfdb114bb2",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "cse_syllabus.pdf"
+          }
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,39 +126,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "901bfb15238d2f29",
+  "active": "3eff676bbd36372d",
   "lastOpenFiles": [
-    "wiki-files/David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf",
-    "Abstract Algebra by Dummit and Foote.md",
-    "Compiler.md",
-    "compositional thermostatics.md",
-    "Foundations by Greg Egan.md",
-    "Greg Egan.md",
-    "logic.md",
-    "proof by contradiction.md",
-    "proof by negation.md",
-    "Linear Algebra by Georgi Shilov.md",
-    "wiki-files/Georgi E. Shilov, Richard A. Silvermann - Linear Algebra-Prentice-Hall (1971).djvu",
-    "entrepreneurship.md",
-    "AI-ML-DS.md",
-    "machine learning.md",
-    "Observer theory.md",
-    "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
-    "category theory.md",
-    "public_journal/2023-07-15.md",
-    "Unshackled A Practical Guide For Highly-Skilled Immigrants To Thrive In The United States.md",
-    "Index.md",
-    "public_journal/2024-01-30.md",
-    "History of the world the time-life series.md",
-    "HOTW vol 1 The Human Dawn, Pre-History - 3000 BC.md",
-    "public_journal/2024-01-29.md",
-    "public_journal/2024-01-26.md",
-    "finance.md",
-    "public_journal/2024-01-25.md"
+    "Index.md"
   ]
 }

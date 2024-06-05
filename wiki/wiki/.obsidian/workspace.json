@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db1d1a0511ba4bf8",
+        "id": "88795d911f9a74fa",
         "type": "tabs",
         "children": [
           {
-            "id": "183cf11583693d27",
+            "id": "78764c7ce5a593c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 332.5
   },
   "right": {
     "id": "4bc9098ca0e4ecf2",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +130,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,34 +153,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "183cf11583693d27",
+  "active": "78764c7ce5a593c6",
   "lastOpenFiles": [
+    "Financial Markets with Robert Shiller.md",
+    "Escher and Amann Analysis.md",
+    "AI-ML-DS.md",
+    "system of linear equations.md",
+    "sets, relations, functions.md",
+    "Propositional and first order logic.md",
+    "partial orders and lattices.md",
+    "discrete mathematics.md",
+    "calculus.md",
+    "linear algebra.md",
+    "monoids, groups.md",
+    "graph.md",
+    "Index.sync-conflict-20240605-143921-GUYGGFY.md",
+    "Mind.md",
     "Index.md",
-    "zettelkasten.md",
-    "bloom's taxonomy.md",
-    "Zhuangzi by Zhuangzi.md",
-    "zotero.md",
-    "Yuri Manin.md",
-    "Yoshihiro Maruyama.md",
-    "yoneda lemma.md",
-    "Yeast.md",
-    "xAI.md",
-    "Wu–Yang dictionary.md",
-    "word embedding.md",
-    "womb.md",
-    "Wolfgang Smith.md",
-    "Wojciech H. Zurek.md",
-    "Wöhler synthesis.md",
-    "Winter school on Gravity and Light 2015.md",
-    "William Woodin.md",
-    "William Paley.md",
-    "William Lawvere.md",
-    "Will Kinney.md",
-    "Will Durant.md",
-    "Wiley Series in Probability and Statistics.md",
-    "Wholeness and the Implicate Order.md",
-    "who did it first.md",
-    "whitney embedding theorem.md",
+    "free-will.md",
+    "algebra.md",
+    "Fifty Years of Quantum Chromodynamics (The Theory of The Strong Nuclear Force) - David Gross.md",
+    "Facing Up to the Problem of Consciousness.md",
+    "ethanol.md",
+    "Establishing the accuracy of self-diagnosis in psychiatry.md",
+    "Escherichia Coli.md",
+    "Ergot Alkaloids Their History, Chemistry, and Therapeutic Uses.md",
+    "epimorphism.md",
+    "Entropy, Black holes, and the New Cyclic Universe.md",
+    "Entangled Life; How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures.md",
+    "cse_syllabus.pdf",
     "untitled folder",
     "wiki-files/David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf",
     "wiki-files/Introduction to Real Analysis, - Unknown_82.djvu",
@@ -198,7 +191,6 @@
     "wiki-files/Metric Spaces (Mícheál Ó Searc - Unknown_80.pdf",
     "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
     "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf",
-    "wiki-files/Complex Analysis (Third Editio - Unknown_25.pdf",
     "analysis_E&A.canvas",
     "Pasted image 20240311053451.png",
     "Pasted image 20240307223748.png",

@@ -10,3 +10,5 @@ https://themlbook.com
 
 https://adversarial-ml-tutorial.org/
 
+https://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning
+

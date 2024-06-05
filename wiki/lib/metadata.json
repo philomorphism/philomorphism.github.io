@@ -1,6 +1,6 @@
 {
   "vaultName": "wiki",
-  "lastExport": 1716748646882,
+  "lastExport": 1717582917607,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title",
   "useCustomHeadContent": false,
@@ -378,11 +378,12 @@
     "creativity.md",
     "CRISPR-Cas9.md",
     "cross product.md",
-    "crptopals.md",
     "cryptocurrency.md",
     "cryptography.md",
+    "cryptopals.md",
     "CS761 Mathematical Foundations of Machine Learning.md",
     "Cumrun Vafa.md",
+    "cyber-physical systems.md",
     "cybernetics.md",
     "cycad.md",
     "Cyclic Cosmology.md",
@@ -393,6 +394,7 @@
     "Dante's Divine Comedy.md",
     "Data Science.md",
     "data visualization.md",
+    "datasets.md",
     "David Blackwell.md",
     "David Bohm.md",
     "David Chalmers.md",
@@ -1181,6 +1183,7 @@
     "Principia Mathematica.md",
     "Principia Philosophiae.md",
     "Principles of Biochemistry by Albert L. Lehninger.md",
+    "privacy.md",
     "probability.md",
     "probability theory.md",
     "Probability Theory The Logic of Science by Jaynes.md",
@@ -1282,6 +1285,7 @@
     "Robert Hooke.md",
     "Robert Langland.md",
     "Robert Morris Sapolsky.md",
+    "robotics.md",
     "rocket.md",
     "Roger Penrose.md",
     "Roget’s International Thesaurus of English Words and Phrases.md",
@@ -1682,7 +1686,6 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css",
     "pasted-image-20230521001002.png",
     "pasted-image-20240311053451.png",
     "pasted-image-20230720233230.png",
@@ -1728,8 +1731,7 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "public_journal/2023-05-11.md": {
@@ -2189,8 +2191,8 @@
       "dependencies": []
     },
     "AI-ML-DS.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 1171,
+      "modifiedTime": 1717582917607,
+      "sourceSize": 1244,
       "exportedPath": "ai-ml-ds.html",
       "dependencies": []
     },
@@ -3201,8 +3203,8 @@
       "dependencies": []
     },
     "category theory.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 705,
+      "modifiedTime": 1717525218335,
+      "sourceSize": 879,
       "exportedPath": "category-theory.html",
       "dependencies": []
     },
@@ -3970,12 +3972,6 @@
       "exportedPath": "cross-product.html",
       "dependencies": []
     },
-    "crptopals.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 119,
-      "exportedPath": "crptopals.html",
-      "dependencies": []
-    },
     "cryptocurrency.md": {
       "modifiedTime": 1716743287874,
       "sourceSize": 0,
@@ -4001,8 +3997,8 @@
       "dependencies": []
     },
     "cybernetics.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1717525218335,
+      "sourceSize": 43,
       "exportedPath": "cybernetics.html",
       "dependencies": []
     },
@@ -4175,8 +4171,8 @@
       "dependencies": []
     },
     "deep learning.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 73,
+      "modifiedTime": 1717525218335,
+      "sourceSize": 128,
       "exportedPath": "deep-learning.html",
       "dependencies": []
     },
@@ -4882,7 +4878,7 @@
       "dependencies": []
     },
     "Escher and Amann Analysis.md": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1717582917607,
       "sourceSize": 11,
       "exportedPath": "escher-and-amann-analysis.html",
       "dependencies": []
@@ -5110,7 +5106,7 @@
       "dependencies": []
     },
     "Financial Markets with Robert Shiller.md": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1717582917607,
       "sourceSize": 85,
       "exportedPath": "financial-markets-with-robert-shiller.html",
       "dependencies": []
@@ -7032,8 +7028,8 @@
       "dependencies": []
     },
     "machine learning.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 392,
+      "modifiedTime": 1717525218335,
+      "sourceSize": 485,
       "exportedPath": "machine-learning.html",
       "dependencies": []
     },
@@ -10288,8 +10284,8 @@
       "dependencies": []
     },
     "systems theory.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1717525218335,
+      "sourceSize": 46,
       "exportedPath": "systems-theory.html",
       "dependencies": []
     },
@@ -11745,91 +11741,91 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -11967,87 +11963,117 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1716748646882,
-      "sourceSize": 551073,
+      "modifiedTime": 1717582917607,
+      "sourceSize": 552333,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1716748646882,
-      "sourceSize": 128213,
+      "modifiedTime": 1717582917607,
+      "sourceSize": 128398,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1716748646882,
-      "sourceSize": 482,
+      "modifiedTime": 1717582917607,
+      "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717582917607,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1717525218335,
       "sourceSize": 43,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "cyber-physical systems.md": {
+      "modifiedTime": 1717525218335,
+      "sourceSize": 126,
+      "exportedPath": "cyber-physical-systems.html",
+      "dependencies": []
+    },
+    "datasets.md": {
+      "modifiedTime": 1717525218335,
+      "sourceSize": 51,
+      "exportedPath": "datasets.html",
+      "dependencies": []
+    },
+    "privacy.md": {
+      "modifiedTime": 1717525218335,
+      "sourceSize": 66,
+      "exportedPath": "privacy.html",
+      "dependencies": []
+    },
+    "robotics.md": {
+      "modifiedTime": 1717525218335,
+      "sourceSize": 222,
+      "exportedPath": "robotics.html",
+      "dependencies": []
+    },
+    "cryptopals.md": {
+      "modifiedTime": 1717582917607,
+      "sourceSize": 119,
+      "exportedPath": "cryptopals.html",
       "dependencies": []
     }
   }
