@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88795d911f9a74fa",
+        "id": "896c714a4d96f8be",
         "type": "tabs",
         "children": [
           {
-            "id": "78764c7ce5a593c6",
+            "id": "8612991aaccb014c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "4bc9098ca0e4ecf2",
@@ -75,33 +76,6 @@
         "id": "a73eea6ec3194b9c",
         "type": "tabs",
         "children": [
-          {
-            "id": "95c7319e75160562",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e175f8c9614c1339",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "b0d2597fada82bf1",
             "type": "leaf",
@@ -132,8 +106,36 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d7506e46670ffce8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "932e887bd75de798",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -153,44 +155,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "78764c7ce5a593c6",
+  "active": "8612991aaccb014c",
   "lastOpenFiles": [
-    "Financial Markets with Robert Shiller.md",
-    "Escher and Amann Analysis.md",
-    "AI-ML-DS.md",
-    "system of linear equations.md",
-    "sets, relations, functions.md",
-    "Propositional and first order logic.md",
-    "partial orders and lattices.md",
-    "discrete mathematics.md",
-    "calculus.md",
-    "linear algebra.md",
-    "monoids, groups.md",
-    "graph.md",
-    "Index.sync-conflict-20240605-143921-GUYGGFY.md",
-    "Mind.md",
-    "Index.md",
-    "free-will.md",
-    "algebra.md",
-    "Fifty Years of Quantum Chromodynamics (The Theory of The Strong Nuclear Force) - David Gross.md",
-    "Facing Up to the Problem of Consciousness.md",
-    "ethanol.md",
-    "Establishing the accuracy of self-diagnosis in psychiatry.md",
-    "Escherichia Coli.md",
-    "Ergot Alkaloids Their History, Chemistry, and Therapeutic Uses.md",
-    "epimorphism.md",
-    "Entropy, Black holes, and the New Cyclic Universe.md",
-    "Entangled Life; How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures.md",
-    "cse_syllabus.pdf",
-    "untitled folder",
-    "wiki-files/David S. Dummit, Richard M. Foote - Abstract Algebra-Wiley (2004).pdf",
-    "wiki-files/Introduction to Real Analysis, - Unknown_82.djvu",
-    "wiki-files/Topology, 2E by James Munkres  - Unknown_38.pdf",
-    "wiki-files/Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence - Linear Algebra-Pearson (2002).pdf",
-    "wiki-files/Real Analysis by Bruckner et al.pdf",
-    "wiki-files/Metric Spaces (Mícheál Ó Searc - Unknown_80.pdf",
-    "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
-    "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf",
+    "The Tantallizing WOW Signal.md",
+    "The 2024 Assembly of The Order of the Octopus.md",
+    "Towards a Comprehensive Bibliography for SETI.md",
+    "Furthering a Comprehensive SETI Bibliography.md",
+    "SETI.md",
+    "Rationale for the water hole.md",
+    "the wow signal.md",
+    "wiki-files/oliver1979.pdf",
+    "Clarke's three laws.md",
+    "Arthur C. Clarke.md",
+    "wiki-files/eurekamanifesto.pdf",
+    "Searching for Extraterrestrial Intelligence; SETI Past, Present, and Future.md",
+    "Searching for Interstellar Communications.md",
+    "Giuseppe Cocconi.md",
+    "Philip Morrison.md",
+    "Pinchen Fan.md",
+    "Sofia Sheikh.md",
+    "technosignature.md",
+    "John Kraus.md",
+    "Engineering.md",
+    "Electrical Engineering.md",
+    "wiki-files/WOW official.pdf",
+    "wiki-files/(Frontiers collection) Shuch, H. Paul - Searching for extraterrestrial intelligence SETI past, present, and future-Praxis Pub., Springer (2011).pdf",
+    "Frank Drake.md",
+    "Project Ozma.md",
+    "wiki-files/ProjectOzma.pdf",
+    "Project Tuva.md",
+    "wiki-files/(Frontiers collection) Shuch, H. Paul - Searching for extraterrestrial intelligence SETI past, present, and future-Praxis Pub., Springer (2011).pdf.crdownload",
+    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020).pdf",
+    "Planetary Astrobiology by Victoria Meadows et al.md",
+    "Victoria Meadows.md",
+    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020) (1).pdf",
+    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020) (2).pdf.crdownload",
+    "Eureka Manifesto; the Mission for Our Civilization.md",
+    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020) (1).pdf.crdownload",
+    "astrobiology.md",
     "analysis_E&A.canvas",
     "Pasted image 20240311053451.png",
     "Pasted image 20240307223748.png",

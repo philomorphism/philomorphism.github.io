@@ -1,0 +1,1 @@
+https://www.goodreads.com/award/show/38340-the-novel-prize

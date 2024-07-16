@@ -5,3 +5,8 @@ there's a beautiful Haskell game where type signatures and functions are to be m
 checkout [TypeClasses](https://typeclasses.com) book+documentation kinda thing.
 
 checkout something something relation algebras something something haskell by wolfram kahl and gunther schmidt.
+
+[The Haskell School of Music: From Signals to Symphonies](https://www.goodreads.com/book/show/18299474-the-haskell-school-of-music?from_search=true&from_srp=true&qid=nLItcHUNWL&rank=1) 
+
+https://wiki.haskell.org/Haskell
+

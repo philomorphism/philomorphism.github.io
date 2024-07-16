@@ -1,0 +1,1 @@
+meme: https://x.com/Hamptonism/status/1798774230017847488 

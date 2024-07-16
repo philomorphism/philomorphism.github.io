@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0956e5276bad324e",
+        "id": "f52327568c861b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "3eff676bbd36372d",
+            "id": "ef4d63393b89431d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cse_syllabus.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "cse_syllabus.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "cse_syllabus.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "cse_syllabus.pdf"
-          }
+          "state": {}
         }
       }
     ],
@@ -121,6 +115,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -129,8 +125,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eff676bbd36372d",
+  "active": "ef4d63393b89431d",
   "lastOpenFiles": [
-    "Index.md"
+    "The Tantallizing WOW Signal.md",
+    "The 2024 Assembly of The Order of the Octopus.md",
+    "SETI.md",
+    "Rationale for the water hole.md",
+    "Furthering a Comprehensive SETI Bibliography.md",
+    "Towards a Comprehensive Bibliography for SETI.md",
+    "Clarke's three laws.md",
+    "Arthur C. Clarke.md",
+    "biosignature.md",
+    "technosignature.md",
+    "Strategies and advice for the Search for Extraterrestrial Intelligence.md",
+    "quantum mechanics.md",
+    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020).pdf",
+    "Planetary Astrobiology by Victoria Meadows et al.md",
+    "The University of Arizona Space Science Series.md",
+    "Victoria Meadows.md",
+    "Avi Loeb.md",
+    "wiki-files/eurekamanifesto.pdf",
+    "Eureka Manifesto; the Mission for Our Civilization.md",
+    "Yuri Milner.md",
+    "wiki-files/2311.11026v1.pdf",
+    "wiki-files/Manasvi Lingam, Avi Loeb - Life in the Cosmos_ From Biosignatures to Technosignatures-Harvard University Press (2021).pdf",
+    "Education System.md",
+    "investment.md",
+    "astrobiology.md",
+    "Jason Wright.md",
+    "Frank Drake.md",
+    "Life in the cosmos from Biosignatures to Technosignatures.md",
+    "Higher Topos Theory in Physics.md",
+    "A leisurely introduction to simplicial sets.md"
   ]
 }

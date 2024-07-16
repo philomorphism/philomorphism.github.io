@@ -25,3 +25,8 @@ let me gather some of the stuff I've said before:
 
 
 [[bloom's taxonomy]]
+
+https://www.freedomtolearn.uk/
+
+https://github.com/mayabenowitz/neuralcraft/tree/master?tab=readme-ov-file
+

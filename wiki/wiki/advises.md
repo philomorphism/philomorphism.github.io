@@ -14,3 +14,4 @@ there're some math/phy advises from Nobel laureates but let's add things later, 
 9. https://handbookto.life
 10. [andrew's thread of advice](https://twitter.com/__drewface/status/1765782251067830719) (and [The Intellectual Frontier](https://vienna.earth/plate/andrew/frontier)) 
 11. [sam altman's advices](https://blog.samaltman.com/archive?query=advice) (and [this](https://blog.samaltman.com/what-i-wish-someone-had-told-me))
+12. [a bit from terry tao's advices](https://terrytao.wordpress.com/career-advice/continually-aim-just-beyond-your-current-range/) 
