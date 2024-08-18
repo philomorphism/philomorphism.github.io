@@ -1,8 +1,8 @@
 {
   "vaultName": "wiki",
-  "lastExport": 1717582917607,
+  "lastExport": 1723944114342,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -45,22 +45,40 @@
     "public_journal/2024-01-26.md",
     "public_journal/2024-01-29.md",
     "public_journal/2024-01-30.md",
+    "40 Eridani.md",
+    "61 Cygni.md",
+    "70 Ophiuchi.md",
+    "A Brief History of the Extraterrestrial Intelligence Concept.md",
+    "A cloaking device for transiting planets.md",
+    "A Complex Systems Approach to Exoplanet Atmospheric Chemistry; New Prospects for Ruling Out the Possibility of Alien Life-As-We-Know-It.md",
     "A Critical History of Renormalization by Kerson Huang.md",
     "A dialog on quantum gravity.md",
     "A First Course in Causal Inference.md",
     "A Formal Definition of Intelligence Based on an Intensional Variant of Algorithmic Complexity by Jose et al.md",
     "A formalization of set theory without variables by tarski et al.md",
+    "A Gravitational Wave Transmitter.md",
     "A Lambda Calculus Satellite.md",
+    "A leisurely introduction to simplicial sets.md",
+    "A near-infrared SETI experiment; instrument overview.md",
     "A New Experiment To Test If Consciousness Gives Rise to Physics & Not Vice Versa.md",
     "a note on the categorical notions of normal subobject and of equivalence class.md",
     "A Postquantum Theory of Classical Gravity.md",
     "A Prehistory of n-Categorical Physics.md",
+    "A Scenario for Interstellar Exploration and Its Financing.md",
+    "A Search for Dyson Spheres Around Late-type Stars in the Solar Neighborhood JN.md",
+    "A Search for Dyson Spheres Around Late-Type Stars in the Solar Neighborhood JNN.md",
+    "A search for natural or artificial objects located at the Earth-Moon libration points.md",
+    "A Search for Periodic Emissions at the Wow Locale.md",
+    "A Search of the Wow Locale for Intermittent Radio Signals.md",
+    "A Search Strategy for Finding Extraterrestrial Radio Beacons.md",
     "A short introduction to the quantum formalism(s).md",
     "A Student's Guide Series.md",
     "A Survey on Evaluation of Large Language Models.md",
     "A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points.md",
+    "A VLA Search for the Ohio State Wow.md",
     "abelian group.md",
     "abelian semi-group.md",
+    "abiogenesis.md",
     "abstract algebra.md",
     "Abstract Algebra by Dummit and Foote.md",
     "abstraction.md",
@@ -71,6 +89,7 @@
     "Action, or the fungibility of computation.md",
     "activation function.md",
     "Active matter.md",
+    "Additional Remarks on Extraterrestrial Intelligence.md",
     "adenosine diphosphate.md",
     "adenosine triphosphate.md",
     "Adi Shankaracharya.md",
@@ -78,6 +97,7 @@
     "Advaita.md",
     "advises.md",
     "Aerospace Engineering.md",
+    "aether.md",
     "Agda.md",
     "agent.md",
     "AI Alignment Problem.md",
@@ -106,7 +126,12 @@
     "algebraic topology.md",
     "Algebraic Topology by hatcher.md",
     "Algebraic Topology by Pierre Albin.md",
+    "alien.md",
+    "All animals are conscious; shifting the null hypothesis in consciousness science.md",
     "Allen Hatcher.md",
+    "Alpha Centauri.md",
+    "Alpha Centauri A.md",
+    "Alpha Centauri B.md",
     "Aluffi Chapter 0.md",
     "American History.md",
     "amino acid.md",
@@ -124,9 +149,12 @@
     "Andrej Bauer.md",
     "Andrew Strominger.md",
     "Andrew Wiles.md",
+    "angular momentum.md",
     "Anil Seth.md",
     "Anki.md",
     "Anna Rosenzweig.md",
+    "anthropology.md",
+    "Anthropology and the search for extraterrestrial intelligence; An historical view.md",
     "anthropomorphism.md",
     "antibiotic.md",
     "Antoine Lavoisier.md",
@@ -137,21 +165,36 @@
     "applied sciences.md",
     "approximation.md",
     "archaea.md",
+    "archaeology.md",
+    "Archaeology, Anthropology, and Interstellar Communication.md",
     "Architecture.md",
+    "arecibo message.md",
+    "Arecibo Telescope.md",
     "Aristarchus.md",
     "Aristotle.md",
     "Arithmetic.md",
     "arnold sommerfeld school.md",
     "Art.md",
-    "Artifical Intelligence.md",
+    "Arthur C. Clarke.md",
+    "Artificial Biosphere.md",
+    "Artificial Biosphere by dyson et al.md",
+    "Artificial Intelligence.md",
     "Artificial Intelligence Mathematical Olympiad Prize.md",
     "Arula Ratnakar.md",
     "Ashtadhyayi.md",
     "Association for mathematical consciousness science.md",
+    "Astro576 2018 seti course.md",
+    "astrobiology.md",
+    "Astrobiology, history, and society; life beyond Earth and the impact of discovery.md",
+    "Astrobiology; Origins from the Big-Bang to Civilisation.md",
+    "astroengineering.md",
+    "Astroengineering, Dysonian SETI, and naturalism; A new Catch-22 Author links open overlay panel.md",
     "Astronomy.md",
+    "Astronomy and Astrophysics Library Series.md",
     "astrophysics.md",
     "Asymptotics of r(4,t).md",
     "At the Interface of Algebra and Statistics.md",
+    "At What Wavelengths Should We Search for Signals from Extraterrestrial Intelligence.md",
     "Atlas of Finite Groups by John Conway.md",
     "Atlas of reality, Metaphysics.md",
     "Atlas Shrugged by Any Rand.md",
@@ -163,10 +206,12 @@
     "Automated theorem prover.md",
     "automation.md",
     "Automorphism.md",
+    "Avi Loeb.md",
     "Axiom of Choice.md",
     "Axioms of ZF Set Theory.md",
     "Ayn Rand.md",
     "baby books.md",
+    "Baby University.md",
     "backpropagation.md",
     "bacteria.md",
     "Barbara Gail Montero.md",
@@ -176,6 +221,7 @@
     "Become an Objectivist in Ten Easy Steps.md",
     "behavioral sciences.md",
     "Bekenstein-Hawking entropy.md",
+    "Ben Finney.md",
     "Bengali.md",
     "Benjamin Libet.md",
     "Bereitschaftspotential.md",
@@ -186,6 +232,7 @@
     "bibliogrpahy system.md",
     "big bang and inflation problem.md",
     "big bang theory.md",
+    "Big Ear Radio Observatory.md",
     "bijection.md",
     "bilinear map.md",
     "Bill Gates.md",
@@ -197,31 +244,38 @@
     "biological machine.md",
     "biology.md",
     "biophysics.md",
+    "biosignature.md",
     "biped.md",
     "bitcoin.md",
     "black hole.md",
     "Black hole explosions by stephen hawing.md",
     "black hole information paradox.md",
+    "Black hole thermodynamics.md",
     "Black Holes and Complexity lectures by susskind.md",
     "Black holes and the second law by bekenstein.md",
+    "BLC1 signal.md",
     "Bloom's 2 sigma problem.md",
     "bloom's taxonomy.md",
     "Bob Coecke.md",
     "Body and Mind by Keith Campbell.md",
     "Bohr–Einstein debates.md",
     "Bounded rationality.md",
+    "Bracewell Probe.md",
     "Brandolini's law.md",
+    "Breakthrough Listen Project.md",
     "Breakthrough Propulsion Physics Program.md",
     "Bret Victor.md",
     "Brian Keating.md",
     "Bruno Gavranović.md",
     "Bryce DeWitt.md",
     "buddhism.md",
+    "Business.md",
     "Busy Beaver Function.md",
     "C K Raju.md",
     "C. Thi Nguyen.md",
     "calculus.md",
     "calendar.md",
+    "Cambridge Astrobiology Series.md",
     "Cambridge Companions to Religion Series.md",
     "Cambridge Introductions to Philosophy Series.md",
     "Cambridge Mathematical Library Series.md",
@@ -239,6 +293,7 @@
     "carbohydrate.md",
     "carbon.md",
     "carbon dioxide.md",
+    "Carl Sagan.md",
     "Carlo Rovelli.md",
     "carnivores.md",
     "Cartesian Product.md",
@@ -263,6 +318,7 @@
     "cellophane.md",
     "cellular respiration.md",
     "Census of the Exact Sciences in Sanskrit by Pingree.md",
+    "Centauri Dreams; Imagining and Planning Interstellar Exploration.md",
     "Center for Consciousness Studies.md",
     "center for the future mind.md",
     "Centrifugal Governor.md",
@@ -285,13 +341,17 @@
     "chlorophyll.md",
     "chloroplast.md",
     "Christiaan Huygens.md",
+    "Christopher Alexander.md",
+    "Christopher Clavius.md",
     "Christopher Fuchs.md",
     "Christopher Langan.md",
     "chromosome.md",
     "Church-Turing Thesis.md",
     "circle.md",
+    "civilization.md",
     "Clairvoyance.md",
     "Clarence Irving Lewis.md",
+    "Clarke's three laws.md",
     "Classical Mechanics.md",
     "classical unified field theories.md",
     "classification of division algebras.md",
@@ -299,6 +359,7 @@
     "Claudia Passos.md",
     "Clay Mathematics Institute.md",
     "Clay Mathematics Monographs.md",
+    "clean energy.md",
     "Cliff Burgess.md",
     "Clifford algebra.md",
     "clique problem.md",
@@ -318,11 +379,15 @@
     "Coin rotation paradox.md",
     "Combinatorial Games.md",
     "combinatorics.md",
+    "communication.md",
     "communication of mirages.md",
+    "communication protocol.md",
+    "Communications from Superior Galactic Communities.md",
     "Commutative Diagrams.md",
     "compact.md",
     "Compact Textbooks in Mathematics.md",
     "compartmentation.md",
+    "Competitive programming.md",
     "Compiler.md",
     "Complete works of Swami Vivekananda.md",
     "complex analysis.md",
@@ -330,6 +395,7 @@
     "Complex Analysis by Lars Ahlfors.md",
     "Complex Numbers.md",
     "complex system.md",
+    "complex systems science.md",
     "complexity theory.md",
     "Complexity, Entropy & the Physics of Information by Wojciech H. Zurek.md",
     "composability.md",
@@ -369,6 +435,7 @@
     "correlation.md",
     "cosmic history.md",
     "cosmic inflation.md",
+    "Cosmic Noise; A History of Early Radio Astronomy.md",
     "CosmoCoffe.md",
     "cosmological evolution.md",
     "cosmology.md",
@@ -378,25 +445,31 @@
     "creativity.md",
     "CRISPR-Cas9.md",
     "cross product.md",
+    "cryonics.md",
     "cryptocurrency.md",
     "cryptography.md",
     "cryptopals.md",
     "CS761 Mathematical Foundations of Machine Learning.md",
+    "culture.md",
     "Cumrun Vafa.md",
+    "Current Aspects of Exobiology.md",
     "cyber-physical systems.md",
     "cybernetics.md",
+    "cybersecurity.md",
     "cycad.md",
     "Cyclic Cosmology.md",
     "cyclin.md",
     "Cyclin Dependent Kinase.md",
     "Dance.md",
     "Daniel Dennett.md",
+    "Danielle Fong.md",
     "Dante's Divine Comedy.md",
     "Data Science.md",
     "data visualization.md",
     "datasets.md",
     "David Blackwell.md",
     "David Bohm.md",
+    "David Brin.md",
     "David Chalmers.md",
     "David Deutsch.md",
     "David Finkelstein.md",
@@ -420,6 +493,9 @@
     "deoxyribonucleic acid.md",
     "depression.md",
     "derivations of 2nd law of thermodynamics.md",
+    "Detecting Industrial Pollution in the Atmospheres of Earth-like Exoplanets.md",
+    "Detection of Intact Lava Tubes at Marius Hills on the Moon by SELENE (Kaguya) Lunar Radar Sounder.md",
+    "Detection Technique for Artificially Illuminated Objects in the Outer Solar System and Beyond.md",
     "developmental biology.md",
     "Diagonal Argument.md",
     "Diagonal arguments and cartesian closed categories by Lawvere.md",
@@ -434,6 +510,7 @@
     "differential geometry.md",
     "differential topology.md",
     "diffusion model.md",
+    "Digital imagery analysis of unusual Martian surface features.md",
     "dilemma.md",
     "Diophantine Equation.md",
     "diophantine geometry.md",
@@ -450,11 +527,14 @@
     "Do Black Holes have Singularities by Roy Kerr.md",
     "Dolbeault Theorem.md",
     "Domain of Science.md",
+    "Don Ihde.md",
     "Donald Davidson.md",
     "Donald Hoffman.md",
     "double helix structure.md",
     "Douglas Hofstadter.md",
+    "Douglas Vakoch.md",
     "Dr. Wilson's advice.md",
+    "Drake Equation.md",
     "Drama.md",
     "drig-drashya-viveka.md",
     "drug.md",
@@ -466,7 +546,13 @@
     "duality of quantum energy.md",
     "Duality Theory.md",
     "dynamical system.md",
+    "Dyson shells; a retrospective.md",
+    "dyson sphere.md",
+    "Dysonian Approach to SETI; A Fruitful Middle Ground.md",
+    "Dysonian SETI.md",
     "Earth.md",
+    "eavesdropping.md",
+    "Eavesdropping; The Radio Signature of the Earth.md",
     "ebola.md",
     "ecology.md",
     "economics.md",
@@ -476,6 +562,7 @@
     "Education System.md",
     "Edward Frenkel.md",
     "Edward Jaynes.md",
+    "Edward Prucell.md",
     "Edward Witten.md",
     "Effective Altruism.md",
     "egalitarian.md",
@@ -483,11 +570,13 @@
     "Eightfold way.md",
     "Einstein field equations.md",
     "Einstein Lectures.md",
+    "Electrical Engineering.md",
     "Electricity and Magnetism.md",
     "Elements by Euclid.md",
     "Elements in the Philosophy of Biology Series.md",
     "eliezer yudkowsky.md",
     "Elinor Ostrom.md",
+    "Elliot Temple.md",
     "Elon Musk by Ashlee Vance.md",
     "embryo.md",
     "emergence.md",
@@ -518,6 +607,9 @@
     "enzyme.md",
     "epigenetics.md",
     "epimorphism.md",
+    "Epsilon Eridani.md",
+    "Epsilon Indi.md",
+    "EPSS 179.md",
     "equation.md",
     "equivalence class.md",
     "Equivalence Principle.md",
@@ -543,25 +635,39 @@
     "Eugene Paul Wigner.md",
     "Eugenia Cheng.md",
     "eukaryotes.md",
+    "Eureka Manifesto; the Mission for Our Civilization.md",
+    "Evan Thompson.md",
     "Évariste Galois.md",
     "event horizon.md",
     "Event semantics.md",
+    "Evidence in Support of the Hypothesis that Certain Objects on Mars are Artificial in Origin.md",
     "Evolution.md",
     "Evolution as Backstop for Reinforcement Learning by gwern.md",
     "evolutionary biology.md",
     "evolutionary calendar.md",
     "exact sciences.md",
+    "exobiology.md",
+    "exoplanet.md",
+    "Exoplanet Biosignatures; A Review of Remotely Detectable Signs of Life.md",
+    "Exoplanets and SETI.md",
+    "experimental phenomenology.md",
     "explanation.md",
+    "Explanation for the Absence of Extraterrestrials on Earth.md",
     "extention.md",
     "exterior derivative.md",
     "external detection of consciousness.md",
-    "Extra Terrestrial.md",
+    "Extraterrestrial.md",
+    "Extraterrestrial Intelligence; An International Petition.md",
+    "Extraterrestrial intelligent beings do not exist.md",
+    "Extremely Large Telescope.md",
     "Fabrizio Genovese.md",
     "Facing Up to the Problem of Consciousness.md",
     "fallacy of composition.md",
+    "Fallibalism.md",
     "fat.md",
     "Felix Klein.md",
     "Fermat's Last Theorem.md",
+    "fermi paradox.md",
     "fiber.md",
     "fiction.md",
     "field.md",
@@ -580,11 +686,14 @@
     "Foundations by Greg Egan.md",
     "foundations of mathematics.md",
     "foundations of physics.md",
+    "FoundThem-21st Century pre-search and post-detection seti protocols for social and digital media.md",
     "fourier expandable functions.md",
     "fractal.md",
     "fractal geometry.md",
     "Francis Crick.md",
     "François Jacob.md",
+    "Frank Drake.md",
+    "Frank J Tipler.md",
     "Fred Sanger.md",
     "Frederic Schuller.md",
     "free market.md",
@@ -599,6 +708,7 @@
     "Friedmann–Lemaître–Robertson–Walker metric.md",
     "Friedrich Wöhler.md",
     "From Finite Sets to Feynman Diagrams.md",
+    "Frontiers of Propulsion Science.md",
     "fructose.md",
     "function composition.md",
     "functional analysis.md",
@@ -614,6 +724,7 @@
     "fundamental theorem of linear algebra.md",
     "Fundamental theorems.md",
     "fungus.md",
+    "Furthering a Comprehensive SETI Bibliography.md",
     "Fusion Energy.md",
     "GAGA paper.md",
     "Galileo Galilei.md",
@@ -629,8 +740,10 @@
     "General relativity.md",
     "Generalized Functions by Gel'fand et al.md",
     "genetic code.md",
+    "genetic engineering.md",
     "genetic information.md",
     "genetics.md",
+    "genomics.md",
     "geometric algebra.md",
     "Geometric Deep Learning.md",
     "Geometric Unity.md",
@@ -645,9 +758,12 @@
     "Georgian.md",
     "Georgian Mythology.md",
     "geothermal energy.md",
+    "Giuseppe Cocconi.md",
     "glial cell.md",
     "global calculus.md",
     "Global Problems of Population Growth.md",
+    "global warming.md",
+    "Global warming as a detectable thermodynamic marker of Earth-like extrasolar civilizations; the case for a telescope like Colossus.md",
     "glucose.md",
     "GOAT Who is the Greatest Economist of all Time and Why Does it Matter.md",
     "Godel Lectures.md",
@@ -663,10 +779,12 @@
     "gravitational field.md",
     "Gravitational Pair Production and Black Hole Evaporation.md",
     "gravity.md",
+    "Gravity's whispers.md",
     "Gray's Anatomy.md",
     "Great Discoveries Series.md",
     "Greg Egan.md",
     "Gregor Mendel.md",
+    "gregorian calendar.md",
     "group homomorphism.md",
     "group theory.md",
     "groupoid.md",
@@ -682,6 +800,8 @@
     "Hans Selye.md",
     "Hard Disk.md",
     "hardware.md",
+    "Harish Chandra.md",
+    "harmonic analysis.md",
     "Harry Kroto.md",
     "Haskell.md",
     "Haskell Beginners 2022.md",
@@ -696,6 +816,7 @@
     "Herbert Feigl.md",
     "Herbert Simon.md",
     "herbivore.md",
+    "hidden variable theory.md",
     "hierarchy.md",
     "hierarchy in group governance problem.md",
     "hierarchy of sciences.md",
@@ -703,11 +824,15 @@
     "Higher Category Theory.md",
     "higher structures.md",
     "Higher Structures in M-Theory.md",
+    "Higher Topos Theory in Physics.md",
     "Hilbert's Decision Problem.md",
     "hinduism.md",
     "Hipparchus.md",
+    "Historical and Cultural Astronomy series.md",
     "History.md",
     "History of Mathematics.md",
+    "history of science.md",
+    "History of SETI.md",
     "History of the world the time-life series.md",
     "hodge theorem.md",
     "Hohenberg-Mermin-Wagner theorem.md",
@@ -724,9 +849,11 @@
     "HOTTEST Summer School.md",
     "HOTW vol 1 The Human Dawn, Pre-History - 3000 BC.md",
     "How it's made.md",
+    "How Much SETI Has Been Done, Finding Needles in the n-Dimensional Cosmic Haystack.md",
     "How to do great work by paul graham.md",
     "How To Read A Book.md",
     "Human Genome Project.md",
+    "Hydrogen Line.md",
     "hyperarousal.md",
     "Hysteresis.md",
     "I am That.md",
@@ -734,10 +861,12 @@
     "idempotent matrix.md",
     "identity theory of mind.md",
     "Ieva Čepaitė.md",
+    "If they are here, where are they; Observational and search considerations.md",
     "Illumination problem.md",
     "Ilya Prigogine.md",
     "Impossibility results.md",
     "impredicativity.md",
+    "Incerto series by Taleb.md",
     "Incompleteness Theorems.md",
     "inconsistent tetrad.md",
     "inconsistent triad.md",
@@ -751,6 +880,7 @@
     "initial object.md",
     "Injection.md",
     "inner product space.md",
+    "innovation.md",
     "Institute for Categorical Cybernetics.md",
     "insulin.md",
     "Intelligence.md",
@@ -767,14 +897,22 @@
     "interpretation of quantum mechanics.md",
     "interpretation of uniqueness.md",
     "Intersection.md",
+    "Interstellar and Interplanetary Communication by Optical Masers.md",
+    "interstellar communication.md",
+    "Interstellar Communication; The Search for Extraterrestrial Life.md",
+    "Interstellar communication. III. Optimal frequency to maximize data rate.md",
+    "Interstellar communication. IV. Benchmarking information carriers.md",
     "interstellar exploration.md",
+    "Interstellar Migration and the Human Experience.md",
     "Interstellar travel by Les Johnson.md",
     "Introducing Graphic Guides Series.md",
     "Introduction to Gauge-Gravity Duality.md",
     "Introduction to real analysis by bartle and sherbert.md",
     "invertase.md",
     "Inverted spectrum problem.md",
+    "investment.md",
     "Iosif Bena.md",
+    "IRAS-Based Whole-Sky Upper Limit on Dyson Spheres.md",
     "is logic a physical variable krakow methodological conference 2019.md",
     "Is Mathematical Proof a Social Construct.md",
     "isomorphism.md",
@@ -782,6 +920,7 @@
     "Israel Moiseevich Gelfand.md",
     "Issac Newton.md",
     "Issac Newton Institute for mathematical sciences.md",
+    "Issues in Science and Theology; Are We Special.md",
     "J. B. S. Haldane.md",
     "J. Robert Oppenheimer Lectures.md",
     "Jacques Monod.md",
@@ -791,37 +930,47 @@
     "James Watson.md",
     "James Watt.md",
     "Japanese.md",
+    "Jason Wright.md",
     "Jean-Baptiste Lamarck.md",
+    "Jill Tarter.md",
     "Jo Nelson.md",
+    "Jocelyn Bell Burnell.md",
     "Joel David Hamkins.md",
     "Johannes Kepler.md",
     "John Carlos Baez.md",
     "John Conway.md",
     "John D. Norton.md",
+    "John Kraus.md",
     "John Lilly.md",
     "John M. Butler.md",
     "John Preskill.md",
     "John Vervaeke.md",
     "Jon Awbrey.md",
     "Jon Sterling.md",
+    "Jonathan Bi.md",
     "Jonathan Blow.md",
     "Jonathan Gorard.md",
     "Jonathan Oppenheim.md",
     "Jonathan Westphal.md",
     "Joscha Bach.md",
     "Joseph Polchinski.md",
+    "Joshua Mayers.md",
     "journals.md",
     "Juan Maldacena.md",
     "Jules Hedges.md",
     "Julia Galef.md",
+    "Julia Kregenow.md",
     "Julian Jaynes.md",
+    "Julina Pril.md",
     "K S Sarkaria.md",
+    "Kardashev scale.md",
     "Karl Friston.md",
     "Karl Jansky.md",
     "Karl Marx.md",
     "Karl Popper.md",
     "Karl Schwarzschild.md",
     "Katalin Kariko.md",
+    "Kazuo Ishiguro.md",
     "Keith Campbell.md",
     "kevin buzzard.md",
     "Kevin Costello.md",
@@ -856,6 +1005,10 @@
     "Lev Okun.md",
     "liberal arts.md",
     "life.md",
+    "Life at the limits of physical laws.md",
+    "Life Beyond the Solar System; Remotely Detectable Biosignatures.md",
+    "life in space.md",
+    "Life in the cosmos from Biosignatures to Technosignatures.md",
     "life sciences.md",
     "light.md",
     "limit of thought.md",
@@ -877,6 +1030,7 @@
     "logic.md",
     "London Mathematical Society Lecture Note Series.md",
     "London Mathematical Society Monographs.md",
+    "Look at the root.md",
     "loop quantum gravity.md",
     "lorenz system.md",
     "Louis Pasteur.md",
@@ -892,6 +1046,7 @@
     "machine learning.md",
     "macromolecules.md",
     "Magic Squares of Squares.md",
+    "Making Contact; Jill Tarter and the Search for Extraterrestrial Intelligence.md",
     "Man-Computer Symbiosis.md",
     "management.md",
     "manga and anime stuffverse.md",
@@ -899,9 +1054,12 @@
     "many worlds.md",
     "Many Worlds Everett, Quantum Theory, Reality.md",
     "Many Worlds, the Born Rule, and Self-Locating Uncertainty.md",
+    "Marc G Millis.md",
     "Marcelin Berthelot.md",
+    "Mark J Carlotto.md",
     "markov categories.md",
     "markov kernel.md",
+    "mars.md",
     "Mars Trilogy.md",
     "Martín Hötzel Escardó.md",
     "marxism.md",
@@ -928,9 +1086,11 @@
     "Matteo Capucci.md",
     "Matter.md",
     "Maya Benowitz.md",
+    "mechanics.md",
     "Medicine.md",
     "meditation.md",
     "Meditations on First Philosophy.md",
+    "megastructures.md",
     "Melanie Lee.md",
     "Melencolia I.md",
     "MELENCOLIA I The physics of Albrecht Duerer.md",
@@ -945,10 +1105,13 @@
     "metaphysics.md",
     "Metaphysics of time reading group.md",
     "Metcalfe's law.md",
+    "METI.md",
+    "METI letter.md",
     "metric.md",
     "metric space.md",
     "metric spaces by searcoid.md",
     "Michael Faraday.md",
+    "Michael H Hart.md",
     "Michael Levin.md",
     "Michael Nielsen.md",
     "Michaelis–Menten kinetics.md",
@@ -956,7 +1119,9 @@
     "microbe.md",
     "microeconomics.md",
     "midnight's simulacra.md",
+    "Milan M Cirkovic.md",
     "milky way galaxy.md",
+    "Miller–Urey experiment.md",
     "Mimetic theory.md",
     "Mind.md",
     "Mind-Body Problem.md",
@@ -988,13 +1153,18 @@
     "Music.md",
     "Myth and Mankind Series.md",
     "mythology.md",
+    "Nadia Drake.md",
     "Nagarjuna.md",
     "Nagendra Vijay.md",
     "Nancy Cartwright.md",
     "nano material.md",
-    "nano technology.md",
+    "nanomedicine.md",
+    "nanorobotics.md",
+    "nanotechnology.md",
     "NASA.md",
+    "Nassim Taleb.md",
     "natural.md",
+    "Natural and artificial spectral edges in exoplanets.md",
     "natural sciences.md",
     "natural selection.md",
     "naturalism.md",
@@ -1013,10 +1183,13 @@
     "New Mathematical Monographs.md",
     "newcomb's paradox.md",
     "Nicholas Humphrey.md",
+    "Nick Hanauer.md",
     "Nicolas gisin.md",
     "Niels Bohr.md",
     "Nigel James Hitchin.md",
+    "Nikolai Kardashev.md",
     "Nima Arkani-Hamed.md",
+    "Nine axes of merit for technosignature searches.md",
     "nlab.md",
     "no-go theorems.md",
     "no-hair theorem.md",
@@ -1024,6 +1197,7 @@
     "Nobel Prize.md",
     "non-euclidean geometry.md",
     "non-local theories.md",
+    "non-zero-sum games.md",
     "Nordstrom's theory of gravitation.md",
     "normal subgroup.md",
     "Norton's dome.md",
@@ -1044,10 +1218,14 @@
     "old fisherman's mistake.md",
     "Old quantum theory.md",
     "olivia caramello.md",
+    "Omega Point.md",
     "On proof and progress in mathematics.md",
     "On Sizes and Distances by Hipparchus.md",
     "On teaching mathematics by vladimir arnold.md",
+    "On the likelihood of non-terrestrial artifacts in the Solar System.md",
     "On the Origin of Species.md",
+    "On the Possibility of Detecting Class A Stellar Engines using Exoplanet Transit Curves.md",
+    "On the radius of Dyson's sphere.md",
     "One defining Artificial Intelligence by Pei Wang.md",
     "oneness.md",
     "ontology.md",
@@ -1059,8 +1237,10 @@
     "operations research.md",
     "optic chiasm.md",
     "optic nerve.md",
+    "optical seti.md",
     "optics.md",
     "optimism.md",
+    "orbital angular momentum.md",
     "order theory.md",
     "Oregon Programming Languages Summer School.md",
     "organ.md",
@@ -1068,6 +1248,7 @@
     "organism.md",
     "origin of life.md",
     "Oswald Avery.md",
+    "Our Sky Now and Then; Searches for Lost Stars and Impossible Effects as Probes of Advanced Extraterrestrial Civilizations.md",
     "Outer Space Treaty.md",
     "Owen Lynch.md",
     "Oxford Handbooks in Philosophy Series.md",
@@ -1112,7 +1293,10 @@
     "Pasted image 20240311053451.png",
     "Pasted image 20240420225701.png",
     "Patrick Matthew.md",
+    "Paul A Samuelson.md",
+    "Paul Davies.md",
     "Paul Dirac.md",
+    "Paul Gilster.md",
     "Paul Graham.md",
     "Paul M Pietroski.md",
     "Paul Nurse.md",
@@ -1131,17 +1315,23 @@
     "Peter Mitchell.md",
     "Peter Shor.md",
     "Peter Sjöstedt-Hughes.md",
+    "Peter Thiel.md",
     "Peter Woit.md",
     "petri nets.md",
+    "phenomenology.md",
+    "philanthropy.md",
+    "Philip Morrison.md",
     "Philomorphs.md",
     "Philosophiae Naturalis Principia Mathematica.md",
     "philosophy.md",
     "philosophy of mind.md",
     "philosophy of physics.md",
     "philosophy of science.md",
+    "philosophy of technology.md",
     "Phonetics.md",
     "phosphorylation.md",
     "photon.md",
+    "Photon Orbital Angular Momentum in Astrophysics.md",
     "photosynthesis.md",
     "physical field.md",
     "physicalism.md",
@@ -1156,8 +1346,12 @@
     "physmatics.md",
     "Picard Groups of Moduli Functors.md",
     "Pierre Gassendi.md",
+    "Pinchen Fan.md",
     "Pineal gland.md",
+    "Placing a limit on star-fed Kardashev type III civilisations..md",
     "Planck star.md",
+    "Planetary Astrobiology by Victoria Meadows et al.md",
+    "Plectics.md",
     "Poetry.md",
     "policy making.md",
     "political science.md",
@@ -1167,7 +1361,9 @@
     "population.md",
     "population biology.md",
     "positive feedback loop.md",
+    "Post-Detection SETI Protocols & METI; The Time Has Come To Regulate Them Both.md",
     "post-quantum cryptography.md",
+    "postphenomenology.md",
     "Potassium.md",
     "Prakash Panangaden.md",
     "Prakhar Pratyush.md",
@@ -1183,6 +1379,7 @@
     "Principia Mathematica.md",
     "Principia Philosophiae.md",
     "Principles of Biochemistry by Albert L. Lehninger.md",
+    "Prior indigenous technological species.md",
     "privacy.md",
     "probability.md",
     "probability theory.md",
@@ -1193,6 +1390,9 @@
     "Products.md",
     "Programming Language Theory.md",
     "Programming Languages.md",
+    "Progress in Astronautics and Aeronautics series.md",
+    "Project Cyclops.md",
+    "Project Ozma.md",
     "Project Tuva.md",
     "projective geometry.md",
     "prokaryotes.md",
@@ -1208,8 +1408,10 @@
     "proton.md",
     "Proxima Centauri.md",
     "psychology.md",
+    "pulsar.md",
     "purpose.md",
     "pursuing stacks.md",
+    "Pyotr Makovetsky.md",
     "Python.md",
     "quadruped.md",
     "qualia.md",
@@ -1239,10 +1441,13 @@
     "quantum tunneling effect.md",
     "quotient.md",
     "quotient set.md",
+    "radioastronomy.md",
+    "Radioastronomy and communication through space.md",
     "Radon–Hurwitz numbers.md",
     "Random Access Memory.md",
     "Raphael Bousso.md",
     "Rapoport's Rules.md",
+    "Rationale for the water hole.md",
     "Ravi Vakil.md",
     "reaction-diffusion model.md",
     "Read Only Memory.md",
@@ -1250,6 +1455,7 @@
     "real analysis.md",
     "Real Analysis by Bruckner et al.md",
     "Reality Is Not What It Seems The Journey to Quantum Gravity by carlo rovelli.md",
+    "Rebecca Charbonneau.md",
     "Recent Progress on the Black Hole Information Paradox.md",
     "reciprocity.md",
     "Récoltes et Semailles.md",
@@ -1261,9 +1467,12 @@
     "relativity theory.md",
     "Rene Descartes.md",
     "Rene Girard.md",
+    "representation theory.md",
+    "research portfolio.md",
     "resource and exclusion problem.md",
     "retina.md",
     "reversible process.md",
+    "Reviewing METI; A Critical Analysis of the Arguments.md",
     "RH saga.md",
     "Rhetoric.md",
     "Rhiannon Beaubien.md",
@@ -1281,7 +1490,10 @@
     "ring.md",
     "ring homomorphism.md",
     "ring theory.md",
+    "rio scale.md",
     "Robbert Dijkgraaf.md",
+    "Robert Freitas.md",
+    "Robert Gray.md",
     "Robert Hooke.md",
     "Robert Langland.md",
     "Robert Morris Sapolsky.md",
@@ -1290,6 +1502,7 @@
     "Roger Penrose.md",
     "Roget’s International Thesaurus of English Words and Phrases.md",
     "Ronald Brown.md",
+    "Ronald N Bracewell.md",
     "Rosalind Franklin.md",
     "Rosetta Stone Paper.md",
     "Ross Street.md",
@@ -1305,32 +1518,48 @@
     "SageMath.md",
     "Sam Altman.md",
     "Sanskrit.md",
+    "Sarah Scoles.md",
     "Scenius.md",
     "schauder basis.md",
+    "schelling point.md",
     "Schrodinger bridge problem.md",
+    "science.md",
     "Science and Civilisation in China.md",
     "Science and Sanity An Introduction to Non-Aristotelian Systems and General Semantics.md",
     "Science Fiction.md",
     "Science Fictions How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth by stuart ritchie.md",
-    "sciences.md",
     "Scientific American Library Series.md",
     "Scott Aaronson.md",
     "SCP Foundation.md",
     "Sculpture.md",
     "sean carroll.md",
     "search engeines.md",
+    "Search for Artificial Stellar Sources of Infrared Radiation.md",
+    "Search for Nanosecond Optical Pulses from Nearby Solar-Type Stars.md",
+    "Searching for alien artifacts on the moon.md",
+    "Searching for Extraterrestrial Intelligence; SETI Past, Present, and Future.md",
+    "Searching for Good Science - The Cancellation of NASA's SETI Program.md",
     "Searching for Interstellar Communications.md",
     "self.md",
     "self-organization.md",
+    "self-replicating machine.md",
+    "Self-replicating spacecraft.md",
     "selfishness.md",
     "semantics.md",
     "Seminar on Applied Category Theory.md",
     "senses and the world.md",
     "Set Theory.md",
+    "SETA.md",
     "Seth Lloyd.md",
+    "Seth Shostak.md",
     "SETI.md",
+    "SETI in star clusters; a theoretical approach.md",
+    "SETI is Part of Astrobiology.md",
+    "seti protocol.md",
+    "SETI--a waste of time.md",
     "Sets for Mathematics by lawvere.md",
     "sexual intercourse.md",
+    "Shallow radar (SHARAD) sounding observations of the Medusae Fossae Formation, Mars.md",
     "Shane Parrish.md",
     "sheaf theory.md",
     "Shelter Island II Proceedings of the 1983 Shelter Island Conference on Quantum Field Theory and the Fundamental Problems of Physics.md",
@@ -1347,11 +1576,14 @@
     "small categories.md",
     "social choice theory.md",
     "social sciences.md",
+    "society.md",
     "Society for mind-matter research.md",
     "sociology.md",
+    "Sofia Sheikh.md",
     "Soft Hair on Black Holes.md",
     "software.md",
     "Solar Eclipse.md",
+    "solar system.md",
     "Solomon Feferman.md",
     "some diagram apps.md",
     "Somnium, seu opus posthumum De astronomia lunari.md",
@@ -1361,9 +1593,17 @@
     "Soteriology.md",
     "soul.md",
     "space.md",
+    "space architecture.md",
+    "Space colonization.md",
     "space exploration.md",
+    "Space Migrations; Anthropology and the Humanization of Space.md",
+    "Space Mission Analysis and Design.md",
+    "Space Mission Engineering; The New SMAD.md",
     "Space systems engineering.md",
+    "Space Technology Library Series.md",
+    "space-technology.md",
     "space-time.md",
+    "spacecraft.md",
     "spaceship.md",
     "Spanish.md",
     "spatial cognition.md",
@@ -1378,6 +1618,8 @@
     "Spring School on Quantum Structures.md",
     "Springer biography series.md",
     "Springer Monographs in Mathematics.md",
+    "Springer Space and Society Series.md",
+    "SpringerBriefs in Space Development.md",
     "St John's reading list.md",
     "stable similarity.md",
     "Stafford Beer.md",
@@ -1388,16 +1630,20 @@
     "statistical mechanics.md",
     "statistics.md",
     "steam engine.md",
+    "stellar engine.md",
+    "Stellar Engines for Kardashev's Type II Civilisations.md",
     "Stephen Grossberg.md",
     "Stephen Hawking.md",
     "Stephen Wolfram.md",
     "Steve Awodey.md",
+    "Steve Garber.md",
     "Steve Jobs.md",
     "Steven Strogatz.md",
     "Steven Weinberg.md",
     "stoke's theorem.md",
     "stories.md",
     "strange loop.md",
+    "Strategies and advice for the Search for Extraterrestrial Intelligence.md",
     "stressor.md",
     "String Diagrams.md",
     "string theory.md",
@@ -1433,18 +1679,28 @@
     "systems biology.md",
     "systems engineering.md",
     "Systems Engineering Using Systems Thinking to Design Better Aerospace Systems.md",
+    "systems science.md",
     "systems theory.md",
     "Tadashi Tokieda.md",
     "Tai-Danae Bradley.md",
+    "Taking \"The Road Not Taken''; On the Benefits of Diversifying Your Academic Portfolio.md",
     "Tamil.md",
     "Tangent Vector Space.md",
     "TASI 2023.md",
+    "Tau Ceti.md",
     "technology.md",
+    "technosignature.md",
     "TED books.md",
     "telekinesis.md",
     "tensors.md",
     "ternary plot.md",
+    "Tessa Fisher.md",
+    "Thanu Padmanabhan.md",
+    "The 2024 Assembly of The Order of the Octopus.md",
     "The Air Almanac.md",
+    "The Arecibo Message of November, 1974.md",
+    "The Arecibo Observatory.md",
+    "The Art of Strategy; A Game Theorist Guide to Success in Business and Life.md",
     "The Autobiography of a Yogi.md",
     "The Big Picture by sean carroll.md",
     "The Biggest Ideas in the Universe.md",
@@ -1453,19 +1709,25 @@
     "The Cambridge Ancient History series.md",
     "The compositional structure of multipartite quantum entanglement.md",
     "The devil in the Data.md",
+    "The Eerie Silence; Renewing Our Search for Alien Intelligence.md",
+    "The Elusive Wow; Searching for Extraterrestrial Intelligence.md",
     "The Emergence of Man Series.md",
     "The Emergent Multiverse Quantum Theory according to the Everett Interpretation.md",
+    "The energy expansions of evolution.md",
     "The Extended Phenotype by Dawkins.md",
+    "The Fermi Paradox Is Neither Fermi's Nor a Paradox.md",
     "The Feynman Lectures on Physics.md",
     "The Foundations of Mathematics by kenneth kunen.md",
     "The four laws of black hole mechanics.md",
     "the future of physics.md",
     "The Future of the Commons.md",
+    "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. I. Background and Justification.md",
     "The Genesis of the Langlands Program.md",
     "The geometric cobordism hypothesis.md",
     "The Great Ideas Program Series.md",
     "The Great Mental Models series.md",
     "The Great Mental Models Volume 1 General Thinking Concepts.md",
+    "The Great Silence - the Controversy Concerning Extraterrestrial Intelligent Life.md",
     "The hard problem of Consciousness.md",
     "The hard problem of matter.md",
     "The Haskell Road to Logic, Maths and Programming.md",
@@ -1484,6 +1746,7 @@
     "The Mind-Body Problem by Jonathan Westphal.md",
     "The MIT Press Essential Knowledge Series.md",
     "The Nature of the Firm.md",
+    "the network state.md",
     "the number systems foundations of algebra and analysis by solomon feferman.md",
     "The Order of Time by Carlo Rovelli.md",
     "The Outer Limits of Reason What Science Mathematics and Logic Cannot Tell Us by yanofsky.md",
@@ -1496,21 +1759,32 @@
     "The power of symmetry by Nathan Seiberg.md",
     "The pre-history of open games by Jules Hedges.md",
     "The Race to Crack the Genetic Code with Matthew Cobb.md",
+    "The Radio Search for Intelligent Extraterrestrial Life.md",
+    "The Random Walk of Cars and Their Collision Probabilities with Planets.md",
     "The Rising Sea Foundations of Algebraic Geometry by Ravi Vakil.md",
     "The Road to General Intelligence by jules et al.md",
     "The Road to Reality by Roger Penrose.md",
     "The role of quantum information in thermodynamics --- a topical review.md",
     "the science of consciousness conference.md",
+    "The search for extraterrestrial artifacts.md",
+    "The Search for Extraterrestrial Civilizations with Large Energy Supplies. IV. The Signatures and Information Content of Transiting Megastructures.md",
+    "The Search for Extraterrestrial Intelligence by Jill Tarter.md",
+    "The search for extraterrestrial intelligence Oliver.md",
     "The Second Law of Quantum Complexity.md",
     "The Secret of Life; Rosalind Franklin, James Watson, Francis Crick, and the Discovery of DNA's Double Helix.md",
     "The Selfish Gene by Richard Dawkins.md",
     "The sheafification fast track.md",
+    "the solipsist approach to extraterrestrial intelligence.md",
     "The Story of Civilization Series.md",
+    "The Strategy of Conflict by Schelling.md",
     "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
+    "The Tantallizing WOW Signal.md",
     "The Teaching Company Audiobooks.md",
     "The Theoretical Minimum.md",
     "The Thirring Institute.md",
     "The Trolley Problem.md",
+    "The Undulator Radiation Collider; An Energy Efficient Design For A  √s=10e15   GeV Collider.md",
+    "The University of Arizona Space Science Series.md",
     "The unphysicality of Hilbert spaces by Carcassi et al.md",
     "The Unreasonable Effectiveness of Mathematics in the Natural Sciences.md",
     "The Unreasonable Effectiveness of Physics in the Mathematical Sciences.md",
@@ -1519,9 +1793,12 @@
     "The work of Robert Langlands by James Arthur.md",
     "The World Book Encyclopaedia.md",
     "the world knot.md",
+    "the wow signal.md",
+    "The Zoo Hypothesis.md",
     "Theodore Frankel.md",
     "Theodore Schwann.md",
     "Theodore Shifrin.md",
+    "theology.md",
     "theomorphism.md",
     "theoretical computer science.md",
     "Theoretical Computer Science for the Working Category Theorist by yanofsky.md",
@@ -1535,6 +1812,7 @@
     "Thomas Heath.md",
     "Thomas Judson.md",
     "Thomas Nagel.md",
+    "Thomas Schelling.md",
     "Three Decades of Activations A Comprehensive Survey of 400 Activation Functions for Neural Networks.md",
     "Three Lectures on Complexity and Black Holes by susskind.md",
     "three modes of existence.md",
@@ -1560,8 +1838,12 @@
     "Topos à l'IHES.md",
     "topos online 2021.md",
     "topos theory.md",
+    "Towards a Comprehensive Bibliography for SETI.md",
     "Tragedy of the commons.md",
+    "transit.md",
+    "Transit Light-Curve Signatures of Artificial Objects.md",
     "transitivity.md",
+    "Transmission of Information by Extraterrestrial Civilizations.md",
     "Treatise on Man.md",
     "trichotomy.md",
     "trilemma.md",
@@ -1597,6 +1879,7 @@
     "unsupervised learning.md",
     "Urinary Tract Infection.md",
     "Urs Schreiber.md",
+    "Use of class A and class C stellar engines to control sun movement in the galaxy.md",
     "utilitarian arts.md",
     "UV radiation.md",
     "vaccine.md",
@@ -1609,8 +1892,12 @@
     "veda.md",
     "Vedanta Society of New York.md",
     "vertebrate.md",
+    "Very Large Array.md",
+    "Victoria Meadows.md",
     "Vienna Godel Lectures.md",
+    "Virginia Louise Trimble.md",
     "virus.md",
+    "Visions of human futures in space and SETI.md",
     "visual cortex.md",
     "Visual Illusions.md",
     "Visualization of the Godel universe.md",
@@ -1619,11 +1906,15 @@
     "vladimir voevodsky.md",
     "Vojta's conjecture.md",
     "Von Neumann entropy.md",
+    "Von Neumann probes.md",
     "Walther Flemming.md",
+    "water hole.md",
     "wavefunction collapse.md",
     "We Really Don't Know How to Compute by gerry sussman.md",
+    "We Wait and Wonder.md",
     "welfare capitalism.md",
     "Well-definedness.md",
+    "WETI.md",
     "wetware.md",
     "What are Physical Objects by Ned Markosian.md",
     "What Is a Quantum Field Theory.md",
@@ -1647,16 +1938,23 @@
     "Wojciech H. Zurek.md",
     "Wolfgang Smith.md",
     "womb.md",
+    "Woodpeckers and Diamonds; Some Aspects of Evolutionary Convergence in Astrobiology.md",
+    "Woodruff Sullivan.md",
     "word embedding.md",
+    "WTF star.md",
     "Wu–Yang dictionary.md",
     "xAI.md",
     "Yeast.md",
     "yoneda lemma.md",
     "Yoshihiro Maruyama.md",
     "Yuri Manin.md",
+    "Yuri Milner.md",
+    "Yvonne Choquet-Bruhat.md",
+    "zero-sum games.md",
     "zettelkasten.md",
     "Zhuangzi.md",
     "Zhuangzi by Zhuangzi.md",
+    "Zoo Hypothesis.md",
     "zotero.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -1673,6 +1971,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -1686,8 +1985,8 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
     "pasted-image-20230521001002.png",
-    "pasted-image-20240311053451.png",
     "pasted-image-20230720233230.png",
     "pasted-image-20240420225701.png",
     "pasted-image-20230704001756.png",
@@ -1719,6 +2018,7 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -1731,7 +2031,8 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
   ],
   "fileInfo": {
     "public_journal/2023-05-11.md": {
@@ -1765,8 +2066,8 @@
       "dependencies": []
     },
     "public_journal/2023-07-03.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 5240,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 5241,
       "exportedPath": "public_journal/2023-07-03.html",
       "dependencies": []
     },
@@ -1825,8 +2126,8 @@
       "dependencies": []
     },
     "public_journal/2023-07-24.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 3623,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 3622,
       "exportedPath": "public_journal/2023-07-24.html",
       "dependencies": []
     },
@@ -1879,7 +2180,7 @@
       "dependencies": []
     },
     "public_journal/2023-08-07.md": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1723944114342,
       "sourceSize": 2248,
       "exportedPath": "public_journal/2023-08-07.html",
       "dependencies": []
@@ -1987,8 +2288,8 @@
       "dependencies": []
     },
     "A Formal Definition of Intelligence Based on an Intensional Variant of Algorithmic Complexity by Jose et al.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 310,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 311,
       "exportedPath": "a-formal-definition-of-intelligence-based-on-an-intensional-variant-of-algorithmic-complexity-by-jose-et-al.html",
       "dependencies": []
     },
@@ -2035,8 +2336,8 @@
       "dependencies": []
     },
     "A Student's Guide Series.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 142,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 196,
       "exportedPath": "a-student's-guide-series.html",
       "dependencies": []
     },
@@ -2155,8 +2456,8 @@
       "dependencies": []
     },
     "advises.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 1297,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1429,
       "exportedPath": "advises.html",
       "dependencies": []
     },
@@ -2179,20 +2480,20 @@
       "dependencies": []
     },
     "AI Alignment Problem.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 66,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 67,
       "exportedPath": "ai-alignment-problem.html",
       "dependencies": []
     },
     "AI Safety.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 146,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 147,
       "exportedPath": "ai-safety.html",
       "dependencies": []
     },
     "AI-ML-DS.md": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 1244,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1246,
       "exportedPath": "ai-ml-ds.html",
       "dependencies": []
     },
@@ -2209,8 +2510,8 @@
       "dependencies": []
     },
     "Alan Turing.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 142,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 182,
       "exportedPath": "alan-turing.html",
       "dependencies": []
     },
@@ -2523,8 +2824,8 @@
       "dependencies": []
     },
     "Architecture.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 47,
       "exportedPath": "architecture.html",
       "dependencies": []
     },
@@ -2558,14 +2859,6 @@
       "exportedPath": "art.html",
       "dependencies": []
     },
-    "Artifical Intelligence.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 191,
-      "exportedPath": "artifical-intelligence.html",
-      "dependencies": [
-        "pasted-image-20240311053451.png"
-      ]
-    },
     "Artificial Intelligence Mathematical Olympiad Prize.md": {
       "modifiedTime": 1716743287874,
       "sourceSize": 35,
@@ -2591,8 +2884,8 @@
       "dependencies": []
     },
     "Astronomy.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 75,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 194,
       "exportedPath": "astronomy.html",
       "dependencies": []
     },
@@ -2969,8 +3262,8 @@
       "dependencies": []
     },
     "Breakthrough Propulsion Physics Program.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 277,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 419,
       "exportedPath": "breakthrough-propulsion-physics-program.html",
       "dependencies": []
     },
@@ -2987,8 +3280,8 @@
       "dependencies": []
     },
     "Bruno Gavranović.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 348,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 349,
       "exportedPath": "bruno-gavranović.html",
       "dependencies": []
     },
@@ -3029,8 +3322,8 @@
       "dependencies": []
     },
     "calendar.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 28,
       "exportedPath": "calendar.html",
       "dependencies": []
     },
@@ -3203,8 +3496,8 @@
       "dependencies": []
     },
     "category theory.md": {
-      "modifiedTime": 1717525218335,
-      "sourceSize": 879,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1019,
       "exportedPath": "category-theory.html",
       "dependencies": []
     },
@@ -3835,7 +4128,7 @@
       "dependencies": []
     },
     "Consciousness.md": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1723944114342,
       "sourceSize": 987,
       "exportedPath": "consciousness.html",
       "dependencies": []
@@ -3931,8 +4224,8 @@
       "dependencies": []
     },
     "cosmology.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 236,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 253,
       "exportedPath": "cosmology.html",
       "dependencies": []
     },
@@ -4459,8 +4752,8 @@
       "dependencies": []
     },
     "Duality of Compositionality and Composability.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 996,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 997,
       "exportedPath": "duality-of-compositionality-and-composability.html",
       "dependencies": []
     },
@@ -4501,8 +4794,8 @@
       "dependencies": []
     },
     "economics.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 524,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 751,
       "exportedPath": "economics.html",
       "dependencies": []
     },
@@ -4525,8 +4818,8 @@
       "dependencies": []
     },
     "Education System.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 1740,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1902,
       "exportedPath": "education-system.html",
       "dependencies": []
     },
@@ -4699,8 +4992,8 @@
       "dependencies": []
     },
     "Encyclopedias and wikis.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 2700,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 2755,
       "exportedPath": "encyclopedias-and-wikis.html",
       "dependencies": []
     },
@@ -4723,8 +5016,8 @@
       "dependencies": []
     },
     "Engineering.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 91,
       "exportedPath": "engineering.html",
       "dependencies": []
     },
@@ -4747,8 +5040,8 @@
       "dependencies": []
     },
     "entrepreneurship.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 966,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 965,
       "exportedPath": "entrepreneurship.html",
       "dependencies": [
         "pasted-image-20240420225701.png"
@@ -4860,8 +5153,8 @@
       "dependencies": []
     },
     "Eric Weinstein.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 94,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 244,
       "exportedPath": "eric-weinstein.html",
       "dependencies": []
     },
@@ -5019,12 +5312,6 @@
       "modifiedTime": 1716743287874,
       "sourceSize": 82,
       "exportedPath": "external-detection-of-consciousness.html",
-      "dependencies": []
-    },
-    "Extra Terrestrial.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
-      "exportedPath": "extra-terrestrial.html",
       "dependencies": []
     },
     "Fabrizio Genovese.md": {
@@ -5244,8 +5531,8 @@
       "dependencies": []
     },
     "free-will.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 164,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 302,
       "exportedPath": "free-will.html",
       "dependencies": []
     },
@@ -5406,8 +5693,8 @@
       "dependencies": []
     },
     "game theory.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 96,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 194,
       "exportedPath": "game-theory.html",
       "dependencies": []
     },
@@ -5778,8 +6065,8 @@
       "dependencies": []
     },
     "hardware.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 251,
       "exportedPath": "hardware.html",
       "dependencies": []
     },
@@ -5790,8 +6077,8 @@
       "dependencies": []
     },
     "Haskell.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 542,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 765,
       "exportedPath": "haskell.html",
       "dependencies": []
     },
@@ -6144,7 +6431,7 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1716748646882,
+      "modifiedTime": 1723944114342,
       "sourceSize": 1837,
       "exportedPath": "index.html",
       "dependencies": []
@@ -6294,8 +6581,8 @@
       "dependencies": []
     },
     "interstellar exploration.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 95,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 118,
       "exportedPath": "interstellar-exploration.html",
       "dependencies": []
     },
@@ -6320,7 +6607,7 @@
       "dependencies": []
     },
     "Introduction to real analysis by bartle and sherbert.md": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1723944114342,
       "sourceSize": 159,
       "exportedPath": "introduction-to-real-analysis-by-bartle-and-sherbert.html",
       "dependencies": []
@@ -6374,8 +6661,8 @@
       "dependencies": []
     },
     "Issac Newton.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 470,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 511,
       "exportedPath": "issac-newton.html",
       "dependencies": []
     },
@@ -6806,8 +7093,8 @@
       "dependencies": []
     },
     "let me think.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 63,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 87,
       "exportedPath": "let-me-think.html",
       "dependencies": []
     },
@@ -6902,8 +7189,8 @@
       "dependencies": []
     },
     "literature.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 58,
       "exportedPath": "literature.html",
       "dependencies": []
     },
@@ -7052,8 +7339,8 @@
       "dependencies": []
     },
     "management.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 115,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 128,
       "exportedPath": "management.html",
       "dependencies": []
     },
@@ -7256,8 +7543,8 @@
       "dependencies": []
     },
     "Maya Benowitz.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 275,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 276,
       "exportedPath": "maya-benowitz.html",
       "dependencies": []
     },
@@ -7328,8 +7615,8 @@
       "dependencies": []
     },
     "Merlin Sheldrake.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 8,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 113,
       "exportedPath": "merlin-sheldrake.html",
       "dependencies": []
     },
@@ -7628,8 +7915,8 @@
       "dependencies": []
     },
     "Nagendra Vijay.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 759,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 760,
       "exportedPath": "nagendra-vijay.html",
       "dependencies": []
     },
@@ -7643,12 +7930,6 @@
       "modifiedTime": 1716743287874,
       "sourceSize": 0,
       "exportedPath": "nano-material.html",
-      "dependencies": []
-    },
-    "nano technology.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 36,
-      "exportedPath": "nano-technology.html",
       "dependencies": []
     },
     "NASA.md": {
@@ -7892,8 +8173,8 @@
       "dependencies": []
     },
     "objectivism.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 34,
       "exportedPath": "objectivism.html",
       "dependencies": []
     },
@@ -7982,8 +8263,8 @@
       "dependencies": []
     },
     "One defining Artificial Intelligence by Pei Wang.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 121,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 122,
       "exportedPath": "one-defining-artificial-intelligence-by-pei-wang.html",
       "dependencies": []
     },
@@ -8006,8 +8287,8 @@
       "dependencies": []
     },
     "open Problems.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 476,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 512,
       "exportedPath": "open-problems.html",
       "dependencies": []
     },
@@ -8366,8 +8647,8 @@
       "dependencies": []
     },
     "Paul Dirac.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 74,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 174,
       "exportedPath": "paul-dirac.html",
       "dependencies": []
     },
@@ -8414,8 +8695,8 @@
       "dependencies": []
     },
     "Pei Wang.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 83,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 84,
       "exportedPath": "pei-wang.html",
       "dependencies": []
     },
@@ -8840,8 +9121,8 @@
       "dependencies": []
     },
     "Programming Languages.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 261,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 389,
       "exportedPath": "programming-languages.html",
       "dependencies": []
     },
@@ -8894,8 +9175,8 @@
       "dependencies": []
     },
     "propulsion.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 154,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 231,
       "exportedPath": "propulsion.html",
       "dependencies": []
     },
@@ -8906,8 +9187,8 @@
       "dependencies": []
     },
     "Protein Folding Problem.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 55,
       "exportedPath": "protein-folding-problem.html",
       "dependencies": []
     },
@@ -9044,8 +9325,8 @@
       "dependencies": []
     },
     "quantum information.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 59,
       "exportedPath": "quantum-information.html",
       "dependencies": []
     },
@@ -9056,8 +9337,8 @@
       "dependencies": []
     },
     "quantum mechanics.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 98,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 183,
       "exportedPath": "quantum-mechanics.html",
       "dependencies": []
     },
@@ -9164,8 +9445,8 @@
       "dependencies": []
     },
     "reading.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 8441,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 8507,
       "exportedPath": "reading.html",
       "dependencies": []
     },
@@ -9480,8 +9761,8 @@
       "dependencies": []
     },
     "Sabine Hossenfelder.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 514,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 513,
       "exportedPath": "sabine-hossenfelder.html",
       "dependencies": []
     },
@@ -9557,12 +9838,6 @@
       "exportedPath": "science-fictions-how-fraud,-bias,-negligence,-and-hype-undermine-the-search-for-truth-by-stuart-ritchie.html",
       "dependencies": []
     },
-    "sciences.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 320,
-      "exportedPath": "sciences.html",
-      "dependencies": []
-    },
     "Scientific American Library Series.md": {
       "modifiedTime": 1716743287874,
       "sourceSize": 127,
@@ -9594,14 +9869,14 @@
       "dependencies": []
     },
     "search engeines.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 52,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 122,
       "exportedPath": "search-engeines.html",
       "dependencies": []
     },
     "Searching for Interstellar Communications.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 239,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1339,
       "exportedPath": "searching-for-interstellar-communications.html",
       "dependencies": []
     },
@@ -9654,8 +9929,8 @@
       "dependencies": []
     },
     "SETI.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 436,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1970,
       "exportedPath": "seti.html",
       "dependencies": []
     },
@@ -10050,8 +10325,8 @@
       "dependencies": []
     },
     "Steven Weinberg.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 178,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 267,
       "exportedPath": "steven-weinberg.html",
       "dependencies": []
     },
@@ -10194,8 +10469,8 @@
       "dependencies": []
     },
     "Swami Sarvapriyananda.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 1377,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 1398,
       "exportedPath": "swami-sarvapriyananda.html",
       "dependencies": []
     },
@@ -10320,8 +10595,8 @@
       "dependencies": []
     },
     "technology.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 22,
       "exportedPath": "technology.html",
       "dependencies": []
     },
@@ -10672,8 +10947,8 @@
       "dependencies": []
     },
     "The Road to General Intelligence by jules et al.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 833,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 834,
       "exportedPath": "the-road-to-general-intelligence-by-jules-et-al.html",
       "dependencies": []
     },
@@ -11002,8 +11277,8 @@
       "dependencies": []
     },
     "Topology A Categorical Approach by Tai et al.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 101,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 201,
       "exportedPath": "topology-a-categorical-approach-by-tai-et-al.html",
       "dependencies": []
     },
@@ -11221,8 +11496,8 @@
       "dependencies": []
     },
     "Universal Intelligence A Definition of Machine Intelligence by Legg and Hutter.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 134,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 135,
       "exportedPath": "universal-intelligence-a-definition-of-machine-intelligence-by-legg-and-hutter.html",
       "dependencies": []
     },
@@ -11239,8 +11514,8 @@
       "dependencies": []
     },
     "Unreasonable ineffectiveness of mathematics.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 263,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 262,
       "exportedPath": "unreasonable-ineffectiveness-of-mathematics.html",
       "dependencies": []
     },
@@ -11365,8 +11640,8 @@
       "dependencies": []
     },
     "Visual Illusions.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 283,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 298,
       "exportedPath": "visual-illusions.html",
       "dependencies": []
     },
@@ -11650,12 +11925,6 @@
       "exportedPath": "pasted-image-20230521001002.png",
       "dependencies": []
     },
-    "pasted-image-20240311053451.png": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 2289596,
-      "exportedPath": "pasted-image-20240311053451.png",
-      "dependencies": []
-    },
     "pasted-image-20230720233230.png": {
       "modifiedTime": 1716743287874,
       "sourceSize": 127169,
@@ -11663,7 +11932,7 @@
       "dependencies": []
     },
     "pasted-image-20240420225701.png": {
-      "modifiedTime": 1716743287874,
+      "modifiedTime": 1723944114342,
       "sourceSize": 687971,
       "exportedPath": "pasted-image-20240420225701.png",
       "dependencies": []
@@ -11741,91 +12010,91 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -11963,92 +12232,92 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 552333,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 658608,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 128398,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 162400,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 157722,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 311,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 328,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1717582917607,
+      "modifiedTime": 1723944114342,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1717525218335,
-      "sourceSize": 43,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 203,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "cyber-physical systems.md": {
-      "modifiedTime": 1717525218335,
-      "sourceSize": 126,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 285,
       "exportedPath": "cyber-physical-systems.html",
       "dependencies": []
     },
@@ -12071,9 +12340,1829 @@
       "dependencies": []
     },
     "cryptopals.md": {
-      "modifiedTime": 1717582917607,
-      "sourceSize": 119,
+      "modifiedTime": 1723944114342,
+      "sourceSize": 143,
       "exportedPath": "cryptopals.html",
+      "dependencies": []
+    },
+    "40 Eridani.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 40,
+      "exportedPath": "40-eridani.html",
+      "dependencies": []
+    },
+    "61 Cygni.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 38,
+      "exportedPath": "61-cygni.html",
+      "dependencies": []
+    },
+    "70 Ophiuchi.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 41,
+      "exportedPath": "70-ophiuchi.html",
+      "dependencies": []
+    },
+    "A Brief History of the Extraterrestrial Intelligence Concept.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 421,
+      "exportedPath": "a-brief-history-of-the-extraterrestrial-intelligence-concept.html",
+      "dependencies": []
+    },
+    "A cloaking device for transiting planets.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 431,
+      "exportedPath": "a-cloaking-device-for-transiting-planets.html",
+      "dependencies": []
+    },
+    "A Complex Systems Approach to Exoplanet Atmospheric Chemistry; New Prospects for Ruling Out the Possibility of Alien Life-As-We-Know-It.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 195,
+      "exportedPath": "a-complex-systems-approach-to-exoplanet-atmospheric-chemistry;-new-prospects-for-ruling-out-the-possibility-of-alien-life-as-we-know-it.html",
+      "dependencies": []
+    },
+    "A Gravitational Wave Transmitter.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 218,
+      "exportedPath": "a-gravitational-wave-transmitter.html",
+      "dependencies": []
+    },
+    "A leisurely introduction to simplicial sets.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 98,
+      "exportedPath": "a-leisurely-introduction-to-simplicial-sets.html",
+      "dependencies": []
+    },
+    "A near-infrared SETI experiment; instrument overview.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 306,
+      "exportedPath": "a-near-infrared-seti-experiment;-instrument-overview.html",
+      "dependencies": []
+    },
+    "A Scenario for Interstellar Exploration and Its Financing.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 458,
+      "exportedPath": "a-scenario-for-interstellar-exploration-and-its-financing.html",
+      "dependencies": []
+    },
+    "A Search for Dyson Spheres Around Late-type Stars in the Solar Neighborhood JN.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 198,
+      "exportedPath": "a-search-for-dyson-spheres-around-late-type-stars-in-the-solar-neighborhood-jn.html",
+      "dependencies": []
+    },
+    "A Search for Dyson Spheres Around Late-Type Stars in the Solar Neighborhood JNN.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 208,
+      "exportedPath": "a-search-for-dyson-spheres-around-late-type-stars-in-the-solar-neighborhood-jnn.html",
+      "dependencies": []
+    },
+    "A search for natural or artificial objects located at the Earth-Moon libration points.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 161,
+      "exportedPath": "a-search-for-natural-or-artificial-objects-located-at-the-earth-moon-libration-points.html",
+      "dependencies": []
+    },
+    "A Search for Periodic Emissions at the Wow Locale.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 225,
+      "exportedPath": "a-search-for-periodic-emissions-at-the-wow-locale.html",
+      "dependencies": []
+    },
+    "A Search of the Wow Locale for Intermittent Radio Signals.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 196,
+      "exportedPath": "a-search-of-the-wow-locale-for-intermittent-radio-signals.html",
+      "dependencies": []
+    },
+    "A Search Strategy for Finding Extraterrestrial Radio Beacons.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 145,
+      "exportedPath": "a-search-strategy-for-finding-extraterrestrial-radio-beacons.html",
+      "dependencies": []
+    },
+    "A VLA Search for the Ohio State Wow.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 249,
+      "exportedPath": "a-vla-search-for-the-ohio-state-wow.html",
+      "dependencies": []
+    },
+    "abiogenesis.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 41,
+      "exportedPath": "abiogenesis.html",
+      "dependencies": []
+    },
+    "Additional Remarks on Extraterrestrial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 158,
+      "exportedPath": "additional-remarks-on-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "aether.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 60,
+      "exportedPath": "aether.html",
+      "dependencies": []
+    },
+    "alien.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 51,
+      "exportedPath": "alien.html",
+      "dependencies": []
+    },
+    "All animals are conscious; shifting the null hypothesis in consciousness science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 209,
+      "exportedPath": "all-animals-are-conscious;-shifting-the-null-hypothesis-in-consciousness-science.html",
+      "dependencies": []
+    },
+    "Alpha Centauri.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 120,
+      "exportedPath": "alpha-centauri.html",
+      "dependencies": []
+    },
+    "Alpha Centauri A.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "alpha-centauri-a.html",
+      "dependencies": []
+    },
+    "Alpha Centauri B.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "alpha-centauri-b.html",
+      "dependencies": []
+    },
+    "angular momentum.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "angular-momentum.html",
+      "dependencies": []
+    },
+    "anthropology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "anthropology.html",
+      "dependencies": []
+    },
+    "Anthropology and the search for extraterrestrial intelligence; An historical view.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 171,
+      "exportedPath": "anthropology-and-the-search-for-extraterrestrial-intelligence;-an-historical-view.html",
+      "dependencies": []
+    },
+    "archaeology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "archaeology.html",
+      "dependencies": []
+    },
+    "Archaeology, Anthropology, and Interstellar Communication.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 357,
+      "exportedPath": "archaeology,-anthropology,-and-interstellar-communication.html",
+      "dependencies": []
+    },
+    "arecibo message.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 47,
+      "exportedPath": "arecibo-message.html",
+      "dependencies": []
+    },
+    "Arecibo Telescope.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 48,
+      "exportedPath": "arecibo-telescope.html",
+      "dependencies": []
+    },
+    "Arthur C. Clarke.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 75,
+      "exportedPath": "arthur-c.-clarke.html",
+      "dependencies": []
+    },
+    "Artificial Biosphere.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "artificial-biosphere.html",
+      "dependencies": []
+    },
+    "Artificial Biosphere by dyson et al.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 306,
+      "exportedPath": "artificial-biosphere-by-dyson-et-al.html",
+      "dependencies": []
+    },
+    "Artificial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 191,
+      "exportedPath": "artificial-intelligence.html",
+      "dependencies": [
+        "pasted-image-20240311053451.png"
+      ]
+    },
+    "Astro576 2018 seti course.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 13796,
+      "exportedPath": "astro576-2018-seti-course.html",
+      "dependencies": []
+    },
+    "astrobiology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 329,
+      "exportedPath": "astrobiology.html",
+      "dependencies": []
+    },
+    "Astrobiology, history, and society; life beyond Earth and the impact of discovery.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 428,
+      "exportedPath": "astrobiology,-history,-and-society;-life-beyond-earth-and-the-impact-of-discovery.html",
+      "dependencies": []
+    },
+    "Astrobiology; Origins from the Big-Bang to Civilisation.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 349,
+      "exportedPath": "astrobiology;-origins-from-the-big-bang-to-civilisation.html",
+      "dependencies": []
+    },
+    "astroengineering.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "astroengineering.html",
+      "dependencies": []
+    },
+    "Astroengineering, Dysonian SETI, and naturalism; A new Catch-22 Author links open overlay panel.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 182,
+      "exportedPath": "astroengineering,-dysonian-seti,-and-naturalism;-a-new-catch-22-author-links-open-overlay-panel.html",
+      "dependencies": []
+    },
+    "Astronomy and Astrophysics Library Series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 144,
+      "exportedPath": "astronomy-and-astrophysics-library-series.html",
+      "dependencies": []
+    },
+    "At What Wavelengths Should We Search for Signals from Extraterrestrial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 231,
+      "exportedPath": "at-what-wavelengths-should-we-search-for-signals-from-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "Avi Loeb.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 22,
+      "exportedPath": "avi-loeb.html",
+      "dependencies": []
+    },
+    "Baby University.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 90,
+      "exportedPath": "baby-university.html",
+      "dependencies": []
+    },
+    "Ben Finney.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 211,
+      "exportedPath": "ben-finney.html",
+      "dependencies": []
+    },
+    "Big Ear Radio Observatory.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 130,
+      "exportedPath": "big-ear-radio-observatory.html",
+      "dependencies": []
+    },
+    "biosignature.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 14,
+      "exportedPath": "biosignature.html",
+      "dependencies": []
+    },
+    "Black hole thermodynamics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 275,
+      "exportedPath": "black-hole-thermodynamics.html",
+      "dependencies": []
+    },
+    "BLC1 signal.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 295,
+      "exportedPath": "blc1-signal.html",
+      "dependencies": []
+    },
+    "Bracewell Probe.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 256,
+      "exportedPath": "bracewell-probe.html",
+      "dependencies": []
+    },
+    "Breakthrough Listen Project.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 167,
+      "exportedPath": "breakthrough-listen-project.html",
+      "dependencies": []
+    },
+    "Business.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 30,
+      "exportedPath": "business.html",
+      "dependencies": []
+    },
+    "Cambridge Astrobiology Series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 118,
+      "exportedPath": "cambridge-astrobiology-series.html",
+      "dependencies": []
+    },
+    "Carl Sagan.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 355,
+      "exportedPath": "carl-sagan.html",
+      "dependencies": []
+    },
+    "Centauri Dreams; Imagining and Planning Interstellar Exploration.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 339,
+      "exportedPath": "centauri-dreams;-imagining-and-planning-interstellar-exploration.html",
+      "dependencies": []
+    },
+    "Christopher Alexander.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 120,
+      "exportedPath": "christopher-alexander.html",
+      "dependencies": []
+    },
+    "Christopher Clavius.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 136,
+      "exportedPath": "christopher-clavius.html",
+      "dependencies": []
+    },
+    "civilization.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "civilization.html",
+      "dependencies": []
+    },
+    "Clarke's three laws.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 98,
+      "exportedPath": "clarke's-three-laws.html",
+      "dependencies": []
+    },
+    "clean energy.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 36,
+      "exportedPath": "clean-energy.html",
+      "dependencies": []
+    },
+    "communication.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 47,
+      "exportedPath": "communication.html",
+      "dependencies": []
+    },
+    "communication protocol.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "communication-protocol.html",
+      "dependencies": []
+    },
+    "Communications from Superior Galactic Communities.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 942,
+      "exportedPath": "communications-from-superior-galactic-communities.html",
+      "dependencies": []
+    },
+    "Competitive programming.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 182,
+      "exportedPath": "competitive-programming.html",
+      "dependencies": []
+    },
+    "complex systems science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 45,
+      "exportedPath": "complex-systems-science.html",
+      "dependencies": []
+    },
+    "Cosmic Noise; A History of Early Radio Astronomy.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 158,
+      "exportedPath": "cosmic-noise;-a-history-of-early-radio-astronomy.html",
+      "dependencies": []
+    },
+    "cryonics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "cryonics.html",
+      "dependencies": []
+    },
+    "culture.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "culture.html",
+      "dependencies": []
+    },
+    "Current Aspects of Exobiology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 194,
+      "exportedPath": "current-aspects-of-exobiology.html",
+      "dependencies": []
+    },
+    "cybersecurity.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 86,
+      "exportedPath": "cybersecurity.html",
+      "dependencies": []
+    },
+    "Danielle Fong.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 88,
+      "exportedPath": "danielle-fong.html",
+      "dependencies": []
+    },
+    "David Brin.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 117,
+      "exportedPath": "david-brin.html",
+      "dependencies": []
+    },
+    "Detecting Industrial Pollution in the Atmospheres of Earth-like Exoplanets.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 302,
+      "exportedPath": "detecting-industrial-pollution-in-the-atmospheres-of-earth-like-exoplanets.html",
+      "dependencies": []
+    },
+    "Detection of Intact Lava Tubes at Marius Hills on the Moon by SELENE (Kaguya) Lunar Radar Sounder.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 278,
+      "exportedPath": "detection-of-intact-lava-tubes-at-marius-hills-on-the-moon-by-selene-(kaguya)-lunar-radar-sounder.html",
+      "dependencies": []
+    },
+    "Detection Technique for Artificially Illuminated Objects in the Outer Solar System and Beyond.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 330,
+      "exportedPath": "detection-technique-for-artificially-illuminated-objects-in-the-outer-solar-system-and-beyond.html",
+      "dependencies": []
+    },
+    "Digital imagery analysis of unusual Martian surface features.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 397,
+      "exportedPath": "digital-imagery-analysis-of-unusual-martian-surface-features.html",
+      "dependencies": []
+    },
+    "Don Ihde.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 200,
+      "exportedPath": "don-ihde.html",
+      "dependencies": []
+    },
+    "Douglas Vakoch.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 294,
+      "exportedPath": "douglas-vakoch.html",
+      "dependencies": []
+    },
+    "Drake Equation.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 410,
+      "exportedPath": "drake-equation.html",
+      "dependencies": []
+    },
+    "Dyson shells; a retrospective.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 160,
+      "exportedPath": "dyson-shells;-a-retrospective.html",
+      "dependencies": []
+    },
+    "dyson sphere.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 23,
+      "exportedPath": "dyson-sphere.html",
+      "dependencies": []
+    },
+    "Dysonian Approach to SETI; A Fruitful Middle Ground.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 301,
+      "exportedPath": "dysonian-approach-to-seti;-a-fruitful-middle-ground.html",
+      "dependencies": []
+    },
+    "Dysonian SETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 23,
+      "exportedPath": "dysonian-seti.html",
+      "dependencies": []
+    },
+    "eavesdropping.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "eavesdropping.html",
+      "dependencies": []
+    },
+    "Eavesdropping; The Radio Signature of the Earth.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 280,
+      "exportedPath": "eavesdropping;-the-radio-signature-of-the-earth.html",
+      "dependencies": []
+    },
+    "Edward Prucell.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 143,
+      "exportedPath": "edward-prucell.html",
+      "dependencies": []
+    },
+    "Electrical Engineering.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "electrical-engineering.html",
+      "dependencies": []
+    },
+    "Elliot Temple.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 267,
+      "exportedPath": "elliot-temple.html",
+      "dependencies": []
+    },
+    "Epsilon Eridani.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 47,
+      "exportedPath": "epsilon-eridani.html",
+      "dependencies": []
+    },
+    "Epsilon Indi.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 42,
+      "exportedPath": "epsilon-indi.html",
+      "dependencies": []
+    },
+    "EPSS 179.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 80,
+      "exportedPath": "epss-179.html",
+      "dependencies": []
+    },
+    "Eureka Manifesto; the Mission for Our Civilization.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 267,
+      "exportedPath": "eureka-manifesto;-the-mission-for-our-civilization.html",
+      "dependencies": []
+    },
+    "Evan Thompson.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 205,
+      "exportedPath": "evan-thompson.html",
+      "dependencies": []
+    },
+    "Evidence in Support of the Hypothesis that Certain Objects on Mars are Artificial in Origin.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 199,
+      "exportedPath": "evidence-in-support-of-the-hypothesis-that-certain-objects-on-mars-are-artificial-in-origin.html",
+      "dependencies": []
+    },
+    "exobiology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 99,
+      "exportedPath": "exobiology.html",
+      "dependencies": []
+    },
+    "exoplanet.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 21,
+      "exportedPath": "exoplanet.html",
+      "dependencies": []
+    },
+    "Exoplanet Biosignatures; A Review of Remotely Detectable Signs of Life.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 178,
+      "exportedPath": "exoplanet-biosignatures;-a-review-of-remotely-detectable-signs-of-life.html",
+      "dependencies": []
+    },
+    "Exoplanets and SETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 229,
+      "exportedPath": "exoplanets-and-seti.html",
+      "dependencies": []
+    },
+    "experimental phenomenology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 93,
+      "exportedPath": "experimental-phenomenology.html",
+      "dependencies": []
+    },
+    "Explanation for the Absence of Extraterrestrials on Earth.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 371,
+      "exportedPath": "explanation-for-the-absence-of-extraterrestrials-on-earth.html",
+      "dependencies": []
+    },
+    "Extraterrestrial.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "extraterrestrial.html",
+      "dependencies": []
+    },
+    "Extraterrestrial Intelligence; An International Petition.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 220,
+      "exportedPath": "extraterrestrial-intelligence;-an-international-petition.html",
+      "dependencies": []
+    },
+    "Extraterrestrial intelligent beings do not exist.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 159,
+      "exportedPath": "extraterrestrial-intelligent-beings-do-not-exist.html",
+      "dependencies": []
+    },
+    "Extremely Large Telescope.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 337,
+      "exportedPath": "extremely-large-telescope.html",
+      "dependencies": []
+    },
+    "Fallibalism.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "fallibalism.html",
+      "dependencies": []
+    },
+    "fermi paradox.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "fermi-paradox.html",
+      "dependencies": []
+    },
+    "FoundThem-21st Century pre-search and post-detection seti protocols for social and digital media.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 327,
+      "exportedPath": "foundthem-21st-century-pre-search-and-post-detection-seti-protocols-for-social-and-digital-media.html",
+      "dependencies": []
+    },
+    "Frank Drake.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 630,
+      "exportedPath": "frank-drake.html",
+      "dependencies": []
+    },
+    "Frank J Tipler.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 192,
+      "exportedPath": "frank-j-tipler.html",
+      "dependencies": []
+    },
+    "Frontiers of Propulsion Science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 229,
+      "exportedPath": "frontiers-of-propulsion-science.html",
+      "dependencies": []
+    },
+    "Furthering a Comprehensive SETI Bibliography.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 147,
+      "exportedPath": "furthering-a-comprehensive-seti-bibliography.html",
+      "dependencies": []
+    },
+    "genetic engineering.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 206,
+      "exportedPath": "genetic-engineering.html",
+      "dependencies": []
+    },
+    "genomics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "genomics.html",
+      "dependencies": []
+    },
+    "Giuseppe Cocconi.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 76,
+      "exportedPath": "giuseppe-cocconi.html",
+      "dependencies": []
+    },
+    "global warming.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "global-warming.html",
+      "dependencies": []
+    },
+    "Global warming as a detectable thermodynamic marker of Earth-like extrasolar civilizations; the case for a telescope like Colossus.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 222,
+      "exportedPath": "global-warming-as-a-detectable-thermodynamic-marker-of-earth-like-extrasolar-civilizations;-the-case-for-a-telescope-like-colossus.html",
+      "dependencies": []
+    },
+    "Gravity's whispers.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 309,
+      "exportedPath": "gravity's-whispers.html",
+      "dependencies": []
+    },
+    "gregorian calendar.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "gregorian-calendar.html",
+      "dependencies": []
+    },
+    "Harish Chandra.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 168,
+      "exportedPath": "harish-chandra.html",
+      "dependencies": []
+    },
+    "harmonic analysis.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "harmonic-analysis.html",
+      "dependencies": []
+    },
+    "hidden variable theory.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 58,
+      "exportedPath": "hidden-variable-theory.html",
+      "dependencies": []
+    },
+    "Higher Topos Theory in Physics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 200,
+      "exportedPath": "higher-topos-theory-in-physics.html",
+      "dependencies": []
+    },
+    "Historical and Cultural Astronomy series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 115,
+      "exportedPath": "historical-and-cultural-astronomy-series.html",
+      "dependencies": []
+    },
+    "history of science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "history-of-science.html",
+      "dependencies": []
+    },
+    "History of SETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "history-of-seti.html",
+      "dependencies": []
+    },
+    "How Much SETI Has Been Done, Finding Needles in the n-Dimensional Cosmic Haystack.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 97,
+      "exportedPath": "how-much-seti-has-been-done,-finding-needles-in-the-n-dimensional-cosmic-haystack.html",
+      "dependencies": []
+    },
+    "Hydrogen Line.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 245,
+      "exportedPath": "hydrogen-line.html",
+      "dependencies": []
+    },
+    "If they are here, where are they; Observational and search considerations.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 256,
+      "exportedPath": "if-they-are-here,-where-are-they;-observational-and-search-considerations.html",
+      "dependencies": []
+    },
+    "Incerto series by Taleb.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 152,
+      "exportedPath": "incerto-series-by-taleb.html",
+      "dependencies": []
+    },
+    "innovation.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 88,
+      "exportedPath": "innovation.html",
+      "dependencies": []
+    },
+    "Interstellar and Interplanetary Communication by Optical Masers.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 323,
+      "exportedPath": "interstellar-and-interplanetary-communication-by-optical-masers.html",
+      "dependencies": []
+    },
+    "interstellar communication.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "interstellar-communication.html",
+      "dependencies": []
+    },
+    "Interstellar Communication; The Search for Extraterrestrial Life.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 145,
+      "exportedPath": "interstellar-communication;-the-search-for-extraterrestrial-life.html",
+      "dependencies": []
+    },
+    "Interstellar communication. III. Optimal frequency to maximize data rate.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 332,
+      "exportedPath": "interstellar-communication.-iii.-optimal-frequency-to-maximize-data-rate.html",
+      "dependencies": []
+    },
+    "Interstellar communication. IV. Benchmarking information carriers.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 294,
+      "exportedPath": "interstellar-communication.-iv.-benchmarking-information-carriers.html",
+      "dependencies": []
+    },
+    "Interstellar Migration and the Human Experience.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 364,
+      "exportedPath": "interstellar-migration-and-the-human-experience.html",
+      "dependencies": []
+    },
+    "investment.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "investment.html",
+      "dependencies": []
+    },
+    "IRAS-Based Whole-Sky Upper Limit on Dyson Spheres.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 148,
+      "exportedPath": "iras-based-whole-sky-upper-limit-on-dyson-spheres.html",
+      "dependencies": []
+    },
+    "Issues in Science and Theology; Are We Special.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 342,
+      "exportedPath": "issues-in-science-and-theology;-are-we-special.html",
+      "dependencies": []
+    },
+    "Jason Wright.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 549,
+      "exportedPath": "jason-wright.html",
+      "dependencies": []
+    },
+    "Jill Tarter.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 476,
+      "exportedPath": "jill-tarter.html",
+      "dependencies": []
+    },
+    "Jocelyn Bell Burnell.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 250,
+      "exportedPath": "jocelyn-bell-burnell.html",
+      "dependencies": []
+    },
+    "John Kraus.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 115,
+      "exportedPath": "john-kraus.html",
+      "dependencies": []
+    },
+    "Jonathan Bi.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 125,
+      "exportedPath": "jonathan-bi.html",
+      "dependencies": []
+    },
+    "Joshua Mayers.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 45,
+      "exportedPath": "joshua-mayers.html",
+      "dependencies": []
+    },
+    "Julia Kregenow.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 53,
+      "exportedPath": "julia-kregenow.html",
+      "dependencies": []
+    },
+    "Julina Pril.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 11900,
+      "exportedPath": "julina-pril.html",
+      "dependencies": []
+    },
+    "Kardashev scale.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 130,
+      "exportedPath": "kardashev-scale.html",
+      "dependencies": []
+    },
+    "Kazuo Ishiguro.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 286,
+      "exportedPath": "kazuo-ishiguro.html",
+      "dependencies": []
+    },
+    "Life at the limits of physical laws.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 167,
+      "exportedPath": "life-at-the-limits-of-physical-laws.html",
+      "dependencies": []
+    },
+    "Life Beyond the Solar System; Remotely Detectable Biosignatures.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 133,
+      "exportedPath": "life-beyond-the-solar-system;-remotely-detectable-biosignatures.html",
+      "dependencies": []
+    },
+    "life in space.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "life-in-space.html",
+      "dependencies": []
+    },
+    "Life in the cosmos from Biosignatures to Technosignatures.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 322,
+      "exportedPath": "life-in-the-cosmos-from-biosignatures-to-technosignatures.html",
+      "dependencies": []
+    },
+    "Look at the root.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 90,
+      "exportedPath": "look-at-the-root.html",
+      "dependencies": []
+    },
+    "Making Contact; Jill Tarter and the Search for Extraterrestrial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 284,
+      "exportedPath": "making-contact;-jill-tarter-and-the-search-for-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "Marc G Millis.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 348,
+      "exportedPath": "marc-g-millis.html",
+      "dependencies": []
+    },
+    "Mark J Carlotto.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 197,
+      "exportedPath": "mark-j-carlotto.html",
+      "dependencies": []
+    },
+    "mars.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "mars.html",
+      "dependencies": []
+    },
+    "mechanics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 87,
+      "exportedPath": "mechanics.html",
+      "dependencies": []
+    },
+    "megastructures.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "megastructures.html",
+      "dependencies": []
+    },
+    "METI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "meti.html",
+      "dependencies": []
+    },
+    "METI letter.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 185,
+      "exportedPath": "meti-letter.html",
+      "dependencies": []
+    },
+    "Michael H Hart.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 198,
+      "exportedPath": "michael-h-hart.html",
+      "dependencies": []
+    },
+    "Milan M Cirkovic.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 126,
+      "exportedPath": "milan-m-cirkovic.html",
+      "dependencies": []
+    },
+    "Miller–Urey experiment.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 123,
+      "exportedPath": "miller–urey-experiment.html",
+      "dependencies": []
+    },
+    "Nadia Drake.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 123,
+      "exportedPath": "nadia-drake.html",
+      "dependencies": []
+    },
+    "nanomedicine.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 39,
+      "exportedPath": "nanomedicine.html",
+      "dependencies": []
+    },
+    "nanorobotics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "nanorobotics.html",
+      "dependencies": []
+    },
+    "nanotechnology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 36,
+      "exportedPath": "nanotechnology.html",
+      "dependencies": []
+    },
+    "Nassim Taleb.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 81,
+      "exportedPath": "nassim-taleb.html",
+      "dependencies": []
+    },
+    "Natural and artificial spectral edges in exoplanets.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 228,
+      "exportedPath": "natural-and-artificial-spectral-edges-in-exoplanets.html",
+      "dependencies": []
+    },
+    "Nick Hanauer.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 411,
+      "exportedPath": "nick-hanauer.html",
+      "dependencies": []
+    },
+    "Nikolai Kardashev.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 147,
+      "exportedPath": "nikolai-kardashev.html",
+      "dependencies": []
+    },
+    "Nine axes of merit for technosignature searches.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 91,
+      "exportedPath": "nine-axes-of-merit-for-technosignature-searches.html",
+      "dependencies": []
+    },
+    "non-zero-sum games.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "non-zero-sum-games.html",
+      "dependencies": []
+    },
+    "Omega Point.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 43,
+      "exportedPath": "omega-point.html",
+      "dependencies": []
+    },
+    "On the likelihood of non-terrestrial artifacts in the Solar System.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 226,
+      "exportedPath": "on-the-likelihood-of-non-terrestrial-artifacts-in-the-solar-system.html",
+      "dependencies": []
+    },
+    "On the Possibility of Detecting Class A Stellar Engines using Exoplanet Transit Curves.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 255,
+      "exportedPath": "on-the-possibility-of-detecting-class-a-stellar-engines-using-exoplanet-transit-curves.html",
+      "dependencies": []
+    },
+    "On the radius of Dyson's sphere.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 176,
+      "exportedPath": "on-the-radius-of-dyson's-sphere.html",
+      "dependencies": []
+    },
+    "optical seti.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "optical-seti.html",
+      "dependencies": []
+    },
+    "orbital angular momentum.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "orbital-angular-momentum.html",
+      "dependencies": []
+    },
+    "Our Sky Now and Then; Searches for Lost Stars and Impossible Effects as Probes of Advanced Extraterrestrial Civilizations.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 323,
+      "exportedPath": "our-sky-now-and-then;-searches-for-lost-stars-and-impossible-effects-as-probes-of-advanced-extraterrestrial-civilizations.html",
+      "dependencies": []
+    },
+    "Paul A Samuelson.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 155,
+      "exportedPath": "paul-a-samuelson.html",
+      "dependencies": []
+    },
+    "Paul Davies.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 117,
+      "exportedPath": "paul-davies.html",
+      "dependencies": []
+    },
+    "Paul Gilster.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 266,
+      "exportedPath": "paul-gilster.html",
+      "dependencies": []
+    },
+    "Peter Thiel.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 336,
+      "exportedPath": "peter-thiel.html",
+      "dependencies": []
+    },
+    "phenomenology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "phenomenology.html",
+      "dependencies": []
+    },
+    "philanthropy.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 908,
+      "exportedPath": "philanthropy.html",
+      "dependencies": []
+    },
+    "Philip Morrison.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 178,
+      "exportedPath": "philip-morrison.html",
+      "dependencies": []
+    },
+    "philosophy of technology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 68,
+      "exportedPath": "philosophy-of-technology.html",
+      "dependencies": []
+    },
+    "Photon Orbital Angular Momentum in Astrophysics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 341,
+      "exportedPath": "photon-orbital-angular-momentum-in-astrophysics.html",
+      "dependencies": []
+    },
+    "Pinchen Fan.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 377,
+      "exportedPath": "pinchen-fan.html",
+      "dependencies": []
+    },
+    "Placing a limit on star-fed Kardashev type III civilisations..md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 224,
+      "exportedPath": "placing-a-limit-on-star-fed-kardashev-type-iii-civilisations..html",
+      "dependencies": []
+    },
+    "Planetary Astrobiology by Victoria Meadows et al.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 340,
+      "exportedPath": "planetary-astrobiology-by-victoria-meadows-et-al.html",
+      "dependencies": []
+    },
+    "Plectics.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 40,
+      "exportedPath": "plectics.html",
+      "dependencies": []
+    },
+    "Post-Detection SETI Protocols & METI; The Time Has Come To Regulate Them Both.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 337,
+      "exportedPath": "post-detection-seti-protocols-&-meti;-the-time-has-come-to-regulate-them-both.html",
+      "dependencies": []
+    },
+    "postphenomenology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 293,
+      "exportedPath": "postphenomenology.html",
+      "dependencies": []
+    },
+    "Prior indigenous technological species.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 291,
+      "exportedPath": "prior-indigenous-technological-species.html",
+      "dependencies": []
+    },
+    "Progress in Astronautics and Aeronautics series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 62,
+      "exportedPath": "progress-in-astronautics-and-aeronautics-series.html",
+      "dependencies": []
+    },
+    "Project Cyclops.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 342,
+      "exportedPath": "project-cyclops.html",
+      "dependencies": []
+    },
+    "Project Ozma.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 2041,
+      "exportedPath": "project-ozma.html",
+      "dependencies": []
+    },
+    "pulsar.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "pulsar.html",
+      "dependencies": []
+    },
+    "Pyotr Makovetsky.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 223,
+      "exportedPath": "pyotr-makovetsky.html",
+      "dependencies": []
+    },
+    "radioastronomy.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 462,
+      "exportedPath": "radioastronomy.html",
+      "dependencies": []
+    },
+    "Radioastronomy and communication through space.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 286,
+      "exportedPath": "radioastronomy-and-communication-through-space.html",
+      "dependencies": []
+    },
+    "Rationale for the water hole.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 332,
+      "exportedPath": "rationale-for-the-water-hole.html",
+      "dependencies": []
+    },
+    "Rebecca Charbonneau.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 216,
+      "exportedPath": "rebecca-charbonneau.html",
+      "dependencies": []
+    },
+    "representation theory.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 21,
+      "exportedPath": "representation-theory.html",
+      "dependencies": []
+    },
+    "research portfolio.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "research-portfolio.html",
+      "dependencies": []
+    },
+    "Reviewing METI; A Critical Analysis of the Arguments.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 274,
+      "exportedPath": "reviewing-meti;-a-critical-analysis-of-the-arguments.html",
+      "dependencies": []
+    },
+    "rio scale.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 41,
+      "exportedPath": "rio-scale.html",
+      "dependencies": []
+    },
+    "Robert Freitas.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 195,
+      "exportedPath": "robert-freitas.html",
+      "dependencies": []
+    },
+    "Robert Gray.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 87,
+      "exportedPath": "robert-gray.html",
+      "dependencies": []
+    },
+    "Ronald N Bracewell.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 229,
+      "exportedPath": "ronald-n-bracewell.html",
+      "dependencies": []
+    },
+    "Sarah Scoles.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 147,
+      "exportedPath": "sarah-scoles.html",
+      "dependencies": []
+    },
+    "schelling point.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 76,
+      "exportedPath": "schelling-point.html",
+      "dependencies": []
+    },
+    "science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 320,
+      "exportedPath": "science.html",
+      "dependencies": []
+    },
+    "Search for Artificial Stellar Sources of Infrared Radiation.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 356,
+      "exportedPath": "search-for-artificial-stellar-sources-of-infrared-radiation.html",
+      "dependencies": []
+    },
+    "Search for Nanosecond Optical Pulses from Nearby Solar-Type Stars.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 330,
+      "exportedPath": "search-for-nanosecond-optical-pulses-from-nearby-solar-type-stars.html",
+      "dependencies": []
+    },
+    "Searching for alien artifacts on the moon.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 283,
+      "exportedPath": "searching-for-alien-artifacts-on-the-moon.html",
+      "dependencies": []
+    },
+    "Searching for Extraterrestrial Intelligence; SETI Past, Present, and Future.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 391,
+      "exportedPath": "searching-for-extraterrestrial-intelligence;-seti-past,-present,-and-future.html",
+      "dependencies": []
+    },
+    "Searching for Good Science - The Cancellation of NASA's SETI Program.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 262,
+      "exportedPath": "searching-for-good-science-the-cancellation-of-nasa's-seti-program.html",
+      "dependencies": []
+    },
+    "self-replicating machine.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 75,
+      "exportedPath": "self-replicating-machine.html",
+      "dependencies": []
+    },
+    "Self-replicating spacecraft.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 76,
+      "exportedPath": "self-replicating-spacecraft.html",
+      "dependencies": []
+    },
+    "SETA.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 14,
+      "exportedPath": "seta.html",
+      "dependencies": []
+    },
+    "Seth Shostak.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 622,
+      "exportedPath": "seth-shostak.html",
+      "dependencies": []
+    },
+    "SETI in star clusters; a theoretical approach.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 97,
+      "exportedPath": "seti-in-star-clusters;-a-theoretical-approach.html",
+      "dependencies": []
+    },
+    "SETI is Part of Astrobiology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 464,
+      "exportedPath": "seti-is-part-of-astrobiology.html",
+      "dependencies": []
+    },
+    "seti protocol.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "seti-protocol.html",
+      "dependencies": []
+    },
+    "SETI--a waste of time.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 150,
+      "exportedPath": "seti-a-waste-of-time.html",
+      "dependencies": []
+    },
+    "Shallow radar (SHARAD) sounding observations of the Medusae Fossae Formation, Mars.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 154,
+      "exportedPath": "shallow-radar-(sharad)-sounding-observations-of-the-medusae-fossae-formation,-mars.html",
+      "dependencies": []
+    },
+    "society.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "society.html",
+      "dependencies": []
+    },
+    "Sofia Sheikh.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 468,
+      "exportedPath": "sofia-sheikh.html",
+      "dependencies": []
+    },
+    "solar system.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "solar-system.html",
+      "dependencies": []
+    },
+    "space architecture.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 154,
+      "exportedPath": "space-architecture.html",
+      "dependencies": []
+    },
+    "Space colonization.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 174,
+      "exportedPath": "space-colonization.html",
+      "dependencies": []
+    },
+    "Space Migrations; Anthropology and the Humanization of Space.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 211,
+      "exportedPath": "space-migrations;-anthropology-and-the-humanization-of-space.html",
+      "dependencies": []
+    },
+    "Space Mission Analysis and Design.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 182,
+      "exportedPath": "space-mission-analysis-and-design.html",
+      "dependencies": []
+    },
+    "Space Mission Engineering; The New SMAD.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 202,
+      "exportedPath": "space-mission-engineering;-the-new-smad.html",
+      "dependencies": []
+    },
+    "Space Technology Library Series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 150,
+      "exportedPath": "space-technology-library-series.html",
+      "dependencies": []
+    },
+    "space-technology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "space-technology.html",
+      "dependencies": []
+    },
+    "spacecraft.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "spacecraft.html",
+      "dependencies": []
+    },
+    "Springer Space and Society Series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 150,
+      "exportedPath": "springer-space-and-society-series.html",
+      "dependencies": []
+    },
+    "SpringerBriefs in Space Development.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 133,
+      "exportedPath": "springerbriefs-in-space-development.html",
+      "dependencies": []
+    },
+    "stellar engine.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 64,
+      "exportedPath": "stellar-engine.html",
+      "dependencies": []
+    },
+    "Stellar Engines for Kardashev's Type II Civilisations.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 195,
+      "exportedPath": "stellar-engines-for-kardashev's-type-ii-civilisations.html",
+      "dependencies": []
+    },
+    "Steve Garber.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 62,
+      "exportedPath": "steve-garber.html",
+      "dependencies": []
+    },
+    "Strategies and advice for the Search for Extraterrestrial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 90,
+      "exportedPath": "strategies-and-advice-for-the-search-for-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "systems science.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 22,
+      "exportedPath": "systems-science.html",
+      "dependencies": []
+    },
+    "Taking \"The Road Not Taken''; On the Benefits of Diversifying Your Academic Portfolio.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 250,
+      "exportedPath": "taking-\"the-road-not-taken'';-on-the-benefits-of-diversifying-your-academic-portfolio.html",
+      "dependencies": []
+    },
+    "Tau Ceti.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 40,
+      "exportedPath": "tau-ceti.html",
+      "dependencies": []
+    },
+    "technosignature.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 224,
+      "exportedPath": "technosignature.html",
+      "dependencies": []
+    },
+    "Tessa Fisher.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 125,
+      "exportedPath": "tessa-fisher.html",
+      "dependencies": []
+    },
+    "Thanu Padmanabhan.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 236,
+      "exportedPath": "thanu-padmanabhan.html",
+      "dependencies": []
+    },
+    "The 2024 Assembly of The Order of the Octopus.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 3760,
+      "exportedPath": "the-2024-assembly-of-the-order-of-the-octopus.html",
+      "dependencies": []
+    },
+    "The Arecibo Message of November, 1974.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 343,
+      "exportedPath": "the-arecibo-message-of-november,-1974.html",
+      "dependencies": []
+    },
+    "The Arecibo Observatory.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 137,
+      "exportedPath": "the-arecibo-observatory.html",
+      "dependencies": []
+    },
+    "The Art of Strategy; A Game Theorist Guide to Success in Business and Life.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 286,
+      "exportedPath": "the-art-of-strategy;-a-game-theorist-guide-to-success-in-business-and-life.html",
+      "dependencies": []
+    },
+    "The Eerie Silence; Renewing Our Search for Alien Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 421,
+      "exportedPath": "the-eerie-silence;-renewing-our-search-for-alien-intelligence.html",
+      "dependencies": []
+    },
+    "The Elusive Wow; Searching for Extraterrestrial Intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 141,
+      "exportedPath": "the-elusive-wow;-searching-for-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "The energy expansions of evolution.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 123,
+      "exportedPath": "the-energy-expansions-of-evolution.html",
+      "dependencies": []
+    },
+    "The Fermi Paradox Is Neither Fermi's Nor a Paradox.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 408,
+      "exportedPath": "the-fermi-paradox-is-neither-fermi's-nor-a-paradox.html",
+      "dependencies": []
+    },
+    "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. I. Background and Justification.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 328,
+      "exportedPath": "the-ĝ-infrared-search-for-extraterrestrial-civilizations-with-large-energy-supplies.-i.-background-and-justification.html",
+      "dependencies": []
+    },
+    "The Great Silence - the Controversy Concerning Extraterrestrial Intelligent Life.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 175,
+      "exportedPath": "the-great-silence-the-controversy-concerning-extraterrestrial-intelligent-life.html",
+      "dependencies": []
+    },
+    "the network state.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 89,
+      "exportedPath": "the-network-state.html",
+      "dependencies": []
+    },
+    "The Radio Search for Intelligent Extraterrestrial Life.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 186,
+      "exportedPath": "the-radio-search-for-intelligent-extraterrestrial-life.html",
+      "dependencies": []
+    },
+    "The Random Walk of Cars and Their Collision Probabilities with Planets.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 185,
+      "exportedPath": "the-random-walk-of-cars-and-their-collision-probabilities-with-planets.html",
+      "dependencies": []
+    },
+    "The search for extraterrestrial artifacts.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 145,
+      "exportedPath": "the-search-for-extraterrestrial-artifacts.html",
+      "dependencies": []
+    },
+    "The Search for Extraterrestrial Civilizations with Large Energy Supplies. IV. The Signatures and Information Content of Transiting Megastructures.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 351,
+      "exportedPath": "the-search-for-extraterrestrial-civilizations-with-large-energy-supplies.-iv.-the-signatures-and-information-content-of-transiting-megastructures.html",
+      "dependencies": []
+    },
+    "The Search for Extraterrestrial Intelligence by Jill Tarter.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 352,
+      "exportedPath": "the-search-for-extraterrestrial-intelligence-by-jill-tarter.html",
+      "dependencies": []
+    },
+    "The search for extraterrestrial intelligence Oliver.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 96,
+      "exportedPath": "the-search-for-extraterrestrial-intelligence-oliver.html",
+      "dependencies": []
+    },
+    "the solipsist approach to extraterrestrial intelligence.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 389,
+      "exportedPath": "the-solipsist-approach-to-extraterrestrial-intelligence.html",
+      "dependencies": []
+    },
+    "The Strategy of Conflict by Schelling.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 374,
+      "exportedPath": "the-strategy-of-conflict-by-schelling.html",
+      "dependencies": []
+    },
+    "The Tantallizing WOW Signal.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 190,
+      "exportedPath": "the-tantallizing-wow-signal.html",
+      "dependencies": []
+    },
+    "The Undulator Radiation Collider; An Energy Efficient Design For A  √s=10e15   GeV Collider.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 194,
+      "exportedPath": "the-undulator-radiation-collider;-an-energy-efficient-design-for-a-√s=10e15-gev-collider.html",
+      "dependencies": []
+    },
+    "The University of Arizona Space Science Series.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 121,
+      "exportedPath": "the-university-of-arizona-space-science-series.html",
+      "dependencies": []
+    },
+    "the wow signal.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 167,
+      "exportedPath": "the-wow-signal.html",
+      "dependencies": []
+    },
+    "The Zoo Hypothesis.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 183,
+      "exportedPath": "the-zoo-hypothesis.html",
+      "dependencies": []
+    },
+    "theology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "theology.html",
+      "dependencies": []
+    },
+    "Thomas Schelling.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 218,
+      "exportedPath": "thomas-schelling.html",
+      "dependencies": []
+    },
+    "Towards a Comprehensive Bibliography for SETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 97,
+      "exportedPath": "towards-a-comprehensive-bibliography-for-seti.html",
+      "dependencies": []
+    },
+    "transit.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 52,
+      "exportedPath": "transit.html",
+      "dependencies": []
+    },
+    "Transit Light-Curve Signatures of Artificial Objects.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 331,
+      "exportedPath": "transit-light-curve-signatures-of-artificial-objects.html",
+      "dependencies": []
+    },
+    "Transmission of Information by Extraterrestrial Civilizations.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 362,
+      "exportedPath": "transmission-of-information-by-extraterrestrial-civilizations.html",
+      "dependencies": []
+    },
+    "Use of class A and class C stellar engines to control sun movement in the galaxy.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 209,
+      "exportedPath": "use-of-class-a-and-class-c-stellar-engines-to-control-sun-movement-in-the-galaxy.html",
+      "dependencies": []
+    },
+    "Very Large Array.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 72,
+      "exportedPath": "very-large-array.html",
+      "dependencies": []
+    },
+    "Victoria Meadows.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 237,
+      "exportedPath": "victoria-meadows.html",
+      "dependencies": []
+    },
+    "Virginia Louise Trimble.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 466,
+      "exportedPath": "virginia-louise-trimble.html",
+      "dependencies": []
+    },
+    "Visions of human futures in space and SETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 497,
+      "exportedPath": "visions-of-human-futures-in-space-and-seti.html",
+      "dependencies": []
+    },
+    "Von Neumann probes.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 136,
+      "exportedPath": "von-neumann-probes.html",
+      "dependencies": []
+    },
+    "water hole.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 146,
+      "exportedPath": "water-hole.html",
+      "dependencies": []
+    },
+    "We Wait and Wonder.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 315,
+      "exportedPath": "we-wait-and-wonder.html",
+      "dependencies": []
+    },
+    "WETI.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 67,
+      "exportedPath": "weti.html",
+      "dependencies": []
+    },
+    "Woodpeckers and Diamonds; Some Aspects of Evolutionary Convergence in Astrobiology.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 202,
+      "exportedPath": "woodpeckers-and-diamonds;-some-aspects-of-evolutionary-convergence-in-astrobiology.html",
+      "dependencies": []
+    },
+    "Woodruff Sullivan.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 167,
+      "exportedPath": "woodruff-sullivan.html",
+      "dependencies": []
+    },
+    "WTF star.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 46,
+      "exportedPath": "wtf-star.html",
+      "dependencies": []
+    },
+    "Yuri Milner.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 302,
+      "exportedPath": "yuri-milner.html",
+      "dependencies": []
+    },
+    "Yvonne Choquet-Bruhat.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 253,
+      "exportedPath": "yvonne-choquet-bruhat.html",
+      "dependencies": []
+    },
+    "zero-sum games.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 0,
+      "exportedPath": "zero-sum-games.html",
+      "dependencies": []
+    },
+    "Zoo Hypothesis.md": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 65,
+      "exportedPath": "zoo-hypothesis.html",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1723944114342,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     }
   }
