@@ -1,0 +1,1 @@
+this is so cool! https://rupadarshiray.github.io/academia/inculcation-all-of-mechanics 

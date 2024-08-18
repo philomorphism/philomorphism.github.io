@@ -1,3 +1,12 @@
 .theme-dark .pdf-viewer {
 	filter: invert(0.85);
 }
+
+article {
+	padding: 20px;
+	border-width: 6px;
+	border-style: solid;
+	margin-bottom: 18px;
+	border-image-slice: 1;
+	border-image-source: linear-gradient(to bottom, #7223B9, #D6893C);
+	}

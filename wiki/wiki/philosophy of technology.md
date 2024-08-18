@@ -1,0 +1,1 @@
+https://www.goodreads.com/book/show/1464270.Philosophy_of_Technology

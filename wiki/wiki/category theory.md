@@ -1,3 +1,6 @@
+#: [[Applied Category Theory]]
+
+
 journals:
 1. http://www.tac.mta.ca/tac/
 2. [[Compositionality Journal]] 
@@ -15,7 +18,7 @@ checkout this [thread](https://twitter.com/prathyvsh/status/1561114603790241797?
 https://en.wikipedia.org/wiki/Outline_of_category_theory
 https://en.wikipedia.org/wiki/Glossary_of_category_theory
 
-#: [[Applied Category Theory]]
+I want to understand this: https://x.com/mattecapu/status/1813862198810460239/photo/1, read the infinity categories books by emily et al.
 
 ### memes
 [meme1](https://twitter.com/miniapeur/status/1688993234834313216) 

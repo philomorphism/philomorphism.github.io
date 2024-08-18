@@ -7,3 +7,4 @@ some interesting stuff in [this](https://www.google.com/search?q=compositionalit
 - https://gordonbrander.com/pattern/compositionality-is-composability-without-emergence/
 - http://sigbed.seas.upenn.edu/archives/2016-06/3.pdf
 - https://english.stackexchange.com/questions/463523/is-there-a-distinction-between-composability-and-compositionality
+

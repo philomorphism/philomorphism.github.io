@@ -1,6 +1,6 @@
 #book 
 src: [goodreads](https://www.goodreads.com/book/show/121825913-the-road-to-general-intelligence?ac=1&from_search=true&qid=kFraTA4so0&rank=1) 
-#: [[Artifical Intelligence]], [[machine learning]], [[deep learning]], [[Consciousness]], [[Intelligence]], [[learning]], [[compositionality]], [[polynomial functor]], [[optics]], [[intelligent systems]]
+#: [[Artificial Intelligence]], [[machine learning]], [[deep learning]], [[Consciousness]], [[Intelligence]], [[learning]], [[compositionality]], [[polynomial functor]], [[optics]], [[intelligent systems]]
 @: [[Jules Hedges]]
 
 first, I might want to checkout [[Causality Models, Reasoning, and Inference by Judea Pearl]]

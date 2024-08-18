@@ -4,7 +4,7 @@ ___
 some vcs and prizes and philanthropic funds for early sci/tech [[entrepreneurship]]:
 
 https://www.mercatus.org/emergent-ventures (the one that funded me for career developement)
-https://www.hsfoundation.org (the one that funded the SETI conference that I attended, checkout: https://www.hsfoundation.org/news-stories/mark-heising-liz-simons-join-giving-pledge/)
+https://www.hsfoundation.org (the one that funded the SETI conference that I attended [[The 2024 Assembly of The Order of the Octopus]] , checkout: https://www.hsfoundation.org/news-stories/mark-heising-liz-simons-join-giving-pledge/)
 https://www.convergentresearch.org 
 https://www.osv.llc
 https://neo.com
@@ -22,4 +22,6 @@ https://www.linkventures.com
 https://tatatransformation.smapply.io
 https://www.longview.org
 https://givingpledge.org
+
+https://aigrant.org
 

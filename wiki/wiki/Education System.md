@@ -2,6 +2,8 @@ oh boy! there are tons of things I should read, write, and think about in this d
 
 for now, I've found this beautiful framing of the problem of career, parenting, education etc... [tweet](https://twitter.com/nu_phases/status/1666915392063930368?s=20).
 
+https://x.com/itsarnavb/status/1378840050109046785
+
 let me gather some of the stuff I've said before:
 
 - [tweet1](https://twitter.com/XinYaanZyoy/status/1598667562057084928) 

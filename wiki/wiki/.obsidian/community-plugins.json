@@ -1,5 +1,6 @@
 [
   "obsidian-vault-statistics-plugin",
-  "webpage-html-export",
-  "tag-wrangler"
+  "tag-wrangler",
+  "dataview",
+  "webpage-html-export"
 ]

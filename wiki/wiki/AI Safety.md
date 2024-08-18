@@ -1,4 +1,4 @@
-#: [[Artifical Intelligence]], [[policy making]]
+#: [[Artificial Intelligence]], [[policy making]]
 
 
 https://aisafetyfundamentals.com/resources/

@@ -1,29 +1,34 @@
 #conference 
 #: [[SETI]] 
 src: [site](https://theorderoftheoctopus.org/assembly2024/) 
-@: [[Pinchen Fan]], [[Sofia Sheikh]], ...
+@: [[Pinchen Fan]], [[Sofia Sheikh]], [[Rebecca Charbonneau]], [[Tessa Fisher]], ...
 
-  
 Green Bank SETI conference (1961): https://www.daviddarling.info/encyclopedia/G/GreenBank.html#Green_Bank_SETI_conference 
+
+I should checkout older version of the conference and read the papers/talks.
 
 ## things to read before the conference
 I want to make sure that I get the most out of this conference, for that I need to read a whole ton of stuff
 1. Ask Dr SETI
 2. SETI in 20xx
-3. [[Strategies and advice for the Search for Extraterrestrial Intelligence]]
+3. [x] [[Strategies and advice for the Search for Extraterrestrial Intelligence]]
 4. astrobiology blog
-5. astrowright blog
+5. astrowright blog https://sites.psu.edu/astrowright/seti-posts/
 6. [[Life in the cosmos from Biosignatures to Technosignatures]]
 7. astrobiology primer 3.0
 8. astrophysics in xxx by [[Virginia Louise Trimble]]
-9. [[Eureka Manifesto; the Mission for Our Civilization]]
+9. [x] [[Eureka Manifesto; the Mission for Our Civilization]]
 10. [[Searching for Extraterrestrial Intelligence; SETI Past, Present, and Future]]
-11. SETI Papers:
+11. [[Astro576 2018 seti course#The Papers]]  
+12. some extra papers (found somewhere else):
 	1. [[Nine axes of merit for technosignature searches]]
 	2. [[Searching for Interstellar Communications]]
 	3. [[The Tantallizing WOW Signal]] 
-	4. [[Towards a Comprehensive Bibliography for SETI]] 
-12. some goodreads books:
+	4. [x] [[Towards a Comprehensive Bibliography for SETI]] 
+	5. [[How Much SETI Has Been Done, Finding Needles in the n-Dimensional Cosmic Haystack]] 
+	6. [[Visions of human futures in space and SETI]]
+13. Conference Papers if I can find them
+14. some goodreads books:
 	1. https://www.goodreads.com/book/show/275567.Intelligent_Life_in_the_Universe
 	2. https://www.goodreads.com/book/show/48930288-extraterrestrial?ref=rae_1
 	3. https://www.goodreads.com/book/show/55030.Cosmos?ref=rae_0
@@ -46,3 +51,9 @@ I want to make sure that I get the most out of this conference, for that I need 
 	20. https://www.goodreads.com/book/show/26597291-essential-radio-astronomy
 	21. https://www.goodreads.com/book/show/54177449-planetary-astrobiology
 	22. https://www.goodreads.com/book/show/260642.Communication_with_Extraterrestrial_Intelligence
+	23. https://www.goodreads.com/book/show/4372429-life-in-the-universe
+	24. https://www.goodreads.com/book/show/180677.SETI_2020
+	25. https://www.goodreads.com/book/show/2965957-social-implications-of-the-detection-of-extraterrestrial-civilization
+	26. https://www.goodreads.com/book/show/21144250-the-search-for-extraterrestrial-intelligence
+	27. https://www.goodreads.com/book/show/50924912-the-biological-universe?from_search=true&from_srp=true&qid=jIBebsLvEr&rank=1
+

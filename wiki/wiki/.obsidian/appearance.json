@@ -1,3 +1,6 @@
 {
-  "accentColor": "#46c860"
+  "accentColor": "#46c860",
+  "enabledCssSnippets": [
+    "custom"
+  ]
 }

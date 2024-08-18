@@ -1,4 +1,3 @@
-
 some stuff i should keep in mind:
 
 [sci-fi idea bank](https://www.notboring.co/p/sci-fi-idea-bank) 

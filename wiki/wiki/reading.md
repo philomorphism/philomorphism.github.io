@@ -1,5 +1,7 @@
+!outdated page
 #to-do 
 Repo: my goodreads
+
 ### 2024 Book Reading List
 0/52
 1. [[History of the world the time-life series]]  
@@ -135,6 +137,7 @@ This Fortnight (July 15th): academic: [[Escher and Amann Analysis]], non-academi
 - [[The sheafification fast track]]
 - [oral history interviews](https://www.aip.org/history-programs/niels-bohr-library/oral-histories) 
 - https://lab.fractalnyc.com/library
+- [russian rare publications](https://n-t.ru/ri/)
 
 ### A dirty computation
 Imagine a regularly reading healthy human body, it makes sense to assume they read a book a week or about ~5x10^1 books/year, that is ~5x10^2 books/decade, further assuming the actual book count begin somewhere in late teens or early 20s, say at 21st year (in my case it's 14-15th year), and the body lives ~7x10^1 years, and that the linear model works, the total book count of the body's entire life then is ~25x10^2=BC_0. 
