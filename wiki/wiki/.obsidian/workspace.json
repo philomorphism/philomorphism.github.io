@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eebdd1bb8c788211",
+        "id": "7b270b53330c30f8",
         "type": "tabs",
         "children": [
           {
-            "id": "33ae3390a1c8365f",
+            "id": "c0354f7da21857a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,8 +155,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "33ae3390a1c8365f",
+  "active": "c0354f7da21857a7",
   "lastOpenFiles": [
+    "Julina Pril.md",
+    "John Preskill.md",
     "Zoo Hypothesis.md",
     "zero-sum games.md",
     "Yvonne Choquet-Bruhat.md",
@@ -181,8 +183,6 @@
     "transit.md",
     "Towards a Comprehensive Bibliography for SETI.md",
     "Topology A Categorical Approach by Tai et al.md",
-    "Thomas Schelling.md",
-    "theology.md",
     "wiki-files/1708.05318v2.pdf",
     "wiki-files/10_Places_to_Search_for_Life_SS_LL-FINAL-2024-2.pdf",
     "wiki-files/Final Next-Gen SETI eBook 7.2024.pdf",

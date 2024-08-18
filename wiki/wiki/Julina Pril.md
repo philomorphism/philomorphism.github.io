@@ -3,7 +3,7 @@ aka: Julina Pletziger
 src: [youtube1](https://www.youtube.com/@julinapril), [youtube2](https://www.youtube.com/@julinapletziger2155), [goodreads](https://www.goodreads.com/author/show/45976379.Julina_Pril), [filmmakers](https://www.filmmakers.eu/en/actors/julina-pril), [spotify](https://open.spotify.com/user/hsg48oxa6w7xk4ncbpns1wvvh) 
 #: [[psychology]] 
 
-guessing her birthday: 5/12 April, 1/8/15/22/29 March, 1/8/15/22 Feb, 4/11/18/25 Jan
+thrffvat ure oveguqnl: 5/12 Ncevy, 1/8/15/22/29 Znepu, 1/8/15/22 Sro, 4/11/18/25 Wna
 
 ## Things I learned from her:
 1. Small talks require active questions (I do ask questions but I should ask questions to "people" that too of the kind that brings small talk into action)
