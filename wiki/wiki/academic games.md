@@ -8,4 +8,4 @@
 - game theory https://ncase.me/trust/
 - https://phet.colorado.edu
 - https://www.janestreet.com/puzzles/archive/
-- 
+- https://phet.colorado.edu (active animated stuff, not a game)

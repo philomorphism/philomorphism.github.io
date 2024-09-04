@@ -1,17 +1,16 @@
 #people 
 aka: Julina Pletziger
 src: [youtube1](https://www.youtube.com/@julinapril), [youtube2](https://www.youtube.com/@julinapletziger2155), [goodreads](https://www.goodreads.com/author/show/45976379.Julina_Pril), [filmmakers](https://www.filmmakers.eu/en/actors/julina-pril), [spotify](https://open.spotify.com/user/hsg48oxa6w7xk4ncbpns1wvvh) 
-#: [[psychology]] 
+#: [[psychology]], [[theatre]]
 
 thrffvat ure oveguqnl: 5/12 Ncevy, 1/8/15/22/29 Znepu, 1/8/15/22 Sro, 4/11/18/25 Wna
 
-## Things I learned from her:
+## Things I learned:
 1. Small talks require active questions (I do ask questions but I should ask questions to "people" that too of the kind that brings small talk into action)
 2. write your own manifesto! (i wonder why it didn't occur to me when i was doing similar projects and failed lol)
-3. writing a diary of thoughts. (i am not sure I can do this on paper due to my dust issue but I think I will now try to make it routine to write a diary, perhaps in the morning, but as it has failed many a time before, it has a chance to again, so i think I'll wait for getting some deep purpose to do it)
+3. writing a diary of thoughts. (i am not sure I can do this on paper due to my dust issue but I think I will now try to make it routine to write a diary, perhaps in the morning, but as it has failed many a times before, it has a chance to again, so i think I'll wait for getting some deep purpose to do it)
 
 ## Books I should read/skim through
-the hashtags are the videos where the book was either mentioned or was seen in the background:
 1. https://www.goodreads.com/book/show/94669.The_Mistress_of_Spices
 2. https://www.goodreads.com/book/show/201213405-die-wildnis-des-winters (this is going to take a lot of time to read given it's in german, but I'd still love to do it. I think learning german would take way longer than it did to learn Chinese and Russian because I was young back then and German seems a bit complicated, but I'll try for sure (not duolingo lol))
 		checkout this Q&A https://www.ottfried.de/themen/studieren/ueber-waldspaziergaenge-und-kindheitstraeume/ 
@@ -33,7 +32,29 @@ the hashtags are the videos where the book was either mentioned or was seen in t
 
 
 ## YouTube 
-### 1. How I celebrate the New Year in the RAUHNÄCHTEN 
+
+### My studies end with a big trip 
+src: [video](https://www.youtube.com/watch?v=Wj3TSp6aiRg) 
+- the beetles! 
+- I see the supernote (remarkable?) again! (aside: I should checkout [[neuroscience]] and perhaps some titles in the [[Cambridge Fundamentals of Neuroscience in Psychology Series]]) 
+-  why do people change over the course of their life?
+- no longer forcing an interest into a topic.
+- [[Echium vulgare]] (blue weed?) is a poisonous plant, but the other plants of the same [[genus]] that are found in the Azerbaijan and northern Iran are edible and used as tea! (*which ones? find them*: [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822446/)? ya it seems to based on [this](https://biomedres.us/fulltexts/BJSTR.MS.ID.003429.php)) 
+- the whole garden with the plants is beautiful, she takes care of it.
+- the three plants she got this year:
+	1. [[Monstera]]: the leaves have holes! lol so she calls it [[Frankenstein]], well because the monster itself had no name! so let the creator's name be the monster's too!
+	2. [[Calathea]] 
+	3. ?
+- in DC! classical music and the greens with wooden furniture, the heaven made in literature. oh she visited the Whitehouse and the botanical garden and railway museum and stuff!
+- at the GBO, I must say it feels like the place seen from another eye. just wonder how much we know of the world corresponds to how much what and how deep we can see stuff around us.
+- I see myself at 9:22.
+- yes! I was surprised to find that there are rural areas in the US. but, well, it makes sense! how can every inch of the whole of the land be technoversed? and infact better if not.
+- oh yes those deers!
+- one must conclude she loves nature and books! checkout https://www.goodreads.com/book/show/63233677-the-mountain-in-the-sea
+- I wish she had showed her talk!
+> Actual life was chaos, but there was something terribly logical in the imagination. - [src](https://www.goodreads.com/quotes/131157-actual-life-was-chaos-but-there-was-something-terribly-logical) 
+
+### How I celebrate the New Year in the RAUHNÄCHTEN 
 src: [video](https://www.youtube.com/watch?v=44XX4TfVWmY) 
 my pre-video stuff:
 
@@ -65,7 +86,7 @@ the rituals of the 12 days:
 
 to get to know yourself better, you write a manifesto! yes right! but not only that you print it! whoa! that's so cool! "Julis Manifest"
 
-### 2. It is spring in the Bamberg Hain
+### It is spring in the Bamberg Hain 
 src: [video](https://www.youtube.com/watch?v=o9346-k85zw) 
 I have never seen such a dense natural life, that too mixed with European architecture. just wonderful! I def want to live in such an environment, but i hear the german rental real estate is above the mountains lol. I like how she uses nature to find purpose in life. she seems to have observed the nature I never have, even I though I've always tried to. I just wonder how someone could be this peaceful, gentle, natural, smooth, flowing, etc etc in life. she def inspires me. she inspires me to live life, because she makes me feel like I haven't lived at all! I am an alive corpse, or perhaps that's the threshold of the lowest bar for what living life is for me, and she seems to be out of the horizon of my imagination. so cool!
 
@@ -73,7 +94,7 @@ oh btw she seems to have offline-d her site, there used to be a bookclub or some
 
 I was wondering if the entirety of the Germany looks as beautiful as this. I know that Julina is in Bamberg (https://en.wikipedia.org/wiki/Bamberg) so I read the wiki page, and what I find is that it really is a unique place, medieval architecture, the nature, everything is beautiful here! oh [[Christopher Clavius]] was from this place! 
 
-### 3. Become a bookworm: tips to read more! 💛📖
+### Become a bookworm: tips to read more! 💛📖 
 src: [video](https://www.youtube.com/watch?v=epQK07xNTNk)
 1. Enjoy Reading: oh she mentions in this video that did close the book club! thinking of reopening it.
 2. take the pressure off: reading goal doesn't work, and is not a right approach. "you can cancel a book"! cool! haha. 
@@ -81,7 +102,7 @@ src: [video](https://www.youtube.com/watch?v=epQK07xNTNk)
 4. make reading a habit: that book and mobile comparison is effective!
 5. intensify the experience: reading diary! that's obsidian for me. but she now uses notion.
 
-### 4. Be honest with yourself - how are you?
+### Be honest with yourself - how are you? 
 src: [video](https://www.youtube.com/watch?v=rV0AxoJEo6g) 
 not fine for sure lol.
 - thunderstorm cleans the air, well, yeah ok. 
@@ -89,20 +110,20 @@ not fine for sure lol.
 - whoa! she filmed a snail! so cool!!!!
 - edible wild plants! not sure if i'll ever get a chance to experience the wild forests.
 
-### 5. September-Melancholie 
+### September-Melancholie 
 src: [video](https://www.youtube.com/watch?v=FN7yYW-0D9U) 
 - writing the morning pages at the beach!
 
-### 6. My acting application #1: Audition in Linz
+### My acting application #1: Audition in Linz 
 src: [video](https://www.youtube.com/watch?v=IZfQ8d_qXxQ) 
 skipped
 
-### 7. O Golden Autumn 
+### O Golden Autumn 
 src: [video](https://www.youtube.com/watch?v=H8Uqblk5L8U) 
 - her snack plate is a disk of wood, like raw tree wood! cool!
 - I should read more about the mushrooms
 
-### 8. How I celebrate the Rauhnächten on a skiing holiday
+### How I celebrate the Rauhnächten on a skiing holiday 
 src: [video](https://www.youtube.com/watch?v=GUX-TEpxgZQ) 
 she loves smoke nights it seems!
 - she doesn't have goodreads, makes complete sense to me, I'm planning to move to obsidian even for books organization and stuff, but will see.
@@ -117,11 +138,11 @@ the questions:
 - dec 28th is the day of the innocent children!
 - love that botanical letter writing set
 
-### 9. My acting application #2: Final round at the HMTM Hannover
+### My acting application #2: Final round at the HMTM Hannover 
 src: [video](https://www.youtube.com/watch?v=6bgNe-MZpIY) 
 skipped
 
-### 10. I lived in the fairytale forest for a week
+### I lived in the fairytale forest for a week 
 src: [video](https://www.youtube.com/watch?v=PDLu2HbbOYw) 
 the sounds of animals in the winter forest is such a cool thing to experience.
 > we as humans often ask ourselves what's bothering us right now instead of asking what would be good for us now and what we want now.
@@ -129,17 +150,17 @@ the sounds of animals in the winter forest is such a cool thing to experience.
 life!!!!
 indeed a fairytale. just wow. I like her outro line ending with "stay curious".
 
-### 11. My acting application #3: Audition in Hamburg
+### My acting application #3: Audition in Hamburg 
 src: [video](https://www.youtube.com/watch?v=RonONXUR5n0) 
 skipped
 
-### 12. Sometimes spring hurts
+### Sometimes spring hurts 
 src: [video](https://www.youtube.com/watch?v=jht27rEho9w) 
 I love how inspiring the nature is but even more so how inspired she is by it.
 
 there is space, maybe for spring!
 
-### 13. A walk into the sunrise
+### A walk into the sunrise 
 src: [video](https://www.youtube.com/watch?v=aJUcdPGcMa8) 
 the memories of my childhood, If i have them, they're mostly of me on the rooftop reading stuff in the morning sunrise. this video is such a beauty I want to live in a city where the woods and ocean and river and the mountains and anything that the nature has to offer is by the walking distance. 
 - she wants space and silence for art, political commitment, and the existence/possibility of space and silence. (i'm not sure if the translation is correct.)

@@ -4,6 +4,10 @@ https://fee.org
 
 https://cybercat.institute/2024/07/15/usefulness-models/
 
+https://the1991project.com ([[India]])
+
+https://wtf1971.com/reading-list/
+
 listen to a heterodox school of economics: https://pitchforkeconomics.com by [[Nick Hanauer]] 
 
 ### What Should High School Graduates Know About Economics?

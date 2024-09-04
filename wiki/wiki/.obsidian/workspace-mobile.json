@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "050e5557fe1a551d",
+        "id": "df2314ded38f87bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6dd3d505790677",
+            "id": "07137bf651c87a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astro576 2018 seti course.md",
+                "file": "The Mistress of Spices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,75 +21,30 @@
             }
           },
           {
-            "id": "6f849b8a92db5168",
+            "id": "d19e4afa6d415bd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "technosignature.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "wiki-files/The Mistress Of Spices -- Chitra Banerjee Divakaruni -- Women's Prize For Fiction Longlist, 1998 -- Anchor Books -- 0385482388 -- 738ad8962af9f5b50aafa3adb0c12257 -- Anna’s Archive.pdf"
               }
             }
           },
           {
-            "id": "9e05e006ff03286a",
+            "id": "0004aca0e101fa25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paul Gilster.md",
+                "file": "reading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9dd74107b5f2310d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "13b5661d6fb5df61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Breakthrough Listen Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad50e02d57a8f0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jo Nelson.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "995af23574d204a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "46b6fea84802af73",
@@ -155,7 +110,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
+            "file": "reading.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -171,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "reading.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -181,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "reading.md"
+          }
         }
       }
     ],
@@ -199,43 +158,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "995af23574d204a9",
+  "active": "0004aca0e101fa25",
   "lastOpenFiles": [
-    "Jo Nelson.md",
-    "symplectic physics.md",
-    "symplectic geometry.md",
-    "Breakthrough Listen Project.md",
-    "Paul Gilster.md",
-    "Centauri Dreams; Imagining and Planning Interstellar Exploration.md",
-    "Astro576 2018 seti course.md",
-    "Life at the limits of physical laws.md",
-    "Transit Light-Curve Signatures of Artificial Objects.md",
-    "IRAS-Based Whole-Sky Upper Limit on Dyson Spheres.md",
+    "St John's reading list.md",
+    "reading.md",
+    "wiki-files/The Mistress Of Spices -- Chitra Banerjee Divakaruni -- Women's Prize For Fiction Longlist, 1998 -- Anchor Books -- 0385482388 -- 738ad8962af9f5b50aafa3adb0c12257 -- Anna’s Archive.pdf",
+    "The Mistress of Spices.md",
+    "Apology by Plato.md",
+    "Nine axes of merit for technosignature searches.md",
+    "Basic Program Of Liberal Education.md",
+    "Antigone by Sophocles.md",
+    "hamel basis.md",
+    "Astronomy.md",
+    "social choice theory.md",
+    "Condorcet paradox.md",
+    "Susan Sontag.md",
+    "wiki-files/overview-of-characteristics-of-complex-systems.pdf",
+    "wiki-files/cx50-syllabus.pdf",
+    "theatre.md",
+    "vision.md",
+    "vision; A Computational Investigation into the Human Representation and Processing of Visual Information.md",
+    "Computational Cognitive Science.md",
+    "computational science.md",
+    "quantification.md",
+    "Psychophysics.md",
+    "Psychometrics.md",
+    "New Handbook of Mathematical Psychology.md",
+    "William H Batchelder.md",
+    "wiki-files/batchelder2010.pdf",
+    "Mathematical psychology by Batchelder.md",
+    "Probabilistic Models of Cognition.md",
+    "Mathematical Psychology.md",
+    "Sam Gershman.md",
+    "wiki-files/ea50-syllabus.pdf",
+    "wiki-files/Thomas C. Schelling - The Strategy of Conflict_ With a New Preface by the Author-Harvard University Press (1980).pdf",
     "wiki-files/bradbury2001 (1).pdf",
     "wiki-files/0503580v1.pdf",
-    "A Gravitational Wave Transmitter.md",
     "wiki-files/freitas1983.pdf",
-    "Detection Technique for Artificially Illuminated Objects in the Outer Solar System and Beyond.md",
-    "Search for Nanosecond Optical Pulses from Nearby Solar-Type Stars.md",
-    "Evidence in Support of the Hypothesis that Certain Objects on Mars are Artificial in Origin.md",
-    "wiki-files/JSE1997.pdf",
-    "wiki-files/1407.2617v1.pdf",
-    "wiki-files/1964SvA.....8..217K.pdf",
-    "A cloaking device for transiting planets.md",
-    "wiki-files/davies2013.pdf",
-    "Nikolai Kardashev.md",
-    "Exoplanets and SETI.md",
-    "orbital angular momentum.md",
-    "wiki-files/1510.04606v2.pdf",
-    "A Formal Definition of Intelligence Based on an Intensional Variant of Algorithmic Complexity by Jose et al.md",
-    "A Search Strategy for Finding Extraterrestrial Radio Beacons.md",
-    "wiki-files/Dyson_Machines.pdf",
-    "wiki-files/1111.1212v1.pdf",
-    "The Eerie Silence; Renewing Our Search for Alien Intelligence.md",
-    "WETI.md",
-    "Photon Orbital Angular Momentum in Astrophysics.md",
-    "Pei Wang.md",
-    "On the likelihood of non-terrestrial artifacts in the Solar System.md",
-    "Artificial Biosphere.md"
+    "wiki-files/JSE1997.pdf"
   ]
 }

@@ -1,3 +1,4 @@
 #book 
-src: [goodreads](https://www.goodreads.com/book/show/202991335-midnight-s-simulacra), [site](https://midnightssimulacra.com) 
+src: [goodreads](https://www.goodreads.com/book/show/202991335-midnight-s-simulacra), [site](https://midnightssimulacra.com), [[nick black - midnight's simulacra.pdf|local]] 
+
 

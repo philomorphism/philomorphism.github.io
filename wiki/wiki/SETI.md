@@ -1,6 +1,6 @@
 #institute 
 !I've mixed up Seti, the institute, and SETI, the research area on this page, need to work!
-src: [wikipedia](https://en.wikipedia.org/wiki/SETI_Institute), [site](https://www.seti.org), [PSETI](https://www.pseti.psu.edu), [SetiLeague](http://www.setileague.org/index.html) 
+src: [wikipedia](https://en.wikipedia.org/wiki/SETI_Institute), [site](https://www.seti.org), [PSETI](https://www.pseti.psu.edu), [SetiLeague](http://www.setileague.org/index.html), [seti.net](https://seti.net/NewToSETINet/aboutSETINet/about.php) 
 
 [ADS Public Library](https://ui.adsabs.harvard.edu/public-libraries/k1BwfM56QgKbl6X-PXADqg) of all the SETI papers compiled under the project of [[Towards a Comprehensive Bibliography for SETI]] 
 
@@ -13,6 +13,8 @@ a nice online book [Ask Dr. SETI](http://www.setileague.org/askdr/index.html)
 also checkout [next-gen seti](https://www.seti.org/sites/default/files/2024-07/Final%20Next-Gen%20SETI%20eBook%207.2024.pdf) ([[Final Next-Gen SETI eBook 7.2024.pdf|local]]) and [10 places to search](https://www.seti.org/sites/default/files/2024-02/10_Places_to_Search_for_Life_SS_LL-FINAL-2024-2.pdf) ([[10_Places_to_Search_for_Life_SS_LL-FINAL-2024-2.pdf|local]]) 
 
 SETI News https://x.com/jradavenport/status/1796646953604026423?t=sqp81ow0CDzwZJOzpPyZTw&s=19
+
+[[PSETI weekly seminar]] 
 
 [Freeman Dyson’s First Law of SETI Investigations](https://sites.psu.edu/astrowright/2019/07/31/freeman-dysons-first-law-of-seti-investigations/) 
 
@@ -32,4 +34,7 @@ https://en.wikipedia.org/wiki/List_of_interstellar_radio_messages
 https://setiathome.berkeley.edu/meti_statement_0.html
 
 https://en.wikipedia.org/wiki/Gliese_581c#A_Message_from_Earth
+
+
+https://astrobiology.nasa.gov/news/technosignatures-and-the-search-for-extraterrestrial-intelligence/
 

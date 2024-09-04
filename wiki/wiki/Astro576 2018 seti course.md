@@ -118,7 +118,7 @@ SETI Papers (following the astro576 list):
 1. ch.6 and 7 of [[The Eerie Silence; Renewing Our Search for Alien Intelligence]] describes the adv tech to be indistinguishable from magic
 2. a search for disappearing star [[Our Sky Now and Then; Searches for Lost Stars and Impossible Effects as Probes of Advanced Extraterrestrial Civilizations]] 
 ### Research Portfolios and “Fringe” Ideas (4)
-1. [[Taking "The Road Not Taken''; On the Benefits of Diversifying Your Academic Portfolio]] 
+1. [[Taking The Road Not Taken On the Benefits of Diversifying Your Academic Portfolio]] 
 2. [review](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.3847) ([[55_1_online.pdf|local]]) of the [[Making Contact; Jill Tarter and the Search for Extraterrestrial Intelligence]] by [[Jason Wright]] 
 3. on highly unconventional ideas [Commentary: In defense of Crazy Ideas](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3507) ([[10_1_online.pdf|local]])
 4. seti with a gigantic telescope [[Global warming as a detectable thermodynamic marker of Earth-like extrasolar civilizations; the case for a telescope like Colossus]] 

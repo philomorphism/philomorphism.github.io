@@ -2,7 +2,7 @@
   "displayIndividualItems": true,
   "showNotes": true,
   "showAttachments": true,
-  "showFiles": false,
+  "showFiles": true,
   "showLinks": true,
   "showWords": true,
   "showSize": true

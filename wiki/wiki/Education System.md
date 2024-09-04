@@ -1,3 +1,4 @@
+#: [[education]] 
 oh boy! there are tons of things I should read, write, and think about in this domain.
 
 for now, I've found this beautiful framing of the problem of career, parenting, education etc... [tweet](https://twitter.com/nu_phases/status/1666915392063930368?s=20).

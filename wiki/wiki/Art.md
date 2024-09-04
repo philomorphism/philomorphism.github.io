@@ -6,3 +6,5 @@
 
 
 
+https://college.uchicago.edu/academics/core/arts-core
+

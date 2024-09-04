@@ -5,3 +5,4 @@ src: [adsabs](https://ui.adsabs.harvard.edu/abs/1975QJRAS..16..128H/abstract), [
 
 comments by [leo](https://sites.psu.edu/seticourse/2018/01/17/critique-about-the-hart-1975-paper/) and [Christian Gilbertson](https://sites.psu.edu/seticourse/2018/01/17/hart-1975-reaction/) 
 
+first articulation of [[fermi paradox]]? 

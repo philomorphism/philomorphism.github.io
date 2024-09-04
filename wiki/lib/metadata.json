@@ -1,6 +1,6 @@
 {
   "vaultName": "wiki",
-  "lastExport": 1724003484398,
+  "lastExport": 1725440120828,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -76,6 +76,7 @@
     "A Survey on Evaluation of Large Language Models.md",
     "A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points.md",
     "A VLA Search for the Ohio State Wow.md",
+    "AAAI conference.md",
     "abelian group.md",
     "abelian semi-group.md",
     "abiogenesis.md",
@@ -111,6 +112,7 @@
     "Albert Einstein, Philosopher-Scientist.md",
     "Albert L. Lehninger.md",
     "alcohol.md",
+    "Alderson Disk.md",
     "Alexander Grothendieck.md",
     "alexander maier.md",
     "Alexandre V. Borovik.md",
@@ -145,6 +147,7 @@
     "Anand Vaidya.md",
     "anarchy.md",
     "Anaximander.md",
+    "Andal.md",
     "Andre Joyal.md",
     "Andrej Bauer.md",
     "Andrew Strominger.md",
@@ -157,9 +160,12 @@
     "Anthropology and the search for extraterrestrial intelligence; An historical view.md",
     "anthropomorphism.md",
     "antibiotic.md",
+    "Antigone by Sophocles.md",
     "Antoine Lavoisier.md",
     "Anton Van Leeuwenhoek.md",
     "aperiodic tiling of the plane.md",
+    "Apogee Books Space Series by Robert Godwin.md",
+    "Apology by Plato.md",
     "apparent horizon.md",
     "Applied Category Theory.md",
     "applied sciences.md",
@@ -168,22 +174,27 @@
     "archaeology.md",
     "Archaeology, Anthropology, and Interstellar Communication.md",
     "Architecture.md",
+    "Arcturus.md",
     "arecibo message.md",
     "Arecibo Telescope.md",
+    "Arecibo Wow! I; An Astrophysical Explanation for the Wow! Signal.md",
     "Aristarchus.md",
     "Aristotle.md",
     "Arithmetic.md",
     "arnold sommerfeld school.md",
     "Art.md",
     "Arthur C. Clarke.md",
+    "artifact seti.md",
     "Artificial Biosphere.md",
     "Artificial Biosphere by dyson et al.md",
     "Artificial Intelligence.md",
     "Artificial Intelligence Mathematical Olympiad Prize.md",
+    "Artificial Intelligence; A Modern Approach.md",
     "Arula Ratnakar.md",
     "Ashtadhyayi.md",
     "Association for mathematical consciousness science.md",
     "Astro576 2018 seti course.md",
+    "Astrobiological Phase Transition; Towards Resolution of Fermi’s Paradox.md",
     "astrobiology.md",
     "Astrobiology, history, and society; life beyond Earth and the impact of discovery.md",
     "Astrobiology; Origins from the Big-Bang to Civilisation.md",
@@ -203,6 +214,7 @@
     "Attention.md",
     "Attention is All You Need.md",
     "Australopethicus.md",
+    "Austrian Economics.md",
     "Automated theorem prover.md",
     "automation.md",
     "Automorphism.md",
@@ -217,6 +229,8 @@
     "Barbara Gail Montero.md",
     "Bart Barrell.md",
     "Baruch Spinoza.md",
+    "Basic Program Of Liberal Education.md",
+    "bayesian networks.md",
     "Bayesian statistics.md",
     "Become an Objectivist in Ten Easy Steps.md",
     "behavioral sciences.md",
@@ -254,6 +268,7 @@
     "Black Holes and Complexity lectures by susskind.md",
     "Black holes and the second law by bekenstein.md",
     "BLC1 signal.md",
+    "blogs and podcasts.md",
     "Bloom's 2 sigma problem.md",
     "bloom's taxonomy.md",
     "Bob Coecke.md",
@@ -269,14 +284,17 @@
     "Bruno Gavranović.md",
     "Bryce DeWitt.md",
     "buddhism.md",
+    "Building the Intentional University.md",
     "Business.md",
     "Busy Beaver Function.md",
     "C K Raju.md",
     "C. Thi Nguyen.md",
+    "Calathea.md",
     "calculus.md",
     "calendar.md",
     "Cambridge Astrobiology Series.md",
     "Cambridge Companions to Religion Series.md",
+    "Cambridge Fundamentals of Neuroscience in Psychology Series.md",
     "Cambridge Introductions to Philosophy Series.md",
     "Cambridge Mathematical Library Series.md",
     "Cambridge Monographs on Mathematical Physics Series.md",
@@ -336,7 +354,9 @@
     "Childcraft The How And Why Library.md",
     "Chinese.md",
     "Chinese Brain Argument.md",
+    "Chinese Mythology.md",
     "Chinese Room Argument.md",
+    "Chitra Banerjee Divakaruni.md",
     "Chitraang Murdia.md",
     "chlorophyll.md",
     "chloroplast.md",
@@ -352,8 +372,10 @@
     "Clairvoyance.md",
     "Clarence Irving Lewis.md",
     "Clarke's three laws.md",
+    "Classic Chinese Novels.md",
     "Classical Mechanics.md",
     "classical unified field theories.md",
+    "classics.md",
     "classification of division algebras.md",
     "Claude Shannon.md",
     "Claudia Passos.md",
@@ -382,6 +404,7 @@
     "communication.md",
     "communication of mirages.md",
     "communication protocol.md",
+    "communication seti.md",
     "Communications from Superior Galactic Communities.md",
     "Commutative Diagrams.md",
     "compact.md",
@@ -405,12 +428,15 @@
     "Compositionality Journal.md",
     "Computability Theory of Closed Timelike Curves.md",
     "computation.md",
+    "Computational Cognitive Science.md",
     "Computational Complexity and High Energy Physics.md",
     "computational irreducibility.md",
     "computational linguistics.md",
     "computational physics.md",
+    "computational science.md",
     "Computational Trinitarinism.md",
     "computer.md",
+    "computer programming.md",
     "computer science.md",
     "computing machinery and intelligence by Alan Turing.md",
     "Conceptual Mathematics A First Introduction to Categories.md",
@@ -422,6 +448,7 @@
     "Conjoining Meanings Semantics Without Truth Values.md",
     "Conrad Waddington.md",
     "Consciousness.md",
+    "conservation of energy.md",
     "consistent triad.md",
     "Constructor Theory.md",
     "Constructor Theory as Process Theory.md",
@@ -429,10 +456,12 @@
     "continuous functions.md",
     "control system.md",
     "control theory.md",
+    "cooking.md",
     "Copernicus.md",
     "Cornell Messenger Lectures.md",
     "coronavirus.md",
     "correlation.md",
+    "cosmic haystack.md",
     "cosmic history.md",
     "cosmic inflation.md",
     "Cosmic Noise; A History of Early Radio Astronomy.md",
@@ -443,6 +472,7 @@
     "covalent bond.md",
     "Craig Venter.md",
     "creativity.md",
+    "Crime and Punishment.md",
     "CRISPR-Cas9.md",
     "cross product.md",
     "cryonics.md",
@@ -464,6 +494,7 @@
     "Daniel Dennett.md",
     "Danielle Fong.md",
     "Dante's Divine Comedy.md",
+    "Daphne Koller.md",
     "Data Science.md",
     "data visualization.md",
     "datasets.md",
@@ -536,6 +567,7 @@
     "Dr. Wilson's advice.md",
     "Drake Equation.md",
     "Drama.md",
+    "Dream of the Red Chamber, Hong Lou Meng.md",
     "drig-drashya-viveka.md",
     "drug.md",
     "dual.md",
@@ -548,16 +580,21 @@
     "dynamical system.md",
     "Dyson shells; a retrospective.md",
     "dyson sphere.md",
+    "Dyson Spheres.md",
     "Dysonian Approach to SETI; A Fruitful Middle Ground.md",
     "Dysonian SETI.md",
     "Earth.md",
     "eavesdropping.md",
     "Eavesdropping; The Radio Signature of the Earth.md",
     "ebola.md",
+    "Echium vulgare.md",
+    "ecliptic.md",
     "ecology.md",
     "economics.md",
+    "Economics in one Lesson.md",
     "ecosystem.md",
     "Edouard van Beneden.md",
+    "education.md",
     "Education in Anarcho-Liberal Capitalism.md",
     "Education System.md",
     "Edward Frenkel.md",
@@ -627,6 +664,7 @@
     "Escherichia Coli.md",
     "Establishing the accuracy of self-diagnosis in psychiatry.md",
     "ethanol.md",
+    "ethics.md",
     "ethics by spinoza.md",
     "Euclid.md",
     "euclidean geometry.md",
@@ -650,9 +688,11 @@
     "exoplanet.md",
     "Exoplanet Biosignatures; A Review of Remotely Detectable Signs of Life.md",
     "Exoplanets and SETI.md",
+    "expedition.md",
     "experimental phenomenology.md",
     "explanation.md",
     "Explanation for the Absence of Extraterrestrials on Earth.md",
+    "exploration.md",
     "extention.md",
     "exterior derivative.md",
     "external detection of consciousness.md",
@@ -666,6 +706,7 @@
     "Fallibalism.md",
     "fat.md",
     "Felix Klein.md",
+    "Feminism.md",
     "Fermat's Last Theorem.md",
     "fermi paradox.md",
     "fiber.md",
@@ -694,6 +735,7 @@
     "François Jacob.md",
     "Frank Drake.md",
     "Frank J Tipler.md",
+    "Frankenstein.md",
     "Fred Sanger.md",
     "Frederic Schuller.md",
     "free market.md",
@@ -726,6 +768,7 @@
     "fungus.md",
     "Furthering a Comprehensive SETI Bibliography.md",
     "Fusion Energy.md",
+    "Fyodor Dostoevsky.md",
     "GAGA paper.md",
     "Galileo Galilei.md",
     "Galois Theory.md",
@@ -744,6 +787,7 @@
     "genetic information.md",
     "genetics.md",
     "genomics.md",
+    "genus.md",
     "geometric algebra.md",
     "Geometric Deep Learning.md",
     "Geometric Unity.md",
@@ -782,6 +826,8 @@
     "Gravity's whispers.md",
     "Gray's Anatomy.md",
     "Great Discoveries Series.md",
+    "Greek Mythology.md",
+    "Greek Tragedy.md",
     "Greg Egan.md",
     "Gregor Mendel.md",
     "gregorian calendar.md",
@@ -802,6 +848,7 @@
     "hardware.md",
     "Harish Chandra.md",
     "harmonic analysis.md",
+    "Harold McGee.md",
     "Harry Kroto.md",
     "Haskell.md",
     "Haskell Beginners 2022.md",
@@ -813,6 +860,7 @@
     "Hegel’s Science of Logic.md",
     "Henri Bergson.md",
     "Henri Poincaré.md",
+    "Henry Hazlitt.md",
     "Herbert Feigl.md",
     "Herbert Simon.md",
     "herbivore.md",
@@ -853,6 +901,7 @@
     "How to do great work by paul graham.md",
     "How To Read A Book.md",
     "Human Genome Project.md",
+    "humanities.md",
     "Hydrogen Line.md",
     "hyperarousal.md",
     "Hysteresis.md",
@@ -866,13 +915,17 @@
     "Ilya Prigogine.md",
     "Impossibility results.md",
     "impredicativity.md",
+    "Improving Students’ Learning With Effective Learning Techniques; Promising Directions From Cognitive and Educational Psychology.md",
     "Incerto series by Taleb.md",
     "Incompleteness Theorems.md",
     "inconsistent tetrad.md",
     "inconsistent triad.md",
     "indeterminism.md",
     "Index.md",
+    "India.md",
+    "Indian Mythology.md",
     "Indra's Pearls The Vision of Felix Klein.md",
+    "inference.md",
     "Information.md",
     "information geometry.md",
     "information theory.md",
@@ -956,7 +1009,9 @@
     "Joseph Polchinski.md",
     "Joshua Mayers.md",
     "journals.md",
+    "Journey to the West, Xi You Ji.md",
     "Juan Maldacena.md",
+    "Judea Pearl.md",
     "Jules Hedges.md",
     "Julia Galef.md",
     "Julia Kregenow.md",
@@ -1047,6 +1102,7 @@
     "macromolecules.md",
     "Magic Squares of Squares.md",
     "Making Contact; Jill Tarter and the Search for Extraterrestrial Intelligence.md",
+    "Man and Metals.md",
     "Man-Computer Symbiosis.md",
     "management.md",
     "manga and anime stuffverse.md",
@@ -1063,6 +1119,8 @@
     "Mars Trilogy.md",
     "Martín Hötzel Escardó.md",
     "marxism.md",
+    "Mary Shelley.md",
+    "Maryanne Wolf.md",
     "Maslow's hierarchy.md",
     "mass.md",
     "materialism.md",
@@ -1076,6 +1134,8 @@
     "mathematical finance.md",
     "mathematical model.md",
     "mathematical physics.md",
+    "Mathematical Psychology.md",
+    "Mathematical psychology by Batchelder.md",
     "Mathematical Structures in Panini Ashtaadhyaayi.md",
     "Mathematically Structured Programming Group.md",
     "Mathematics.md",
@@ -1098,6 +1158,7 @@
     "memory.md",
     "Memory and entropy by Carlo rovelli.md",
     "Mendelism.md",
+    "Meno by Plato.md",
     "mental models.md",
     "Merlin Sheldrake.md",
     "metabolic pathways.md",
@@ -1127,6 +1188,8 @@
     "Mind-Body Problem.md",
     "Mind-Matter Relation 2018.md",
     "mindfest ai and consciousness conference.md",
+    "Minerva University.md",
+    "mining.md",
     "mitochondria.md",
     "mLab.md",
     "Models of Consciousness 2 2021.md",
@@ -1138,11 +1201,14 @@
     "Monad.md",
     "monadology.md",
     "Monomorphism.md",
+    "Monstera.md",
     "Moon.md",
     "Moon Treaty.md",
     "Moore's paradox.md",
+    "Moral circle expansion.md",
     "moral dichotomy.md",
     "Moral dichotomy of governance.md",
+    "morality.md",
     "Moravec's paradox.md",
     "morphism.md",
     "Mortimer Adler.md",
@@ -1151,11 +1217,13 @@
     "multiverse.md",
     "muscle.md",
     "Music.md",
+    "my dictionary.md",
     "Myth and Mankind Series.md",
     "mythology.md",
     "Nadia Drake.md",
     "Nagarjuna.md",
     "Nagendra Vijay.md",
+    "Nakshatra.md",
     "Nancy Cartwright.md",
     "nano material.md",
     "nanomedicine.md",
@@ -1174,12 +1242,15 @@
     "Ned Markosian.md",
     "negative feedback loop.md",
     "neo-darwinism.md",
+    "Neocatastrophism.md",
     "nephrologist.md",
     "neurology.md",
+    "Neuropsychology.md",
     "neuroscience.md",
     "Neurosymbolic programming.md",
     "neutral monism.md",
     "neutrino.md",
+    "New Handbook of Mathematical Psychology.md",
     "New Mathematical Monographs.md",
     "newcomb's paradox.md",
     "Nicholas Humphrey.md",
@@ -1200,8 +1271,10 @@
     "non-zero-sum games.md",
     "Nordstrom's theory of gravitation.md",
     "normal subgroup.md",
+    "north star.md",
     "Norton's dome.md",
     "Noson Yanofsky.md",
+    "novel.md",
     "Nuclear Fusion.md",
     "nucleic acid.md",
     "nucleus.md",
@@ -1222,6 +1295,7 @@
     "On proof and progress in mathematics.md",
     "On Sizes and Distances by Hipparchus.md",
     "On teaching mathematics by vladimir arnold.md",
+    "On the Inevitability and the Possible Structure of Super Civilizations.md",
     "On the likelihood of non-terrestrial artifacts in the Solar System.md",
     "On the Origin of Species.md",
     "On the Possibility of Detecting Class A Stellar Engines using Exoplanet Transit Curves.md",
@@ -1239,6 +1313,7 @@
     "optic nerve.md",
     "optical seti.md",
     "optics.md",
+    "Optimising Learning Using Flashcards; Spacing Is More Effective Than Cramming.md",
     "optimism.md",
     "orbital angular momentum.md",
     "order theory.md",
@@ -1292,6 +1367,7 @@
     "Pasted image 20240307223748.png",
     "Pasted image 20240311053451.png",
     "Pasted image 20240420225701.png",
+    "Pasted image 20240829082707.png",
     "Patrick Matthew.md",
     "Paul A Samuelson.md",
     "Paul Davies.md",
@@ -1313,11 +1389,13 @@
     "pestilence.md",
     "Peter Coles.md",
     "Peter Mitchell.md",
+    "Peter Norvig.md",
     "Peter Shor.md",
     "Peter Sjöstedt-Hughes.md",
     "Peter Thiel.md",
     "Peter Woit.md",
     "petri nets.md",
+    "phase transition.md",
     "phenomenology.md",
     "philanthropy.md",
     "Philip Morrison.md",
@@ -1346,11 +1424,14 @@
     "physmatics.md",
     "Picard Groups of Moduli Functors.md",
     "Pierre Gassendi.md",
+    "Pieter Levels.md",
     "Pinchen Fan.md",
     "Pineal gland.md",
     "Placing a limit on star-fed Kardashev type III civilisations..md",
     "Planck star.md",
     "Planetary Astrobiology by Victoria Meadows et al.md",
+    "plants.md",
+    "Plato.md",
     "Plectics.md",
     "Poetry.md",
     "policy making.md",
@@ -1371,6 +1452,7 @@
     "predicativity.md",
     "prediction market.md",
     "Presburger arithmetic.md",
+    "presentation skill.md",
     "presheaf.md",
     "Princess Elisabeth of the Palatinate.md",
     "Principal Fiber Bundles.md",
@@ -1381,6 +1463,7 @@
     "Principles of Biochemistry by Albert L. Lehninger.md",
     "Prior indigenous technological species.md",
     "privacy.md",
+    "Probabilistic Models of Cognition.md",
     "probability.md",
     "probability theory.md",
     "Probability Theory The Logic of Science by Jaynes.md",
@@ -1407,7 +1490,10 @@
     "protein kinase.md",
     "proton.md",
     "Proxima Centauri.md",
+    "PSETI weekly seminar.md",
     "psychology.md",
+    "Psychometrics.md",
+    "Psychophysics.md",
     "pulsar.md",
     "purpose.md",
     "pursuing stacks.md",
@@ -1415,6 +1501,7 @@
     "Python.md",
     "quadruped.md",
     "qualia.md",
+    "quantification.md",
     "quantitative systems biology.md",
     "quantum bayesianism.md",
     "quantum complexity theory.md",
@@ -1501,6 +1588,8 @@
     "rocket.md",
     "Roger Penrose.md",
     "Roget’s International Thesaurus of English Words and Phrases.md",
+    "Roman Mythology.md",
+    "Romance of the Three Kingdoms, San Guo Yan Yi.md",
     "Ronald Brown.md",
     "Ronald N Bracewell.md",
     "Rosalind Franklin.md",
@@ -1512,13 +1601,16 @@
     "Rudolf Carnap.md",
     "Russell's Paradox.md",
     "Russian.md",
+    "Russian Literature.md",
     "Sabine Hossenfelder.md",
     "Sabrina Gonzalez Pasterski.md",
     "Sacred Books of the East.md",
     "SageMath.md",
     "Sam Altman.md",
+    "Sam Gershman.md",
     "Sanskrit.md",
     "Sarah Scoles.md",
+    "say's law.md",
     "Scenius.md",
     "schauder basis.md",
     "schelling point.md",
@@ -1536,6 +1628,7 @@
     "search engeines.md",
     "Search for Artificial Stellar Sources of Infrared Radiation.md",
     "Search for Nanosecond Optical Pulses from Nearby Solar-Type Stars.md",
+    "search vs science.md",
     "Searching for alien artifacts on the moon.md",
     "Searching for Extraterrestrial Intelligence; SETI Past, Present, and Future.md",
     "Searching for Good Science - The Cancellation of NASA's SETI Program.md",
@@ -1563,6 +1656,7 @@
     "Shane Parrish.md",
     "sheaf theory.md",
     "Shelter Island II Proceedings of the 1983 Shelter Island Conference on Quantum Field Theory and the Fundamental Problems of Physics.md",
+    "Shruti Rajagopalan.md",
     "sidereal time.md",
     "signalling pathways.md",
     "silicon.md",
@@ -1579,6 +1673,7 @@
     "society.md",
     "Society for mind-matter research.md",
     "sociology.md",
+    "Socratic Dialogue.md",
     "Sofia Sheikh.md",
     "Soft Hair on Black Holes.md",
     "software.md",
@@ -1589,6 +1684,7 @@
     "Somnium, seu opus posthumum De astronomia lunari.md",
     "sonography.md",
     "Sophie Libkind.md",
+    "Sophocles.md",
     "Sophomore's dream.md",
     "Soteriology.md",
     "soul.md",
@@ -1605,6 +1701,7 @@
     "space-time.md",
     "spacecraft.md",
     "spaceship.md",
+    "spacing effect.md",
     "Spanish.md",
     "spatial cognition.md",
     "Special Functions A Unified Theory Based on Singularities.md",
@@ -1618,6 +1715,8 @@
     "Spring School on Quantum Structures.md",
     "Springer biography series.md",
     "Springer Monographs in Mathematics.md",
+    "Springer Praxis Books.md",
+    "Springer Praxis Books; Astronautical Engineering Series.md",
     "Springer Space and Society Series.md",
     "SpringerBriefs in Space Development.md",
     "St John's reading list.md",
@@ -1642,6 +1741,7 @@
     "Steven Weinberg.md",
     "stoke's theorem.md",
     "stories.md",
+    "Stories of Your Life and Others.md",
     "strange loop.md",
     "Strategies and advice for the Search for Extraterrestrial Intelligence.md",
     "stressor.md",
@@ -1649,6 +1749,7 @@
     "string theory.md",
     "structure.md",
     "stuart hameroff.md",
+    "Stuart Russell.md",
     "studies in Logic.md",
     "Studies in Logic and the Foundations of Mathematics.md",
     "subjective experience.md",
@@ -1663,6 +1764,7 @@
     "supervised learning.md",
     "Surely you're joking mr Feynman.md",
     "surjection.md",
+    "Susan Sontag.md",
     "Suvrat Raju.md",
     "Swami Sarvapriyananda.md",
     "Swami Tattwamayananda.md",
@@ -1679,18 +1781,21 @@
     "systems biology.md",
     "systems engineering.md",
     "Systems Engineering Using Systems Thinking to Design Better Aerospace Systems.md",
+    "systems innovation.md",
     "systems science.md",
     "systems theory.md",
     "Tadashi Tokieda.md",
     "Tai-Danae Bradley.md",
-    "Taking \"The Road Not Taken''; On the Benefits of Diversifying Your Academic Portfolio.md",
+    "Taking The Road Not Taken On the Benefits of Diversifying Your Academic Portfolio.md",
     "Tamil.md",
     "Tangent Vector Space.md",
     "TASI 2023.md",
     "Tau Ceti.md",
+    "Techno-Optimist Manifesto.md",
     "technology.md",
     "technosignature.md",
     "TED books.md",
+    "Ted Chiang.md",
     "telekinesis.md",
     "tensors.md",
     "ternary plot.md",
@@ -1715,6 +1820,7 @@
     "The Emergent Multiverse Quantum Theory according to the Everett Interpretation.md",
     "The energy expansions of evolution.md",
     "The Extended Phenotype by Dawkins.md",
+    "The Fermi Paradox and the Aurora Effect; Exo-civilization Settlement, Expansion and Steady States.md",
     "The Fermi Paradox Is Neither Fermi's Nor a Paradox.md",
     "The Feynman Lectures on Physics.md",
     "The Foundations of Mathematics by kenneth kunen.md",
@@ -1722,6 +1828,7 @@
     "the future of physics.md",
     "The Future of the Commons.md",
     "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. I. Background and Justification.md",
+    "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. II. Framework, Strategy, and First Result.md",
     "The Genesis of the Langlands Program.md",
     "The geometric cobordism hypothesis.md",
     "The Great Ideas Program Series.md",
@@ -1740,10 +1847,12 @@
     "The Joint Center for Quantum Information and Computer Science.md",
     "The Joy of Abstraction An Exploration of Math, Category Theory, and Life.md",
     "The L-functions and modular forms database.md",
+    "The Lies that Bind; Rethinking Identity.md",
     "The Luminaries Eleanor Catton.md",
     "The Mathematics of Darwin’s Legacy.md",
     "the meaning of meaning.md",
     "The Mind-Body Problem by Jonathan Westphal.md",
+    "The Mistress of Spices.md",
     "The MIT Press Essential Knowledge Series.md",
     "The Nature of the Firm.md",
     "the network state.md",
@@ -1755,6 +1864,7 @@
     "The Oxford Very Short Introductions Series.md",
     "The Philosophy of Quantum Mechanics The Interpretations of Quantum Mechanics in Historical Perspective.md",
     "The Physical Signature of Computation.md",
+    "The Plum in the Golden Vase, Jin Ping Mei.md",
     "The Polynomial Freiman-Ruzsa Conjecture.md",
     "The power of symmetry by Nathan Seiberg.md",
     "The pre-history of open games by Jules Hedges.md",
@@ -1765,6 +1875,7 @@
     "The Road to General Intelligence by jules et al.md",
     "The Road to Reality by Roger Penrose.md",
     "The role of quantum information in thermodynamics --- a topical review.md",
+    "The Scholars, Ru Lin Wai Shi.md",
     "the science of consciousness conference.md",
     "The search for extraterrestrial artifacts.md",
     "The Search for Extraterrestrial Civilizations with Large Energy Supplies. IV. The Signatures and Information Content of Transiting Megastructures.md",
@@ -1790,11 +1901,13 @@
     "The Unreasonable Effectiveness of Physics in the Mathematical Sciences.md",
     "The Value of Science by Henri Poincare.md",
     "The Wild World of 4-Manifolds.md",
+    "The Wind's Twelve Quarters.md",
     "The work of Robert Langlands by James Arthur.md",
     "The World Book Encyclopaedia.md",
     "the world knot.md",
     "the wow signal.md",
     "The Zoo Hypothesis.md",
+    "theatre.md",
     "Theodore Frankel.md",
     "Theodore Schwann.md",
     "Theodore Shifrin.md",
@@ -1807,7 +1920,9 @@
     "Theory of Everything.md",
     "thermodynamic entropy.md",
     "thermodynamics.md",
+    "Thinking; Fast and Slow.md",
     "third law of thermodynamics.md",
+    "Thomas Arthur Rickard.md",
     "Thomas Campbell.md",
     "Thomas Heath.md",
     "Thomas Judson.md",
@@ -1850,12 +1965,14 @@
     "Trusted timestamping.md",
     "tuberculosis.md",
     "Turil Cronburg.md",
+    "Turing Award.md",
     "Turing machine.md",
     "twin paradox.md",
     "Twistor string theory.md",
     "twistor theory.md",
     "Tyler Cowen.md",
     "type theory.md",
+    "typing.md",
     "Ultimate physical limits to computation.md",
     "Uncomputability and physical law by Seth Lloyd.md",
     "uncountable.md",
@@ -1879,6 +1996,7 @@
     "unsupervised learning.md",
     "Urinary Tract Infection.md",
     "Urs Schreiber.md",
+    "Ursula K. Le Guin.md",
     "Use of class A and class C stellar engines to control sun movement in the galaxy.md",
     "utilitarian arts.md",
     "UV radiation.md",
@@ -1897,6 +2015,8 @@
     "Vienna Godel Lectures.md",
     "Virginia Louise Trimble.md",
     "virus.md",
+    "vision.md",
+    "vision; A Computational Investigation into the Human Representation and Processing of Visual Information.md",
     "Visions of human futures in space and SETI.md",
     "visual cortex.md",
     "Visual Illusions.md",
@@ -1909,6 +2029,7 @@
     "Von Neumann probes.md",
     "Walther Flemming.md",
     "water hole.md",
+    "Water Margin, Shui Hu Zhuan.md",
     "wavefunction collapse.md",
     "We Really Don't Know How to Compute by gerry sussman.md",
     "We Wait and Wonder.md",
@@ -1930,6 +2051,7 @@
     "Wiley Series in Probability and Statistics.md",
     "Will Durant.md",
     "Will Kinney.md",
+    "William H Batchelder.md",
     "William Lawvere.md",
     "William Paley.md",
     "William Woodin.md",
@@ -2391,8 +2513,8 @@
       "dependencies": []
     },
     "academic games.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 546,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 607,
       "exportedPath": "academic-games.html",
       "dependencies": []
     },
@@ -2457,8 +2579,8 @@
       "dependencies": []
     },
     "advises.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 1429,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 1567,
       "exportedPath": "advises.html",
       "dependencies": []
     },
@@ -2487,8 +2609,8 @@
       "dependencies": []
     },
     "AI Safety.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 147,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 171,
       "exportedPath": "ai-safety.html",
       "dependencies": []
     },
@@ -2523,8 +2645,8 @@
       "dependencies": []
     },
     "Albert Einstein.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 79,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 227,
       "exportedPath": "albert-einstein.html",
       "dependencies": []
     },
@@ -2657,8 +2779,8 @@
       "dependencies": []
     },
     "amino acid.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 113,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 306,
       "exportedPath": "amino-acid.html",
       "dependencies": []
     },
@@ -2855,8 +2977,8 @@
       "dependencies": []
     },
     "Art.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 326,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 381,
       "exportedPath": "art.html",
       "dependencies": []
     },
@@ -3509,8 +3631,8 @@
       "dependencies": []
     },
     "Causality Models, Reasoning, and Inference by Judea Pearl.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 148,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 171,
       "exportedPath": "causality-models,-reasoning,-and-inference-by-judea-pearl.html",
       "dependencies": []
     },
@@ -3667,8 +3789,8 @@
       "dependencies": []
     },
     "Chinese.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 45,
       "exportedPath": "chinese.html",
       "dependencies": []
     },
@@ -3859,8 +3981,8 @@
       "dependencies": []
     },
     "cognitive science.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 57,
       "exportedPath": "cognitive-science.html",
       "dependencies": []
     },
@@ -4069,8 +4191,8 @@
       "dependencies": []
     },
     "computer science.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 42,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 140,
       "exportedPath": "computer-science.html",
       "dependencies": []
     },
@@ -4339,8 +4461,8 @@
       "dependencies": []
     },
     "Data Science.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 87,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 159,
       "exportedPath": "data-science.html",
       "dependencies": []
     },
@@ -4795,8 +4917,8 @@
       "dependencies": []
     },
     "economics.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 751,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 826,
       "exportedPath": "economics.html",
       "dependencies": []
     },
@@ -4819,8 +4941,8 @@
       "dependencies": []
     },
     "Education System.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 1902,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 1920,
       "exportedPath": "education-system.html",
       "dependencies": []
     },
@@ -5041,8 +5163,8 @@
       "dependencies": []
     },
     "entrepreneurship.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 965,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 1098,
       "exportedPath": "entrepreneurship.html",
       "dependencies": [
         "pasted-image-20240420225701.png"
@@ -5388,8 +5510,8 @@
       "dependencies": []
     },
     "finance.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 246,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 382,
       "exportedPath": "finance.html",
       "dependencies": []
     },
@@ -5688,8 +5810,8 @@
       "dependencies": []
     },
     "game of life.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 28,
       "exportedPath": "game-of-life.html",
       "dependencies": []
     },
@@ -5904,8 +6026,8 @@
       "dependencies": []
     },
     "governance.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 452,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 577,
       "exportedPath": "governance.html",
       "dependencies": []
     },
@@ -6216,8 +6338,8 @@
       "dependencies": []
     },
     "History.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 96,
       "exportedPath": "history.html",
       "dependencies": []
     },
@@ -6582,8 +6704,8 @@
       "dependencies": []
     },
     "interstellar exploration.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 118,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 162,
       "exportedPath": "interstellar-exploration.html",
       "dependencies": []
     },
@@ -6860,8 +6982,8 @@
       "dependencies": []
     },
     "Julia Galef.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 47,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 190,
       "exportedPath": "julia-galef.html",
       "dependencies": []
     },
@@ -7340,8 +7462,8 @@
       "dependencies": []
     },
     "management.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 128,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 15,
       "exportedPath": "management.html",
       "dependencies": []
     },
@@ -7712,8 +7834,8 @@
       "dependencies": []
     },
     "midnight's simulacra.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 134,
+      "modifiedTime": 1724029833532,
+      "sourceSize": 184,
       "exportedPath": "midnight's-simulacra.html",
       "dependencies": []
     },
@@ -8012,8 +8134,8 @@
       "dependencies": []
     },
     "neuroscience.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 60,
       "exportedPath": "neuroscience.html",
       "dependencies": []
     },
@@ -9074,14 +9196,14 @@
       "dependencies": []
     },
     "probability.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 88,
       "exportedPath": "probability.html",
       "dependencies": []
     },
     "probability theory.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 134,
       "exportedPath": "probability-theory.html",
       "dependencies": []
     },
@@ -9176,8 +9298,8 @@
       "dependencies": []
     },
     "propulsion.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 231,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 341,
       "exportedPath": "propulsion.html",
       "dependencies": []
     },
@@ -9446,8 +9568,8 @@
       "dependencies": []
     },
     "reading.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 8507,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 8550,
       "exportedPath": "reading.html",
       "dependencies": []
     },
@@ -9930,8 +10052,8 @@
       "dependencies": []
     },
     "SETI.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 1970,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 2167,
       "exportedPath": "seti.html",
       "dependencies": []
     },
@@ -10032,14 +10154,14 @@
       "dependencies": []
     },
     "social choice theory.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 81,
       "exportedPath": "social-choice-theory.html",
       "dependencies": []
     },
     "social sciences.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 66,
       "exportedPath": "social-sciences.html",
       "dependencies": []
     },
@@ -10128,8 +10250,8 @@
       "dependencies": []
     },
     "space exploration.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 19,
       "exportedPath": "space-exploration.html",
       "dependencies": []
     },
@@ -11272,8 +11394,8 @@
       "dependencies": []
     },
     "topology.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 126,
       "exportedPath": "topology.html",
       "dependencies": []
     },
@@ -11302,8 +11424,8 @@
       "dependencies": []
     },
     "topos.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 90,
       "exportedPath": "topos.html",
       "dependencies": []
     },
@@ -11434,8 +11556,8 @@
       "dependencies": []
     },
     "unification.md": {
-      "modifiedTime": 1716743287874,
-      "sourceSize": 31,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 108,
       "exportedPath": "unification.html",
       "dependencies": []
     },
@@ -11933,7 +12055,7 @@
       "dependencies": []
     },
     "pasted-image-20240420225701.png": {
-      "modifiedTime": 1723944114342,
+      "modifiedTime": 1725440120828,
       "sourceSize": 687971,
       "exportedPath": "pasted-image-20240420225701.png",
       "dependencies": []
@@ -12011,91 +12133,91 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -12233,85 +12355,85 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1724003484398,
-      "sourceSize": 658608,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 699803,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1724003484398,
-      "sourceSize": 162400,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 173229,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 328,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 203,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -12395,8 +12517,8 @@
       "dependencies": []
     },
     "A near-infrared SETI experiment; instrument overview.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 306,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 317,
       "exportedPath": "a-near-infrared-seti-experiment;-instrument-overview.html",
       "dependencies": []
     },
@@ -12557,16 +12679,16 @@
       "dependencies": []
     },
     "Artificial Intelligence.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 191,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 236,
       "exportedPath": "artificial-intelligence.html",
       "dependencies": [
         "pasted-image-20240311053451.png"
       ]
     },
     "Astro576 2018 seti course.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 13796,
+      "modifiedTime": 1724029833532,
+      "sourceSize": 13792,
       "exportedPath": "astro576-2018-seti-course.html",
       "dependencies": []
     },
@@ -12667,8 +12789,8 @@
       "dependencies": []
     },
     "Business.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 30,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 72,
       "exportedPath": "business.html",
       "dependencies": []
     },
@@ -12703,8 +12825,8 @@
       "dependencies": []
     },
     "civilization.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 0,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 69,
       "exportedPath": "civilization.html",
       "dependencies": []
     },
@@ -12955,8 +13077,8 @@
       "dependencies": []
     },
     "Explanation for the Absence of Extraterrestrials on Earth.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 371,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 412,
       "exportedPath": "explanation-for-the-absence-of-extraterrestrials-on-earth.html",
       "dependencies": []
     },
@@ -13195,8 +13317,8 @@
       "dependencies": []
     },
     "Jason Wright.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 549,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 719,
       "exportedPath": "jason-wright.html",
       "dependencies": []
     },
@@ -13237,8 +13359,8 @@
       "dependencies": []
     },
     "Julina Pril.md": {
-      "modifiedTime": 1724003484398,
-      "sourceSize": 11900,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 13783,
       "exportedPath": "julina-pril.html",
       "dependencies": []
     },
@@ -13854,12 +13976,6 @@
       "exportedPath": "systems-science.html",
       "dependencies": []
     },
-    "Taking \"The Road Not Taken''; On the Benefits of Diversifying Your Academic Portfolio.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 250,
-      "exportedPath": "taking-\"the-road-not-taken'';-on-the-benefits-of-diversifying-your-academic-portfolio.html",
-      "dependencies": []
-    },
     "Tau Ceti.md": {
       "modifiedTime": 1723944114342,
       "sourceSize": 40,
@@ -14017,8 +14133,8 @@
       "dependencies": []
     },
     "the wow signal.md": {
-      "modifiedTime": 1723944114342,
-      "sourceSize": 167,
+      "modifiedTime": 1725440120828,
+      "sourceSize": 192,
       "exportedPath": "the-wow-signal.html",
       "dependencies": []
     },
@@ -14161,9 +14277,761 @@
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1724003484398,
+      "modifiedTime": 1725440120828,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "Taking The Road Not Taken On the Benefits of Diversifying Your Academic Portfolio.md": {
+      "modifiedTime": 1724029833532,
+      "sourceSize": 250,
+      "exportedPath": "taking-the-road-not-taken-on-the-benefits-of-diversifying-your-academic-portfolio.html",
+      "dependencies": []
+    },
+    "AAAI conference.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 155,
+      "exportedPath": "aaai-conference.html",
+      "dependencies": []
+    },
+    "Alderson Disk.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "alderson-disk.html",
+      "dependencies": []
+    },
+    "Andal.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 193,
+      "exportedPath": "andal.html",
+      "dependencies": []
+    },
+    "Antigone by Sophocles.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 685,
+      "exportedPath": "antigone-by-sophocles.html",
+      "dependencies": []
+    },
+    "Apogee Books Space Series by Robert Godwin.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 146,
+      "exportedPath": "apogee-books-space-series-by-robert-godwin.html",
+      "dependencies": []
+    },
+    "Apology by Plato.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 332,
+      "exportedPath": "apology-by-plato.html",
+      "dependencies": []
+    },
+    "Arcturus.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 40,
+      "exportedPath": "arcturus.html",
+      "dependencies": []
+    },
+    "Arecibo Wow! I; An Astrophysical Explanation for the Wow! Signal.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 79,
+      "exportedPath": "arecibo-wow!-i;-an-astrophysical-explanation-for-the-wow!-signal.html",
+      "dependencies": []
+    },
+    "artifact seti.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "artifact-seti.html",
+      "dependencies": []
+    },
+    "Artificial Intelligence; A Modern Approach.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 325,
+      "exportedPath": "artificial-intelligence;-a-modern-approach.html",
+      "dependencies": []
+    },
+    "Astrobiological Phase Transition; Towards Resolution of Fermi’s Paradox.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 218,
+      "exportedPath": "astrobiological-phase-transition;-towards-resolution-of-fermi’s-paradox.html",
+      "dependencies": []
+    },
+    "Austrian Economics.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 43,
+      "exportedPath": "austrian-economics.html",
+      "dependencies": []
+    },
+    "Basic Program Of Liberal Education.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 325,
+      "exportedPath": "basic-program-of-liberal-education.html",
+      "dependencies": []
+    },
+    "bayesian networks.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "bayesian-networks.html",
+      "dependencies": []
+    },
+    "blogs and podcasts.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 530,
+      "exportedPath": "blogs-and-podcasts.html",
+      "dependencies": []
+    },
+    "Building the Intentional University.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 335,
+      "exportedPath": "building-the-intentional-university.html",
+      "dependencies": []
+    },
+    "Calathea.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 74,
+      "exportedPath": "calathea.html",
+      "dependencies": []
+    },
+    "Cambridge Fundamentals of Neuroscience in Psychology Series.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 164,
+      "exportedPath": "cambridge-fundamentals-of-neuroscience-in-psychology-series.html",
+      "dependencies": []
+    },
+    "Chinese Mythology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 19,
+      "exportedPath": "chinese-mythology.html",
+      "dependencies": []
+    },
+    "Chitra Banerjee Divakaruni.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 273,
+      "exportedPath": "chitra-banerjee-divakaruni.html",
+      "dependencies": []
+    },
+    "Classic Chinese Novels.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 510,
+      "exportedPath": "classic-chinese-novels.html",
+      "dependencies": []
+    },
+    "classics.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 98,
+      "exportedPath": "classics.html",
+      "dependencies": []
+    },
+    "communication seti.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "communication-seti.html",
+      "dependencies": []
+    },
+    "Computational Cognitive Science.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 253,
+      "exportedPath": "computational-cognitive-science.html",
+      "dependencies": []
+    },
+    "computational science.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "computational-science.html",
+      "dependencies": []
+    },
+    "computer programming.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 102,
+      "exportedPath": "computer-programming.html",
+      "dependencies": []
+    },
+    "conservation of energy.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "conservation-of-energy.html",
+      "dependencies": []
+    },
+    "cooking.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "cooking.html",
+      "dependencies": []
+    },
+    "cosmic haystack.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "cosmic-haystack.html",
+      "dependencies": []
+    },
+    "Crime and Punishment.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 353,
+      "exportedPath": "crime-and-punishment.html",
+      "dependencies": []
+    },
+    "Daphne Koller.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 243,
+      "exportedPath": "daphne-koller.html",
+      "dependencies": []
+    },
+    "Dream of the Red Chamber, Hong Lou Meng.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 172,
+      "exportedPath": "dream-of-the-red-chamber,-hong-lou-meng.html",
+      "dependencies": []
+    },
+    "Dyson Spheres.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 137,
+      "exportedPath": "dyson-spheres.html",
+      "dependencies": []
+    },
+    "Echium vulgare.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 61,
+      "exportedPath": "echium-vulgare.html",
+      "dependencies": []
+    },
+    "ecliptic.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 38,
+      "exportedPath": "ecliptic.html",
+      "dependencies": []
+    },
+    "Economics in one Lesson.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 221,
+      "exportedPath": "economics-in-one-lesson.html",
+      "dependencies": []
+    },
+    "education.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "education.html",
+      "dependencies": []
+    },
+    "ethics.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "ethics.html",
+      "dependencies": []
+    },
+    "expedition.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 175,
+      "exportedPath": "expedition.html",
+      "dependencies": []
+    },
+    "exploration.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 49,
+      "exportedPath": "exploration.html",
+      "dependencies": []
+    },
+    "Feminism.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 95,
+      "exportedPath": "feminism.html",
+      "dependencies": []
+    },
+    "Frankenstein.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 154,
+      "exportedPath": "frankenstein.html",
+      "dependencies": []
+    },
+    "Fyodor Dostoevsky.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 248,
+      "exportedPath": "fyodor-dostoevsky.html",
+      "dependencies": []
+    },
+    "genus.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 37,
+      "exportedPath": "genus.html",
+      "dependencies": []
+    },
+    "Greek Mythology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 103,
+      "exportedPath": "greek-mythology.html",
+      "dependencies": []
+    },
+    "Greek Tragedy.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 25,
+      "exportedPath": "greek-tragedy.html",
+      "dependencies": []
+    },
+    "Harold McGee.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 268,
+      "exportedPath": "harold-mcgee.html",
+      "dependencies": []
+    },
+    "Henry Hazlitt.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 176,
+      "exportedPath": "henry-hazlitt.html",
+      "dependencies": []
+    },
+    "humanities.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 60,
+      "exportedPath": "humanities.html",
+      "dependencies": []
+    },
+    "Improving Students’ Learning With Effective Learning Techniques; Promising Directions From Cognitive and Educational Psychology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 290,
+      "exportedPath": "improving-students’-learning-with-effective-learning-techniques;-promising-directions-from-cognitive-and-educational-psychology.html",
+      "dependencies": []
+    },
+    "India.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "india.html",
+      "dependencies": []
+    },
+    "Indian Mythology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 19,
+      "exportedPath": "indian-mythology.html",
+      "dependencies": []
+    },
+    "inference.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "inference.html",
+      "dependencies": []
+    },
+    "Journey to the West, Xi You Ji.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 58,
+      "exportedPath": "journey-to-the-west,-xi-you-ji.html",
+      "dependencies": []
+    },
+    "Judea Pearl.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 351,
+      "exportedPath": "judea-pearl.html",
+      "dependencies": []
+    },
+    "Man and Metals.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 190,
+      "exportedPath": "man-and-metals.html",
+      "dependencies": []
+    },
+    "Mary Shelley.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 367,
+      "exportedPath": "mary-shelley.html",
+      "dependencies": []
+    },
+    "Maryanne Wolf.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 189,
+      "exportedPath": "maryanne-wolf.html",
+      "dependencies": []
+    },
+    "Mathematical Psychology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 89,
+      "exportedPath": "mathematical-psychology.html",
+      "dependencies": []
+    },
+    "Mathematical psychology by Batchelder.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 176,
+      "exportedPath": "mathematical-psychology-by-batchelder.html",
+      "dependencies": []
+    },
+    "Meno by Plato.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 378,
+      "exportedPath": "meno-by-plato.html",
+      "dependencies": []
+    },
+    "Minerva University.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 2217,
+      "exportedPath": "minerva-university.html",
+      "dependencies": []
+    },
+    "mining.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "mining.html",
+      "dependencies": []
+    },
+    "Monstera.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 72,
+      "exportedPath": "monstera.html",
+      "dependencies": []
+    },
+    "Moral circle expansion.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 83,
+      "exportedPath": "moral-circle-expansion.html",
+      "dependencies": []
+    },
+    "morality.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 13,
+      "exportedPath": "morality.html",
+      "dependencies": []
+    },
+    "my dictionary.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "my-dictionary.html",
+      "dependencies": []
+    },
+    "Nakshatra.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 41,
+      "exportedPath": "nakshatra.html",
+      "dependencies": []
+    },
+    "Neocatastrophism.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 71,
+      "exportedPath": "neocatastrophism.html",
+      "dependencies": []
+    },
+    "Neuropsychology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 116,
+      "exportedPath": "neuropsychology.html",
+      "dependencies": []
+    },
+    "New Handbook of Mathematical Psychology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 267,
+      "exportedPath": "new-handbook-of-mathematical-psychology.html",
+      "dependencies": []
+    },
+    "north star.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 33,
+      "exportedPath": "north-star.html",
+      "dependencies": []
+    },
+    "novel.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "novel.html",
+      "dependencies": []
+    },
+    "On the Inevitability and the Possible Structure of Super Civilizations.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 169,
+      "exportedPath": "on-the-inevitability-and-the-possible-structure-of-super-civilizations.html",
+      "dependencies": []
+    },
+    "Optimising Learning Using Flashcards; Spacing Is More Effective Than Cramming.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 152,
+      "exportedPath": "optimising-learning-using-flashcards;-spacing-is-more-effective-than-cramming.html",
+      "dependencies": []
+    },
+    "Pasted image 20240829082707.png": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 774234,
+      "exportedPath": "pasted-image-20240829082707.png",
+      "dependencies": []
+    },
+    "Peter Norvig.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 228,
+      "exportedPath": "peter-norvig.html",
+      "dependencies": []
+    },
+    "phase transition.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "phase-transition.html",
+      "dependencies": []
+    },
+    "Pieter Levels.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 198,
+      "exportedPath": "pieter-levels.html",
+      "dependencies": []
+    },
+    "plants.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "plants.html",
+      "dependencies": []
+    },
+    "Plato.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 322,
+      "exportedPath": "plato.html",
+      "dependencies": []
+    },
+    "presentation skill.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 90,
+      "exportedPath": "presentation-skill.html",
+      "dependencies": []
+    },
+    "Probabilistic Models of Cognition.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 186,
+      "exportedPath": "probabilistic-models-of-cognition.html",
+      "dependencies": []
+    },
+    "PSETI weekly seminar.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 3972,
+      "exportedPath": "pseti-weekly-seminar.html",
+      "dependencies": [
+        "pasted-image-20240829082707.png"
+      ]
+    },
+    "Psychometrics.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 181,
+      "exportedPath": "psychometrics.html",
+      "dependencies": []
+    },
+    "Psychophysics.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 31,
+      "exportedPath": "psychophysics.html",
+      "dependencies": []
+    },
+    "quantification.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "quantification.html",
+      "dependencies": []
+    },
+    "Roman Mythology.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 19,
+      "exportedPath": "roman-mythology.html",
+      "dependencies": []
+    },
+    "Romance of the Three Kingdoms, San Guo Yan Yi.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 68,
+      "exportedPath": "romance-of-the-three-kingdoms,-san-guo-yan-yi.html",
+      "dependencies": []
+    },
+    "Russian Literature.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "russian-literature.html",
+      "dependencies": []
+    },
+    "Sam Gershman.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 283,
+      "exportedPath": "sam-gershman.html",
+      "dependencies": []
+    },
+    "say's law.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 39,
+      "exportedPath": "say's-law.html",
+      "dependencies": []
+    },
+    "search vs science.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 36,
+      "exportedPath": "search-vs-science.html",
+      "dependencies": []
+    },
+    "Shruti Rajagopalan.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 151,
+      "exportedPath": "shruti-rajagopalan.html",
+      "dependencies": []
+    },
+    "Socratic Dialogue.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 116,
+      "exportedPath": "socratic-dialogue.html",
+      "dependencies": []
+    },
+    "Sophocles.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 369,
+      "exportedPath": "sophocles.html",
+      "dependencies": []
+    },
+    "spacing effect.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 85,
+      "exportedPath": "spacing-effect.html",
+      "dependencies": []
+    },
+    "Springer Praxis Books.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 138,
+      "exportedPath": "springer-praxis-books.html",
+      "dependencies": []
+    },
+    "Springer Praxis Books; Astronautical Engineering Series.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 284,
+      "exportedPath": "springer-praxis-books;-astronautical-engineering-series.html",
+      "dependencies": []
+    },
+    "Stories of Your Life and Others.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 217,
+      "exportedPath": "stories-of-your-life-and-others.html",
+      "dependencies": []
+    },
+    "Stuart Russell.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 515,
+      "exportedPath": "stuart-russell.html",
+      "dependencies": []
+    },
+    "Susan Sontag.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 694,
+      "exportedPath": "susan-sontag.html",
+      "dependencies": []
+    },
+    "systems innovation.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 47,
+      "exportedPath": "systems-innovation.html",
+      "dependencies": []
+    },
+    "Techno-Optimist Manifesto.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 106,
+      "exportedPath": "techno-optimist-manifesto.html",
+      "dependencies": []
+    },
+    "Ted Chiang.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 282,
+      "exportedPath": "ted-chiang.html",
+      "dependencies": []
+    },
+    "The Fermi Paradox and the Aurora Effect; Exo-civilization Settlement, Expansion and Steady States.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 181,
+      "exportedPath": "the-fermi-paradox-and-the-aurora-effect;-exo-civilization-settlement,-expansion-and-steady-states.html",
+      "dependencies": []
+    },
+    "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. II. Framework, Strategy, and First Result.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 235,
+      "exportedPath": "the-ĝ-infrared-search-for-extraterrestrial-civilizations-with-large-energy-supplies.-ii.-framework,-strategy,-and-first-result.html",
+      "dependencies": []
+    },
+    "The Lies that Bind; Rethinking Identity.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 298,
+      "exportedPath": "the-lies-that-bind;-rethinking-identity.html",
+      "dependencies": []
+    },
+    "The Mistress of Spices.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 7173,
+      "exportedPath": "the-mistress-of-spices.html",
+      "dependencies": []
+    },
+    "The Plum in the Golden Vase, Jin Ping Mei.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 51,
+      "exportedPath": "the-plum-in-the-golden-vase,-jin-ping-mei.html",
+      "dependencies": []
+    },
+    "The Scholars, Ru Lin Wai Shi.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 59,
+      "exportedPath": "the-scholars,-ru-lin-wai-shi.html",
+      "dependencies": []
+    },
+    "The Wind's Twelve Quarters.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 220,
+      "exportedPath": "the-wind's-twelve-quarters.html",
+      "dependencies": []
+    },
+    "theatre.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "theatre.html",
+      "dependencies": []
+    },
+    "Thinking; Fast and Slow.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 193,
+      "exportedPath": "thinking;-fast-and-slow.html",
+      "dependencies": []
+    },
+    "Thomas Arthur Rickard.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 166,
+      "exportedPath": "thomas-arthur-rickard.html",
+      "dependencies": []
+    },
+    "Turing Award.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 110,
+      "exportedPath": "turing-award.html",
+      "dependencies": []
+    },
+    "typing.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 28,
+      "exportedPath": "typing.html",
+      "dependencies": []
+    },
+    "Ursula K. Le Guin.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 215,
+      "exportedPath": "ursula-k.-le-guin.html",
+      "dependencies": []
+    },
+    "vision.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 0,
+      "exportedPath": "vision.html",
+      "dependencies": []
+    },
+    "vision; A Computational Investigation into the Human Representation and Processing of Visual Information.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 130,
+      "exportedPath": "vision;-a-computational-investigation-into-the-human-representation-and-processing-of-visual-information.html",
+      "dependencies": []
+    },
+    "Water Margin, Shui Hu Zhuan.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 50,
+      "exportedPath": "water-margin,-shui-hu-zhuan.html",
+      "dependencies": []
+    },
+    "William H Batchelder.md": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 147,
+      "exportedPath": "william-h-batchelder.html",
+      "dependencies": []
+    },
+    "pasted-image-20240311053451.png": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 2289596,
+      "exportedPath": "pasted-image-20240311053451.png",
+      "dependencies": []
+    },
+    "pasted-image-20240829082707.png": {
+      "modifiedTime": 1725440120828,
+      "sourceSize": 774234,
+      "exportedPath": "pasted-image-20240829082707.png",
       "dependencies": []
     }
   }
