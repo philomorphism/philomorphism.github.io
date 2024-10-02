@@ -1,6 +1,5 @@
-#people 
-
-#: [[physics]], [[quantum information]], [[Constructor Theory]] 
+#person 
+#: [[physics]], [[quantum information]], [[Constructor Theory]], [[Fallibalism]] 
 
 [reading guide](https://applebutterdreams.wordpress.com/2014/04/18/deutsch/) 
 

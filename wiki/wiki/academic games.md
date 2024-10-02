@@ -9,3 +9,5 @@
 - https://phet.colorado.edu
 - https://www.janestreet.com/puzzles/archive/
 - https://phet.colorado.edu (active animated stuff, not a game)
+- https://deferentialgeometry.org/epe/epe20p/
+- https://nathancarter.github.io/group-explorer/index.html

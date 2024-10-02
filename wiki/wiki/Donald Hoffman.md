@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [homepage](https://sites.socsci.uci.edu/~ddhoff/)
 #: [[Analytic Idealism]] [[Consciousness]]
 path: understanding consciousness through falsifiable theories, aggregate conscious agents through Markovian kernels

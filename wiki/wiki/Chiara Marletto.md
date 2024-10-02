@@ -1,3 +1,3 @@
-#people 
+#person 
 #: [[Constructor Theory]] 
 

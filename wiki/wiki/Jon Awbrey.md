@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [blog](https://inquiryintoinquiry.com/2013/12/20/precursors-of-category-theory-1/)
 #: [[category theory]], [[foundations of mathematics]], [[logic]]
 

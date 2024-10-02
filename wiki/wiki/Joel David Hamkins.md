@@ -1,4 +1,4 @@
-#people 
+#person 
 watch his lectures on [[philosophy]] of [[Mathematics]].
 
 I wish his substack was free.

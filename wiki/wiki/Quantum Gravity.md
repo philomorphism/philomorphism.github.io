@@ -4,3 +4,4 @@ there's this related blog: https://www.quantumofgravity.com/blog/
 
 [Quantum Gravity from the QFT perspective](https://www.youtube.com/playlist?list=PLg0_ydgtbHGETePxyz-dBMB5E3QZbYJID) (^: [tweet](https://twitter.com/postquantum/status/1767948730160816428)) 
 
+[[Carlo Rovelli]] has a book on this.

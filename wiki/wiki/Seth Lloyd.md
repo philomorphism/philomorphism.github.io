@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[Information]], [[computation]], [[Entropy]], [[physics]]
 
 papers:

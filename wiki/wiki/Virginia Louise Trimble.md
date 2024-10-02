@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[astrophysics]] 
 src: [uci](https://www.faculty.uci.edu/profile/?facultyId=3060), [wikipedia](https://en.wikipedia.org/wiki/Virginia_Louise_Trimble), [inspire](https://inspirehep.net/authors/985662) 
 

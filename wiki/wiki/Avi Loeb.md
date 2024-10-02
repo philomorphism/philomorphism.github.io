@@ -1,2 +1,2 @@
-#people 
+#person 
 #: [[SETI]] 

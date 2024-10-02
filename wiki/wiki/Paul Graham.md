@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](http://paulgraham.com/)
 
 I'd like to read all of his essays. 

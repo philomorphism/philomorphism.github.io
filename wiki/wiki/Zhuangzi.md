@@ -1,4 +1,4 @@
-#people 
+#person 
 aka: 庄子
 
 

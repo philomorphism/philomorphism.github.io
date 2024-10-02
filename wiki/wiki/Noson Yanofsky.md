@@ -1,4 +1,4 @@
-#people 
+#person 
 
 read some of his works
 

@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [SETI](https://www.seti.org/our-scientists/seth-shostak), [wikipedia](https://en.wikipedia.org/wiki/Seth_Shostak), 
 
 https://www.ted.com/talks/seth_shostak_et_is_probably_out_there_get_ready?subtitle=en

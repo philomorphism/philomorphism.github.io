@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Hans_Selye), [goodreads](https://www.goodreads.com/author/quotes/338094.Hans_Selye) 
 #: [[Endocrinology]], [[stressor]], [[hyperarousal]] 
 

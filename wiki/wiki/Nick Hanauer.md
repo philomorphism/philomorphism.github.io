@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://nickhanauer.com), [wikipedia](https://en.wikipedia.org/wiki/Nick_Hanauer), [goodreads](https://www.goodreads.com/author/show/1205998.Nick_Hanauer) 
 #: [[entrepreneurship]] 
 

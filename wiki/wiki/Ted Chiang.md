@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Ted_Chiang), [goodreads](https://www.goodreads.com/author/show/130698.Ted_Chiang) 
 #: [[fiction]], [[Science Fiction]] 
 

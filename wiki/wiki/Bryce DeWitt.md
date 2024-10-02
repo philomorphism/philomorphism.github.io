@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Bryce_DeWitt) 
 #: [[theoretical physics]] 
 

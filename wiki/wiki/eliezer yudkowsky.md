@@ -1,4 +1,4 @@
-#people 
+#person 
 well, who doesn't know this guy if enough readings on AI and stuff is done?
 
 read his version of harry potter if feels importsnt.

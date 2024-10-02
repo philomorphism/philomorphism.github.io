@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df2314ded38f87bf",
+        "id": "804bcd0ec7aea95e",
         "type": "tabs",
         "children": [
           {
-            "id": "07137bf651c87a6f",
+            "id": "37b6b7add93c7d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Mistress of Spices.md",
+                "file": "Philosophy; Who Needs It.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,22 +21,12 @@
             }
           },
           {
-            "id": "d19e4afa6d415bd9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "wiki-files/The Mistress Of Spices -- Chitra Banerjee Divakaruni -- Women's Prize For Fiction Longlist, 1998 -- Anchor Books -- 0385482388 -- 738ad8962af9f5b50aafa3adb0c12257 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "0004aca0e101fa25",
+            "id": "ed59badcb456154d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading.md",
+                "file": "Immanuel Kant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "reading.md",
+            "file": "Immanuel Kant.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "reading.md",
+            "file": "Immanuel Kant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "reading.md"
+            "file": "Immanuel Kant.md"
           }
         }
       }
@@ -158,43 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0004aca0e101fa25",
+  "active": "ed59badcb456154d",
   "lastOpenFiles": [
-    "St John's reading list.md",
+    "what is life by Paul Nurse.md",
+    "Immanuel Kant.md",
+    "White Holes by Carlo Rovelli.md",
+    "The Greatest Minds and Ideas of All Time.md",
+    "Philosophy; Who Needs It.md",
+    "Johnathan Bi.md",
+    "Ayn Rand.md",
+    "wiki-files/The Road to Reality (Roger Penrose) (Z-Library).pdf",
+    "The Encyclopedia of Cosmology.md",
+    "wiki-files/The Encyclopedia of Cosmology Set 2 Frontiers in CosmologyVolume 3 Black Holes (Giovanni G Fazio  Zoltan Haiman) (Z-Library).pdf",
+    "Untitled.md",
+    "The Road to Reality by Roger Penrose.md",
+    "Laws of form.md",
+    "wiki-files/Jakob Schwichtenberg - Physics from Symmetry-Springer (2017).pdf",
+    "Physics From Symmetry.md",
     "reading.md",
-    "wiki-files/The Mistress Of Spices -- Chitra Banerjee Divakaruni -- Women's Prize For Fiction Longlist, 1998 -- Anchor Books -- 0385482388 -- 738ad8962af9f5b50aafa3adb0c12257 -- Anna’s Archive.pdf",
-    "The Mistress of Spices.md",
-    "Apology by Plato.md",
-    "Nine axes of merit for technosignature searches.md",
-    "Basic Program Of Liberal Education.md",
-    "Antigone by Sophocles.md",
-    "hamel basis.md",
-    "Astronomy.md",
-    "social choice theory.md",
-    "Condorcet paradox.md",
-    "Susan Sontag.md",
-    "wiki-files/overview-of-characteristics-of-complex-systems.pdf",
-    "wiki-files/cx50-syllabus.pdf",
-    "theatre.md",
-    "vision.md",
-    "vision; A Computational Investigation into the Human Representation and Processing of Visual Information.md",
-    "Computational Cognitive Science.md",
-    "computational science.md",
-    "quantification.md",
-    "Psychophysics.md",
-    "Psychometrics.md",
-    "New Handbook of Mathematical Psychology.md",
-    "William H Batchelder.md",
-    "wiki-files/batchelder2010.pdf",
-    "Mathematical psychology by Batchelder.md",
-    "Probabilistic Models of Cognition.md",
-    "Mathematical Psychology.md",
-    "Sam Gershman.md",
-    "wiki-files/ea50-syllabus.pdf",
-    "wiki-files/Thomas C. Schelling - The Strategy of Conflict_ With a New Preface by the Author-Harvard University Press (1980).pdf",
-    "wiki-files/bradbury2001 (1).pdf",
-    "wiki-files/0503580v1.pdf",
-    "wiki-files/freitas1983.pdf",
-    "wiki-files/JSE1997.pdf"
+    "The Road to General Intelligence by jules et al.md",
+    "wiki-files/(Studies In Computational Intelligence _ 1049) Jerry Swan, Eric Nivel, Neel Kant, Jules Hedges, Timothy Atkinson, Bas Steunebrink - The Road To General Intelligence-Springer (2022).pdf",
+    "wiki-files/(Studies In Computational Intelligence _ 1049) Jerry Swan, Eric Nivel, Neel Kant, Jules Hedges, Timothy Atkinson, Bas Steunebrink - The Road To General Intelligence-Springer (2022).pdf.crdownload",
+    "roa.md",
+    "public_journal/2023-07-30.md",
+    "public_journal/2023-07-18.md",
+    "Geometry of Physics by Urs Schreiber.md",
+    "Geometry of Physics by Theodore Frankel.md",
+    "Bob Coecke.md",
+    "Quantum Computation.md",
+    "Urs Schreiber.md",
+    "wiki-files/2105.06332v2.pdf",
+    "Towards Foundations of Categorical Cybernetics.md",
+    "Categorical Cybernetics.md",
+    "wiki-files/Claudia de Rham - The Beauty of Falling_ A Life in Pursuit of Gravity-Princeton University Press (2024).pdf",
+    "wiki-files/The Encyclopedia of Cosmology Set 2 Frontiers in Cosmology Volume 1 Modified Gravity (Claudia de Rham, Andrew J. Tolley) (Z-Library).pdf",
+    "The Beauty of Falling; A Life in Pursuit of Gravity.md",
+    "Claudia de Rham.md",
+    "wiki-files/Malcolm S. Longair - Theoretical Concepts in Physics_ An Alternative View of Theoretical Reasoning in Physics-Cambridge University Press (2020).pdf",
+    "wiki-files/Economic Policy Thoughts for Today and Tomorrow_3.pdf"
   ]
 }

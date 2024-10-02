@@ -12,3 +12,6 @@ and perhaps first the LFS thing, and things [this](https://www.reddit.com/r/AskC
 [BBC documetry on the history of computing](https://www.youtube.com/playlist?list=PL1331A4548513EA81) 
 
 [The Machine that Changed the World](https://www.youtube.com/playlist?list=PLiSiLzxjp5v4C14U-1AX8YbIUXLrcQnQk) 
+
+https://www.goodreads.com/book/show/722412.The_Dream_Machine?from_search=true&from_srp=true&qid=q3tUHBIm3v&rank=1
+

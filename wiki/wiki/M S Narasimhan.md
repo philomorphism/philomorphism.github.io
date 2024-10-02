@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wiki](https://en.m.wikipedia.org/wiki/M._S._Narasimhan) 
 #: [[Mathematics]], [[Algebraic Geometry]] 
 

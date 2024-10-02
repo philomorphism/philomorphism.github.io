@@ -1,4 +1,4 @@
-#people 
+#person 
 
 I plan to read all of his tiny books:
 - Anaximander

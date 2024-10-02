@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell) 
 #: [[pulsar]], [[astrophysics]], [[SETI]], [[radioastronomy]], [[Astronomy]], [[physics]] 
 

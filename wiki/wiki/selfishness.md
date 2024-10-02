@@ -1,3 +1,10 @@
+[[eliezer yudkowsky]] has this piece: https://www.lesswrong.com/posts/fATPBv4pnHC33EmJ2/fake-morality
+
+
+
+
+___
+
 people suffer because they're not selfish enough. but people make others suffer because they're selfish, that is more than selfish enough.
 
 the real question, ig, is to know what selfish enough means. I, as a kid, thought my education would teach me this. but, here I am!
@@ -16,3 +23,4 @@ but then I see no difference between "obedience" and "selfish enough".
 
 Was Ravana not intelligent in the way Rama was?
 It seems Rama was "selfish enough" in this definition, and that Ravana was more than selfish enough.
+

@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://ievacepaite.com)
 #: [[Quantum Computation]], [[quantum information]], [[quantum mechanics]]
 path: I think she describes what she aspires to do in this [thread](https://twitter.com/HyperboIeva/status/1337398266653237248), and i like it so much.

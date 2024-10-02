@@ -1,5 +1,6 @@
 some stuff i should keep in mind:
 
+http://technovelgy.com
 [sci-fi idea bank](https://www.notboring.co/p/sci-fi-idea-bank) 
 
 https://en.m.wikiversity.org/wiki/Portal:Master_of_Business_Administration

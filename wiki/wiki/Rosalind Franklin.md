@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wiki](https://en.wikipedia.org/wiki/Rosalind_Franklin), 
 
 https://www.pbs.org/wgbh/nova/photo51/

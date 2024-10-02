@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda), 
 #: [[Advaita]], [[hinduism]], [[Vedanta Society of New York]]
 

@@ -16,6 +16,10 @@ SETI News https://x.com/jradavenport/status/1796646953604026423?t=sqp81ow0CDzwZJ
 
 [[PSETI weekly seminar]] 
 
+https://www.youtube.com/@SETIInstitute/playlists
+
+https://www.youtube.com/playlist?list=PLw6IJozmaWbTt2pRHTFS6ySZmSr97-Wcd
+
 [Freeman Dyson’s First Law of SETI Investigations](https://sites.psu.edu/astrowright/2019/07/31/freeman-dysons-first-law-of-seti-investigations/) 
 
 SETI in 20xx by [[Jason Wright]] 
@@ -37,4 +41,6 @@ https://en.wikipedia.org/wiki/Gliese_581c#A_Message_from_Earth
 
 
 https://astrobiology.nasa.gov/news/technosignatures-and-the-search-for-extraterrestrial-intelligence/
+
+checkout 1984 conference proceedings https://link.springer.com/book/10.1007/978-94-009-5462-5 
 

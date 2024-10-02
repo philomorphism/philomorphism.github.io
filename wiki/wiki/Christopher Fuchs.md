@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [umb](https://www.umb.edu/directory/christopherfuchs/), [scholar](https://scholar.google.com/citations?user=fe9uXzkAAAAJ&hl=en), 
 #: [[quantum mechanics]], [[quantum bayesianism]] 
 

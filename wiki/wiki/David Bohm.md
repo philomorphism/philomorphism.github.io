@@ -1,4 +1,4 @@
-#people 
+#person 
 read most of his works.
 
 books:

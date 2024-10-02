@@ -9,4 +9,8 @@ article {
 	margin-bottom: 18px;
 	border-image-slice: 1;
 	border-image-source: linear-gradient(to bottom, #7223B9, #D6893C);
-	}
+}
+
+.dataview.list-view-ul {
+	list-style-type: decimal !important;
+}

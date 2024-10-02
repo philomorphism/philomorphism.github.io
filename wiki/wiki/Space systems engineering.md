@@ -1,8 +1,16 @@
-#: [[systems engineering]], [[category theory]]
+#: [[systems engineering]], [[category theory]], [[space systems]] 
+
+https://ep.jhu.edu/programs/space-systems-engineering/courses/
 
 https://spacese.spacegrant.org/
 
+https://github.com/saylordotorg/course_sse101
+
 Checkout MIT stuff
+https://ocw.mit.edu/courses/16-89j-space-systems-engineering-spring-2007/
+
+https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)
+
 
 https://www.spacesystemsengineering.com/
 

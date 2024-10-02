@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://profiles.stanford.edu/robert-sapolsky), [wikipedia](https://en.wikipedia.org/wiki/Robert_Sapolsky), [stanford](https://profiles.stanford.edu/robert-sapolsky) 
 #: [[free-will]], [[life]], [[Consciousness]], [[neurology]], [[biology]], [[psychology]], [[depression]] 
 

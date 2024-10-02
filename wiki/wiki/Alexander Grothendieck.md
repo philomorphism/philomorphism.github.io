@@ -1,4 +1,4 @@
-#people 
+#person 
 
 ofc read his biography but start from this [AMS Notice](http://www.ams.org/notices/201009/rtx100901106p.pdf).
 here's a documentary on him: [youtube](https://www.youtube.com/watch?v=sGzVHQniIiE)

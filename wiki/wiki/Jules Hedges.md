@@ -1,4 +1,4 @@
-#people 
+#person 
 
 src: [homepage](https://julesh.com/) [thesis](https://julesh.com/2018/01/16/towards-compositional-game-theory/#more-1268) 
 

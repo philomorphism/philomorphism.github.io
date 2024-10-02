@@ -22,6 +22,6 @@ https://www.linkventures.com
 https://tatatransformation.smapply.io
 https://www.longview.org
 https://givingpledge.org
-
+https://www.gf.org (?)
 https://aigrant.org
 

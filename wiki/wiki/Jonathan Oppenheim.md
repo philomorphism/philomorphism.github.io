@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://www.ucl.ac.uk/oppenheim/), [wikipedia](https://en.wikipedia.org/wiki/Jonathan_Oppenheim), [twitter](https://twitter.com/postquantum), [google-scholar](https://scholar.google.com/citations?user=ZsQ57r8AAAAJ) 
 #: [[Theory of Everything]], [[physics]], [[Quantum Gravity]], [[quantum information]], [[quantum mechanics]], [[third law of thermodynamics]] 
 

@@ -14,3 +14,6 @@ there are bunch of dualities in math/sci. (some of the things mentioned here are
 [wiki](https://en.wikipedia.org/wiki/Duality_(mathematics)) 
 [tweet](https://twitter.com/prathyvsh/status/1476588998625828865?s=20)
 
+
+https://x.com/getjonwithit/status/1832842063768867176
+

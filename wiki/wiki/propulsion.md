@@ -4,3 +4,9 @@ https://www.goodreads.com/book/show/6271526-frontiers-of-propulsion-science
 
 https://caseyhandmer.wordpress.com/2024/08/18/antimatter-is-the-best-post-chemical-rocket-propulsion-system/
 
+entry: [[Future Spacecraft Propulsion Systems; Enabling Technologies for Space Exploration]] 
+
+https://astro-mechanica.vercel.app
+
+https://leap71.com/rp/
+

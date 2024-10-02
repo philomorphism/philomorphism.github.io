@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://objectionable.net/), [philpeople](https://philpeople.org/profiles/c-thi-nguyen), [scholar](https://scholar.google.com/citations?user=Rzc_uBIAAAAJ&hl=en), [bell-labs](https://bell-labs.co/who/cafuchs/) 
 #: [[philosophy]], [[game theory]] 
 

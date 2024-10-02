@@ -1,0 +1,1 @@
+it's about the orbit of the earth not the spin.

@@ -1,4 +1,4 @@
-#people 
+#person 
 
 src: [site](https://matteocapucci.wordpress.com)
 

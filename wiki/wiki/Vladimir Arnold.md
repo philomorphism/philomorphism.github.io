@@ -1,4 +1,7 @@
-#people 
+#person 
+src:
+#: [[symplectic geometry]], [[contact geometry]] 
+
 oh, btw, don't forget the man who brought you back into math in the first place! 
 
 read all of his works. understanding his works in the intersection of physics (specifically classical mechanics) and mathematics (specifically differential geometry with a flavor of groups and all that) is the ultimate goal for me, at least for next few years.

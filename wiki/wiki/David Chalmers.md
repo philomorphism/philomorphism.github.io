@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [homepage](https://consc.net).
 
 #: [[philosophy]], [[Consciousness]], [[Mind]], [[Mind-Body Problem]]

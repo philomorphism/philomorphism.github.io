@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[Poetry]] 
 
 https://en.wikipedia.org/wiki/Andal

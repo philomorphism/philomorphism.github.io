@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://www.bernardokastrup.com)
 #: [[Consciousness]]
 

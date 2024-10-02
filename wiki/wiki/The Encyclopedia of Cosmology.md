@@ -1,0 +1,3 @@
+#encyclopedia  
+src: [set1-site](https://www.worldscientific.com/worldscibooks/10.1142/13694#t=toc), [set2-site](https://www.worldscientific.com/worldscibooks/10.1142/13578#t=aboutBook), [[The Encyclopedia of Cosmology Set 2 Frontiers in Cosmology Volume 1 Modified Gravity (Claudia de Rham, Andrew J. Tolley) (Z-Library).pdf|local-set2-vol1]], [[The Encyclopedia of Cosmology Set 2 Frontiers in Cosmology Volume 2 Neutrino Physics and Astrophysics (Giovanni G Fazio  Floyd W Stecker) (Z-Library).pdf|local-set2-vol2]], [[The Encyclopedia of Cosmology Set 2 Frontiers in CosmologyVolume 3 Black Holes (Giovanni G Fazio  Zoltan Haiman) (Z-Library).pdf|local-set2-vol3]] 
+#: [[astrophysics]], [[World Scientific Series in Astrophysics]] 

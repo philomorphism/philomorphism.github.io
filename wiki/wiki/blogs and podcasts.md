@@ -8,4 +8,5 @@ I lost my collection of blogs and podcasts I was following through rss feed in v
 1. https://www.mercatus.org/podcasts ([[Tyler Cowen]], [[Shruti Rajagopalan]] et al)
 2. https://explorerspodcast.com 
 3. http://rationallyspeakingpodcast.org ([[Julia Galef]]) 
-4. 
+4. https://www.thespaceshow.com
+5. https://www.manifold1.com

@@ -18,3 +18,9 @@ src: [happy hour episode](https://econhappyhour.substack.com/p/what-should-high-
 
 
 I'd like to get into this kind of stuff: https://arxiv.org/abs/2104.02131
+
+macro economics syllabus: https://docs.google.com/document/d/1Tq_wXAsj4fWCw-DWsrRD43ciQ0kIKZseQ8V4s3m1JqU/edit
+
+
+is there anything novel here? https://theportal.wiki/wiki/Gauge_Theory_of_Economics
+

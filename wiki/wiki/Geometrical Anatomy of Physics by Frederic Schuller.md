@@ -2,6 +2,10 @@
 src: [youtube](https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic&pp=iAQB)
 @: [[Frederic Schuller]]
 
+https://theportal.wiki/wiki/Geometry
+https://drive.google.com/file/d/1nchF1fRGSY3R3rP1QmjUg7fe28tAS428/view
+
+
 1. Axiomatic [[Set Theory]] 1-3
 2. [[Topological Space]]s 4-6
 3. [[Topological Manifolds]] and Bundles 6

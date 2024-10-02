@@ -25,3 +25,7 @@ the following are the languages i am learning:
 
 
 btw, [[Gujarati]] has some good literature too, and an encyclopedia!!!
+
+
+https://rosettaproject.org
+

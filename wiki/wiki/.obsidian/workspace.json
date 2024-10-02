@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae79bf87029e00c7",
+        "id": "c52615da12701c66",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2a4206681bead6",
+            "id": "6b6552b054d5b6a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -46,8 +46,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.50390243530273,
-    "collapsed": true
+    "width": 330.50390243530273
   },
   "right": {
     "id": "4bc9098ca0e4ecf2",
@@ -88,18 +87,15 @@
             }
           },
           {
-            "id": "932e887bd75de798",
+            "id": "d2eaae9e6bf0d278",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           },
           {
-            "id": "c4fe425c22fadedb",
+            "id": "1582a72179f652e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -115,15 +111,17 @@
             }
           },
           {
-            "id": "d2eaae9e6bf0d278",
+            "id": "d9fb1db640ddd14b",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,47 +141,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ba2a4206681bead6",
+  "active": "6b6552b054d5b6a0",
   "lastOpenFiles": [
-    "William H Batchelder.md",
-    "Water Margin, Shui Hu Zhuan.md",
-    "vision; A Computational Investigation into the Human Representation and Processing of Visual Information.md",
-    "vision.md",
-    "Ursula K. Le Guin.md",
-    "unification.md",
-    "typing.md",
-    "Turing Award.md",
-    "topos.md",
-    "topology.md",
-    "Thomas Arthur Rickard.md",
-    "Thinking; Fast and Slow.md",
-    "theatre.md",
-    "the wow signal.md",
-    "The Wind's Twelve Quarters.md",
-    "The Scholars, Ru Lin Wai Shi.md",
-    "The Plum in the Golden Vase, Jin Ping Mei.md",
-    "The Mistress of Spices.md",
-    "The Lies that Bind; Rethinking Identity.md",
-    "The Ĝ Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. II. Framework, Strategy, and First Result.md",
-    "The Fermi Paradox and the Aurora Effect; Exo-civilization Settlement, Expansion and Steady States.md",
-    "Ted Chiang.md",
-    "Techno-Optimist Manifesto.md",
-    "systems innovation.md",
-    "Susan Sontag.md",
-    "Stuart Russell.md",
-    "wiki-files/handout1.pdf",
-    "wiki-files/1985IAUS..112..497K",
-    "wiki-files/Unconfirmed 977470.crdownload",
-    "wiki-files/(The University of Arizona Space Science Series) Victoria Meadows, Giada Arney, Britney Schmidt, David J. Des Marais (eds.) - Planetary Astrobiology-University of Arizona Press (2020).pdf",
-    "wiki-files/Stuart Russell_ Peter Norvig - Artificial Intelligence_ A Modern Approach-Pearson Higher Education (2019).pdf",
-    "wiki-files/Stuart Russell_ Peter Norvig - Artificial Intelligence_ A Modern Approach-Pearson Higher Education (2019).pdf.crdownload",
-    "wiki-files/1408.1134v1.pdf",
-    "Pasted image 20240829082707.png",
-    "wiki-files/1408.1133v1.pdf",
-    "wiki-files/1975QJRAS..16..128H.pdf",
-    "wiki-files/1902.04450v2.pdf",
-    "analysis_E&A.canvas",
+    "zotero.md",
+    "Zoo Hypothesis.md",
+    "Zhuangzi by Zhuangzi.md",
+    "zettelkasten.md",
+    "zero-sum games.md",
+    "Yvonne Choquet-Bruhat.md",
+    "Yuri Milner.md",
+    "Yuri Manin.md",
+    "Yoshihiro Maruyama.md",
+    "yoneda lemma.md",
+    "Yeast.md",
+    "xAI.md",
+    "Wu–Yang dictionary.md",
+    "WTF star.md",
+    "World Scientific Series in Astrophysics.md",
+    "word embedding.md",
+    "Woodruff Sullivan.md",
+    "Woodpeckers and Diamonds; Some Aspects of Evolutionary Convergence in Astrobiology.md",
+    "womb.md",
+    "Wolfgang Smith.md",
+    "Wojciech H. Zurek.md",
+    "Wöhler synthesis.md",
+    "Winter school on Gravity and Light 2015.md",
+    "William Woodin.md",
+    "William Paley.md",
+    "William Lawvere.md",
+    "wiki-files/Sean Carroll - The biggest ideas in the universe-Penguin (2022).pdf",
+    "wiki-files/Sean Carroll - The biggest ideas in the universe-Penguin (2022).pdf.crdownload",
+    "wiki-files/The Biggest Ideas in the Universe 2 Quanta and Fields (Sean Carroll) (Z-Library).epub",
+    "wiki-files/Unconfirmed 355774.crdownload",
+    "wiki-files/Ayn Rand & Leonard Peikoff - Philosophy_ Who Needs It-Signet_Penguin (2014).epub",
+    "wiki-files/The Objectivist Newsletter, 1962 (Ayn Rand) (Z-Library).pdf",
+    "wiki-files/Objectivist Newsletter, 1964-1965 (Vols. 3-4) with TOC for Vols. 1-4 (Ayn Rand, Nathaniel Branden, et al.) (Z-Library).pdf",
+    "wiki-files/Objectivist Newsletter, 1964-1965 (Vols. 3-4) with TOC for Vols. 1-4 (Ayn Rand, Nathaniel Branden, et al.) (Z-Library).pdf.crdownload",
+    "wiki-files/Objectivist Newsletter, Volume 2, 1963 (Ayn Rand) (Z-Library).pdf",
+    "wiki-files/2104.05099v2.pdf",
     "Pasted image 20240311053451.png",
+    "Pasted image 20240829082707.png",
+    "analysis_E&A.canvas",
     "Pasted image 20240307223748.png",
     "Pasted image 20230607161644.png",
     "Pasted image 20230625165921.png",

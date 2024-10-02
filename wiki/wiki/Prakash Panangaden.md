@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://www.cs.mcgill.ca/~prakash/)
 #: [[Programming Language Theory]], [[Duality Theory]]
 ^: [tweet](https://twitter.com/prathyvsh/status/1678697134621880326), [tweet2](https://twitter.com/burakemir/status/1680144825390190592) 

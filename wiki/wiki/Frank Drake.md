@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Frank_Drake) 
 
 biography? https://www.goodreads.com/book/show/461629.Is_Anyone_Out_There_The_Scientific_Search_for_Extraterrestrial_Intelligence 

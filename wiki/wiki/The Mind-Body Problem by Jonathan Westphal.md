@@ -1,5 +1,5 @@
 #book 
-src: [goodreads]()
+src: [goodreads](https://www.goodreads.com/book/show/29889543-the-mind-body-problem) 
 @: [[Jonathan Westphal]]
 #: [[Mind-Body Problem]], [[philosophy]], [[Consciousness]], [[Mind]], [[neuroscience]]
 

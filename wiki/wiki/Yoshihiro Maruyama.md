@@ -1,4 +1,4 @@
-#people 
+#person 
 this person seems to be aligned VERY much towards my way of life and knowledge and stuff. I'm particularly interested in their [[duality]] stuff. read their works as much as possible!
 
 their [thesis](https://ora.ox.ac.uk/objects/uuid:440a291d-7533-493d-b5aa-f6db30ca03cf).

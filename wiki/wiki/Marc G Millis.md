@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [goodreads](https://www.goodreads.com/author/show/2851639.Marc_G_Millis), 
 #: [[Aerospace Engineering]], [[interstellar exploration]], [[propulsion]], [[Breakthrough Propulsion Physics Program]] 
 

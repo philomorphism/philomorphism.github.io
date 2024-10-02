@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Simon_Saunders) 
 #: [[philosophy of physics]], [[philosophy of science]], [[quantum mechanics]] 
 

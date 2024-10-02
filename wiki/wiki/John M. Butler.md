@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[Forensic DNA Analysis]]
 
 books:

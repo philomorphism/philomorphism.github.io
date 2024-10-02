@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Raphael_Bousso) 
 #: [[cosmology]], [[theoretical physics]] 
 

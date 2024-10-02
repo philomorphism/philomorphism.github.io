@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://pinchen.fan) 
 #: [[SETI]], [[astrobiology]], [[astrophysics]], [[Astronomy]], [[radioastronomy]], [[technosignature]] 
 

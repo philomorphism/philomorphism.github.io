@@ -1,5 +1,5 @@
 #book 
-src: [goodreads](https://www.goodreads.com/book/show/121825913-the-road-to-general-intelligence?ac=1&from_search=true&qid=kFraTA4so0&rank=1) 
+src: [goodreads](https://www.goodreads.com/book/show/121825913-the-road-to-general-intelligence?ac=1&from_search=true&qid=kFraTA4so0&rank=1), [[(Studies In Computational Intelligence _ 1049) Jerry Swan, Eric Nivel, Neel Kant, Jules Hedges, Timothy Atkinson, Bas Steunebrink - The Road To General Intelligence-Springer (2022).pdf|local]] 
 #: [[Artificial Intelligence]], [[machine learning]], [[deep learning]], [[Consciousness]], [[Intelligence]], [[learning]], [[compositionality]], [[polynomial functor]], [[optics]], [[intelligent systems]]
 @: [[Jules Hedges]]
 

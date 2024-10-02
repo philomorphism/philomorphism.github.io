@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Stuart_J._Russell), [site](https://people.eecs.berkeley.edu/~russell/), [goodreads](https://www.goodreads.com/author/show/1046726.Stuart_Russell) 
 #: [[computer science]], [[Artificial Intelligence]] 
 

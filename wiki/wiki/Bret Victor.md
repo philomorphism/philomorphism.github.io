@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [twitter](https://twitter.com/worrydream), [site](https://worrydream.com), [dynamicland](https://dynamicland.org) 
 #: [[tools for thought]] 
 

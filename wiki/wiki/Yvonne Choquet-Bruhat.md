@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/Yvonne_Choquet-Bruhat), [goodreads](https://www.goodreads.com/author/show/1192487.Yvonne_Choquet_Bruhat) 
 
 

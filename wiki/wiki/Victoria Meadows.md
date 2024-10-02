@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[astrobiology]], [[SETI]] 
 src: [x.com](https://x.com/abvsm), [washingtonuni](https://astro.washington.edu/people/victoria-meadows) 
 

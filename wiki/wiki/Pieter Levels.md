@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](https://levels.io/blog/), [twitter](https://x.com/levelsio) 
 
 his book: https://readmake.com

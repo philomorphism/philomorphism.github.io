@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wiki](https://en.wikipedia.org/wiki/Daniel_Dennett), [goodreads](https://www.goodreads.com/author/show/6952980.Daniel_C_Dennett) 
 #: [[philosophy]], [[cognitive science ]] 
 

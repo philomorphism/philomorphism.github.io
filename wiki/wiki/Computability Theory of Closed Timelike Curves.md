@@ -5,7 +5,7 @@ src: [arxiv](https://arxiv.org/abs/1609.05507)
 problem 1: long computation?
 problem 2: [[grandfather paradox]] (this is not a paradox, everything is consistent)
 
-[[Quantum mechanics near closed timelike lines]] proposes that if CTC exists we should think of it as a region of [[space-time]] where nature is forced to find a fixed point for whatever the evolution operators is acting there. 
+[[Quantum mechanics near closed timelike lines]] proposes that if CTC exists we should think of it as a region of [[spacetime]] where nature is forced to find a fixed point for whatever the evolution operators is acting there. 
 
 multiple fixed point could exist! e.g.
 grandfather anti-paradox: back in time, introduce young grandfather to young grandmother.

@@ -1,0 +1,1 @@
+#: [[sidereal time]], [[solar time]] 

@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [wikipedia](https://en.wikipedia.org/wiki/N._David_Mermin) 
 
 [my tweet](https://twitter.com/XinYaanZyoy/status/1562446951450558466) 

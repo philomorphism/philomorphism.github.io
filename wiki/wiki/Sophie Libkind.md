@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[computation]], [[dynamical system]], [[category theory]]
 src: [site](https://slibkind.github.io), [topos talk](https://www.youtube.com/watch?v=RA6F9KWAnUg), [topos intro](https://www.youtube.com/watch?v=ONvc_4gwqfU&t=10s), [arxiv](https://arxiv.org/search/cs?searchtype=author&query=Libkind,+S) 
 

@@ -1,4 +1,4 @@
-#people 
+#person 
 src: [site](http://www.susansontag.com), [wikipedia](https://en.wikipedia.org/wiki/Susan_Sontag), 
 
 ## Quotes

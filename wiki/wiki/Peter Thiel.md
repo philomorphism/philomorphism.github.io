@@ -1,4 +1,4 @@
-#people 
+#person 
 #: [[entrepreneurship]] 
 
 listen to:

@@ -199,7 +199,7 @@ an organism takes in a lot of information from the surrounding, processes it, an
 
 I am loving this quote:
 > "the parts of a living body exist for the sake of the whole being, and
-that the whole being exists for the sake of its parts" - [[Emmanuel Kant]] 
+that the whole being exists for the sake of its parts" - [[Immanuel Kant]] 
 
 paul claims biology is a science where it makes sense to talk about [[purpose]], as opposed to [[physics]], why?
 
@@ -263,7 +263,7 @@ learn how [[Information]] is processed at each level of the biological organizat
 we still do not know why the population of insects is falling.
 
 ### Changing the World
-How does [[Anaesthesia]] work? is it really related to [[Consciousness]]? why is there [[Potassium]] in it? why was it infused into [[heart]]? How do the machines that take the role of a lung and a heart work? do [[antibiotic]]s always work? are they only used for [[bacteria]]l infection? is there any other way to deal with bacterial infection? what's used for the viral infection? fungal infection? worms? [[parasite]]s? [[pestilence]]s?
+How does [[Anesthesia]] work? is it really related to [[Consciousness]]? why is there [[Potassium]] in it? why was it infused into [[heart]]? How do the machines that take the role of a lung and a heart work? do [[antibiotic]]s always work? are they only used for [[bacteria]]l infection? is there any other way to deal with bacterial infection? what's used for the viral infection? fungal infection? worms? [[parasite]]s? [[pestilence]]s?
 
 what is a [[vaccine]]?
 

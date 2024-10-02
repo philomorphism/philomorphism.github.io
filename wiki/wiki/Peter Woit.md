@@ -1,7 +1,5 @@
-#people 
-
-[[mathematical physics]]
-[[Mathematics]]
+#person 
+#: [[mathematical physics]], [[Mathematics]], [[twistor theory]] 
 
 
 to read:

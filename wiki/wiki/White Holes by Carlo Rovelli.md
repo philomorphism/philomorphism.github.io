@@ -52,7 +52,7 @@ a beautiful summary of relativity of time (on which i should read later in [[Rea
 5. **17-18 CE:** [[Issac Newton]] works out the theory of gravity, stating that the familiar gravity of terrestrial objects applies to the celestial objects too, and that a force can act from a distance. ([[spooky-action-at-a-distance]])
    *i think [[Gottfried Wilhelm Leibniz]] didn't like this and opposed it as being a religion or something, that it presumes the existence of non-physical thing mediating the physical objects and their forces.*
 6. **19 CE:** this "non-physical" thing was then imagined by [[Michael Faraday]] in [[Electricity and Magnetism]] as being "[[physical field]]". [[James Clerk Maxwell]] builds a [[mathematical model]] of this idea and concludes that there is a lag between the cause and effect of forces, and that time it takes is that of light.
-7. **20 CE:** [[Albert Einstein]] tries to find similar model for the [[gravitational field]], and the concept of [[space-time]] emerges in [[General relativity]].
+7. **20 CE:** [[Albert Einstein]] tries to find similar model for the [[gravitational field]], and the concept of [[spacetime]] emerges in [[General relativity]].
 
 mass slows down time in the vicinity, as a result things fall! i don't really see the argument here that makes sense without math (I ain't no Einstein) which carlo mentions is as follows: slowing of time is equivalent to distortions in spacetime which then guides a particle in a certain [[stationary path]] which to our eyes feels/looks like the particle is falling down!
 #### Chapter I.4
@@ -202,7 +202,7 @@ The last line of the following quote would be celebrated in the Indian religious
 
 **Thus answering the fourth question**
 
-Carlo mentions [[Emmanuel Kant]] by saying that direction of time is an a priori condition for the consciousness. Knowledge is a natural phenomenon of natural beings whose senses and thoughts are macroscopic phenomenon depending on the direction of time.
+Carlo mentions [[Immanuel Kant]] by saying that direction of time is an a priori condition for the consciousness. Knowledge is a natural phenomenon of natural beings whose senses and thoughts are macroscopic phenomenon depending on the direction of time.
 
 Just wow!! 😲
 

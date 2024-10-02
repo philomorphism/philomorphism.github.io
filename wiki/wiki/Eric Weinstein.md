@@ -1,4 +1,4 @@
-#people 
+#person 
 
 you know if you do.
 

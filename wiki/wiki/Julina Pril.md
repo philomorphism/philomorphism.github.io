@@ -1,4 +1,4 @@
-#people 
+#person 
 aka: Julina Pletziger
 src: [youtube1](https://www.youtube.com/@julinapril), [youtube2](https://www.youtube.com/@julinapletziger2155), [goodreads](https://www.goodreads.com/author/show/45976379.Julina_Pril), [filmmakers](https://www.filmmakers.eu/en/actors/julina-pril), [spotify](https://open.spotify.com/user/hsg48oxa6w7xk4ncbpns1wvvh) 
 #: [[psychology]], [[theatre]]
