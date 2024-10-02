@@ -25,7 +25,7 @@
   "addSearchBar": true,
   "addGraphView": true,
   "addTitle": true,
-  "addRSSFeed": true,
+  "addRSSFeed": false,
   "siteURL": "https://philomorphism.github.io/wiki/",
   "authorName": "Parth Patel",
   "vaultTitle": "wiki",
